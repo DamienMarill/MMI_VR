@@ -1666,3 +1666,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.09-18.32.39:935][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.02.09-18.32.39:939][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
 [2020.02.09-18.32.40:003][554]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.02.09-18.42.37:919][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.02.09-18.42.37:919][534]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/salle_infographie/Map_infographie' took 0.022
+[2020.02.09-18.42.37:921][534]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/salle_progra/assets/frame/picture_frames] ([1] browsable assets)...
+[2020.02.09-18.42.37:935][534]OBJ SavePackage:     Rendered thumbnail for [Material /Game/salle_progra/assets/frame/picture_frames.picture_frames]
+[2020.02.09-18.42.37:935][534]OBJ SavePackage: Finished generating thumbnails for package [/Game/salle_progra/assets/frame/picture_frames]
+[2020.02.09-18.42.37:966][534]LogSavePackage: Moving '../../../../../../Users/mmi/Documents/Unreal Projects/MMI_VR/Saved/picture_frames_Auto454DA5912447703E917D8D18EBD154D3B.tmp' to '../../../../../../Users/mmi/Documents/Unreal Projects/MMI_VR/Saved/Autosaves/Game/salle_progra/assets/frame/picture_frames_Auto4.uasset'
+[2020.02.09-18.42.37:967][534]LogFileHelpers: Auto-saving content packages took 0.047
