@@ -6873,3 +6873,1176 @@ Please see Output Log for details.
 [2020.02.09-18.48.00:545][538]LogFileHelpers: Saving map 'Map_com' took 0.180
 [2020.02.09-18.48.00:548][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/salle_com/Map_com_BuiltData" FILE="../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Content/salle_com/Map_com_BuiltData.uasset" SILENT=true
 [2020.02.09-18.48.00:700][538]LogSavePackage: Moving '../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Saved/Map_com_BuiltDataE1D4EF4842B40B8C793B70A23E359EE9.tmp' to '../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Content/salle_com/Map_com_BuiltData.uasset'
+[2020.02.09-18.48.17:277][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.12.32:265][156]LogEditorViewport: Clicking on Actor (LMB): BP_Classic_Commode_C (BP_Classic_Commode)
+[2020.02.09-19.12.34:458][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.12.54:834][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.13.08:324][313]Cmd: TRANSACTION UNDO
+[2020.02.09-19.13.08:324][313]LogEditorTransaction: Undo Rotate Actors
+[2020.02.09-19.13.15:726][755]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-19.13.43:069][395]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-19.13.49:417][776]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2020.02.09-19.13.53:423][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.14.09:698][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.14.09:822][999]MapCheck: New page: Map Check
+[2020.02.09-19.14.09:844][999]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.09-19.14.09:844][999]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.09-19.14.09:852][999]LogWorld: UWorld::CleanupWorld for Map_com, bSessionEnded=true, bCleanupResources=false
+[2020.02.09-19.14.09:894][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.02.09-19.14.09:926][999]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.14.09:940][999]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2020.02.09-19.14.09:940][999]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.02.09-19.14.09:940][999]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.14.09:957][999]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.02.09-19.14.09:957][999]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.02.09-19.14.09:957][999]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.14.09:966][999]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2020.02.09-19.14.09:999][999]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2020.02.09-19.14.09:999][999]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.02.09-19.14.09:999][999]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 38
+[2020.02.09-19.14.09:999][999]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 37
+[2020.02.09-19.14.09:999][999]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.14.10:021][999]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.14.10:035][999]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.14.10:049][999]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.14.10:063][999]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.14.10:073][999]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.14.10:084][999]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.14.10:095][999]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.14.10:107][999]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.14.10:121][999]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.14.10:164][999]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.14.10:176][999]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.14.10:197][999]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.14.10:208][999]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.14.10:217][999]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.14.10:225][999]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.14.10:243][999]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 70
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 69
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 68
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 67
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 66
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 65
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 64
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 63
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 62
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 61
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 60
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 59
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 58
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 57
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 56
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 55
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 54
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 53
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 52
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 51
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 50
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 49
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 48
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 47
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 46
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 45
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 44
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 43
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 42
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 41
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 40
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 39
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 38
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 37
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 36
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 35
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 34
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 33
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 32
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 31
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 30
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 29
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 28
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 27
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2020.02.09-19.14.12:722][999]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2020.02.09-19.14.12:723][999]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2020.02.09-19.14.12:723][999]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 22
+[2020.02.09-19.14.12:723][999]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 21
+[2020.02.09-19.14.12:723][999]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2020.02.09-19.14.12:723][999]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2020.02.09-19.14.12:723][999]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2020.02.09-19.14.12:723][999]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2020.02.09-19.14.12:723][999]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2020.02.09-19.14.12:723][999]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2020.02.09-19.14.12:723][999]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2020.02.09-19.14.12:723][999]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2020.02.09-19.14.12:723][999]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2020.02.09-19.14.12:723][999]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2020.02.09-19.14.12:723][999]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2020.02.09-19.14.12:723][999]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.02.09-19.14.12:723][999]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2020.02.09-19.14.12:723][999]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2020.02.09-19.14.12:723][999]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2020.02.09-19.14.12:723][999]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2020.02.09-19.14.12:723][999]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2020.02.09-19.14.12:723][999]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2020.02.09-19.14.12:723][999]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.02.09-19.14.12:723][999]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.02.09-19.14.12:723][999]TextureStreamingBuild: Display: Compiling optional shaders took 2.800 seconds.
+[2020.02.09-19.14.12:759][999]LogLevel: Display: Export Material TexCoord Scales took 0.036 seconds.
+[2020.02.09-19.14.12:791][999]TextureStreamingBuild: Display: Build Texture Streaming took 0.032 seconds.
+[2020.02.09-19.14.12:816][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.02.09-19.14.12:816][999]LightingResults: New page: Lighting Build - 9 févr. 2020 21:14:12
+[2020.02.09-19.14.12:825][999]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.09-19.14.12:827][999]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.09-19.14.12:828][999]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.09-19.14.12:828][999]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.09-19.14.12:828][999]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14500
+[2020.02.09-19.14.17:412][999]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.09-19.14.17:412][999]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.09-19.14.17:412][999]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.09-19.14.17:412][999]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.09-19.14.17:412][999]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.09-19.14.17:549][999]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.02.09-19.14.17:549][999]MapCheck: New page: Map_com - 9 févr. 2020 21:14:17
+[2020.02.09-19.14.17:550][999]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2020.02.09-19.14.17:550][999]MapCheck: Warning: book3_32 Static mesh actor has NULL StaticMesh property 
+[2020.02.09-19.14.17:550][999]MapCheck: Warning: book9_50 Static mesh actor has NULL StaticMesh property 
+[2020.02.09-19.14.17:550][999]MapCheck: Warning: book_5 Static mesh actor has NULL StaticMesh property 
+[2020.02.09-19.14.17:550][999]MapCheck: Map check complete: 1 Error(s), 3 Warning(s), took 0,628ms to complete.
+[2020.02.09-19.14.17:552][999]LogEditorBuildUtils: Build time 0:07
+[2020.02.09-19.14.17:559][999]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-19.14.17:725][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.02.09-19.14.26:567][485]Job is a success!
+[2020.02.09-19.14.26:649][486]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2020.02.09-19.14.26:649][486]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.02.09-19.14.26:649][486]LogVolumetricLightmapImport:      BrickData 70x5x5 = 0.1Mb
+[2020.02.09-19.14.26:649][486]LogVolumetricLightmapImport:      Bricks at Level
+[2020.02.09-19.14.26:650][486]LogVolumetricLightmapImport:          0: 7.1% covering 100.0% of volume
+[2020.02.09-19.14.26:650][486]LogVolumetricLightmapImport:          1: 7.1% covering 1.6% of volume
+[2020.02.09-19.14.26:650][486]LogVolumetricLightmapImport:          2: 85.7% covering 0.3% of volume
+[2020.02.09-19.14.27:185][486]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.02.09-19.14.27:185][486]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.02.09-19.14.27:185][486]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.02.09-19.14.27:185][486]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.02.09-19.14.27:185][486]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2020.02.09-19.14.27:185][486]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2020.02.09-19.14.27:275][486]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (BGRA8, 32X32)
+[2020.02.09-19.14.27:275][486]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (BGRA8, 512X512)
+[2020.02.09-19.14.27:275][486]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (BGRA8, 1024X512)
+[2020.02.09-19.14.27:286][486]LogStaticLightingSystem: Map_com_BuiltData storing lightmap data for 41 meshes in 4 LightmapResourceClusters (10.3 Meshes per cluster).
+[2020.02.09-19.14.27:314][486]Lightmass on DESKTOP-2LFQF9B: 9.18 sec total, 245 ms importing, 70 ms setup, 2.79 sec photons, 6.04 sec processing, 0 ms extra exporting [87/87 mappings]. Threads: 1:06 min total, 23.2 sec processing.
+[2020.02.09-19.14.27:317][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.02.09-19.14.27:327][486]LogStaticLightingSystem: Illumination: 14.4 sec (447 ms encoding lightmaps, 84 ms encoding shadowmaps)
+[2020.02.09-19.14.27:327][486]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (2.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2020.02.09-19.14.27:327][486]LogStaticLightingSystem: Shadowmap texture memory: 4.0 MB (2.7 MB streaming, 1.3 MB non-streaming), 3 textures
+[2020.02.09-19.14.27:426][486]DumpUnbuiltLightIteractions
+[2020.02.09-19.14.27:426][486]Lights with unbuilt interactions: 0
+[2020.02.09-19.14.27:426][486]
+[2020.02.09-19.14.27:426][486]Primitives with unbuilt interactions: 0
+[2020.02.09-19.14.27:442][486]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-19.14.27:472][487]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.09-19.14.27:472][487]MapCheck: New page: Map_com - 9 févr. 2020 21:14:27
+[2020.02.09-19.14.27:473][487]MapCheck: Warning: book3_32 Static mesh actor has NULL StaticMesh property 
+[2020.02.09-19.14.27:473][487]MapCheck: Warning: book9_50 Static mesh actor has NULL StaticMesh property 
+[2020.02.09-19.14.27:473][487]MapCheck: Warning: book_5 Static mesh actor has NULL StaticMesh property 
+[2020.02.09-19.14.27:473][487]MapCheck: Map check complete: 0 Error(s), 3 Warning(s), took 0,617ms to complete.
+[2020.02.09-19.14.37:905][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.14.38:025][119]LogSlate: Window 'Message Log' being destroyed
+[2020.02.09-19.14.38:032][119]LogSlate: Window 'Message Log' being destroyed
+[2020.02.09-19.14.45:735][582]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Commode)
+[2020.02.09-19.14.47:647][694]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-19.14.47:684][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.02.09-19.14.47:808][694]LogSavePackage: Moving '../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Saved/Map_com_Auto830FFEF70424D1F64DC85928651AD707E.tmp' to '../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Saved/Autosaves/Game/salle_com/Map_com_Auto8.umap'
+[2020.02.09-19.14.47:811][694]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/salle_com/Map_com' took 0.151
+[2020.02.09-19.14.47:811][694]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.151
+[2020.02.09-19.16.55:859][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.17.08:611][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.17.08:733][146]MapCheck: New page: Map Check
+[2020.02.09-19.17.08:758][146]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.09-19.17.08:759][146]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.09-19.17.08:765][146]LogWorld: UWorld::CleanupWorld for Map_com, bSessionEnded=true, bCleanupResources=false
+[2020.02.09-19.17.08:806][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.02.09-19.17.08:840][146]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.17.08:854][146]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2020.02.09-19.17.08:854][146]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.02.09-19.17.08:854][146]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.17.08:872][146]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.02.09-19.17.08:872][146]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.02.09-19.17.08:872][146]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.17.08:880][146]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2020.02.09-19.17.08:912][146]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2020.02.09-19.17.08:912][146]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.02.09-19.17.08:912][146]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 38
+[2020.02.09-19.17.08:912][146]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 37
+[2020.02.09-19.17.08:912][146]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.17.08:935][146]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.17.08:949][146]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.17.08:963][146]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.17.08:974][146]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.17.08:987][146]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.17.08:997][146]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.17.09:009][146]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.17.09:021][146]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.17.09:030][146]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.17.09:069][146]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.17.09:082][146]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.17.09:101][146]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.17.09:116][146]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.17.09:127][146]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.17.09:137][146]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.17.09:155][146]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 70
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 69
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 68
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 67
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 66
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 65
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 64
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 63
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 62
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 61
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 60
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 59
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 58
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 57
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 56
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 55
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 54
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 53
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 52
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 51
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 50
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 49
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 48
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 47
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 46
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 45
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 44
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 43
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 42
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 41
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 40
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 39
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 38
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 37
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 36
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 35
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 34
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 33
+[2020.02.09-19.17.11:667][146]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 32
+[2020.02.09-19.17.11:668][146]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 31
+[2020.02.09-19.17.11:668][146]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 30
+[2020.02.09-19.17.11:668][146]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 29
+[2020.02.09-19.17.11:668][146]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 28
+[2020.02.09-19.17.11:668][146]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 27
+[2020.02.09-19.17.11:668][146]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 26
+[2020.02.09-19.17.11:668][146]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 25
+[2020.02.09-19.17.11:668][146]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 24
+[2020.02.09-19.17.11:668][146]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 23
+[2020.02.09-19.17.11:668][146]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 22
+[2020.02.09-19.17.11:668][146]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2020.02.09-19.17.11:668][146]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2020.02.09-19.17.11:668][146]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2020.02.09-19.17.11:668][146]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2020.02.09-19.17.11:668][146]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2020.02.09-19.17.11:668][146]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2020.02.09-19.17.11:668][146]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.02.09-19.17.11:668][146]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2020.02.09-19.17.11:668][146]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2020.02.09-19.17.11:668][146]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2020.02.09-19.17.11:668][146]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2020.02.09-19.17.11:668][146]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2020.02.09-19.17.11:668][146]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2020.02.09-19.17.11:668][146]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2020.02.09-19.17.11:668][146]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2020.02.09-19.17.11:668][146]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2020.02.09-19.17.11:668][146]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2020.02.09-19.17.11:668][146]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2020.02.09-19.17.11:668][146]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.02.09-19.17.11:668][146]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.02.09-19.17.11:668][146]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.02.09-19.17.11:668][146]TextureStreamingBuild: Display: Compiling optional shaders took 2.831 seconds.
+[2020.02.09-19.17.11:704][146]LogLevel: Display: Export Material TexCoord Scales took 0.036 seconds.
+[2020.02.09-19.17.11:734][146]TextureStreamingBuild: Display: Build Texture Streaming took 0.029 seconds.
+[2020.02.09-19.17.11:758][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.02.09-19.17.11:758][146]LightingResults: New page: Lighting Build - 9 févr. 2020 21:17:11
+[2020.02.09-19.17.11:763][146]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.09-19.17.11:765][146]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.09-19.17.11:765][146]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.09-19.17.11:766][146]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.09-19.17.11:766][146]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14500
+[2020.02.09-19.17.16:311][146]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.09-19.17.16:311][146]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.09-19.17.16:311][146]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.09-19.17.16:311][146]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.09-19.17.16:311][146]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.09-19.17.16:443][146]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.02.09-19.17.16:443][146]MapCheck: New page: Map_com - 9 févr. 2020 21:17:16
+[2020.02.09-19.17.16:443][146]MapCheck: Warning: book3_32 Static mesh actor has NULL StaticMesh property 
+[2020.02.09-19.17.16:443][146]MapCheck: Warning: book9_50 Static mesh actor has NULL StaticMesh property 
+[2020.02.09-19.17.16:443][146]MapCheck: Warning: book_5 Static mesh actor has NULL StaticMesh property 
+[2020.02.09-19.17.16:444][146]MapCheck: Map check complete: 0 Error(s), 3 Warning(s), took 0,557ms to complete.
+[2020.02.09-19.17.16:445][146]LogEditorBuildUtils: Build time 0:07
+[2020.02.09-19.17.16:455][146]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-19.17.16:617][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.02.09-19.17.25:649][661]Job is a success!
+[2020.02.09-19.17.25:734][663]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.006s
+[2020.02.09-19.17.25:734][663]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.02.09-19.17.25:734][663]LogVolumetricLightmapImport:      BrickData 70x5x5 = 0.1Mb
+[2020.02.09-19.17.25:734][663]LogVolumetricLightmapImport:      Bricks at Level
+[2020.02.09-19.17.25:734][663]LogVolumetricLightmapImport:          0: 7.1% covering 100.0% of volume
+[2020.02.09-19.17.25:734][663]LogVolumetricLightmapImport:          1: 7.1% covering 1.6% of volume
+[2020.02.09-19.17.25:734][663]LogVolumetricLightmapImport:          2: 85.7% covering 0.3% of volume
+[2020.02.09-19.17.26:268][663]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.02.09-19.17.26:268][663]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.02.09-19.17.26:268][663]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.02.09-19.17.26:268][663]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.02.09-19.17.26:268][663]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2020.02.09-19.17.26:268][663]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2020.02.09-19.17.26:362][663]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (BGRA8, 32X32)
+[2020.02.09-19.17.26:362][663]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (BGRA8, 512X512)
+[2020.02.09-19.17.26:362][663]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (BGRA8, 1024X512)
+[2020.02.09-19.17.26:373][663]LogStaticLightingSystem: Map_com_BuiltData storing lightmap data for 43 meshes in 4 LightmapResourceClusters (10.8 Meshes per cluster).
+[2020.02.09-19.17.26:399][663]Lightmass on DESKTOP-2LFQF9B: 9.39 sec total, 249 ms importing, 70 ms setup, 2.76 sec photons, 6.28 sec processing, 0 ms extra exporting [80/80 mappings]. Threads: 1:09 min total, 23.3 sec processing.
+[2020.02.09-19.17.26:402][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.02.09-19.17.26:414][663]LogStaticLightingSystem: Illumination: 14.6 sec (443 ms encoding lightmaps, 87 ms encoding shadowmaps)
+[2020.02.09-19.17.26:414][663]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (2.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2020.02.09-19.17.26:414][663]LogStaticLightingSystem: Shadowmap texture memory: 4.0 MB (2.7 MB streaming, 1.3 MB non-streaming), 3 textures
+[2020.02.09-19.17.27:328][663]DumpUnbuiltLightIteractions
+[2020.02.09-19.17.27:328][663]Lights with unbuilt interactions: 0
+[2020.02.09-19.17.27:328][663]
+[2020.02.09-19.17.27:328][663]Primitives with unbuilt interactions: 0
+[2020.02.09-19.17.27:344][663]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-19.17.27:379][664]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.09-19.17.27:379][664]MapCheck: New page: Map_com - 9 févr. 2020 21:17:27
+[2020.02.09-19.17.27:380][664]MapCheck: Warning: book3_32 Static mesh actor has NULL StaticMesh property 
+[2020.02.09-19.17.27:380][664]MapCheck: Warning: book9_50 Static mesh actor has NULL StaticMesh property 
+[2020.02.09-19.17.27:380][664]MapCheck: Warning: book_5 Static mesh actor has NULL StaticMesh property 
+[2020.02.09-19.17.27:380][664]MapCheck: Map check complete: 0 Error(s), 3 Warning(s), took 0,685ms to complete.
+[2020.02.09-19.17.39:285][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.17.39:449][387]LogSlate: Window 'Message Log' being destroyed
+[2020.02.09-19.17.39:457][387]LogSlate: Window 'Message Log' being destroyed
+[2020.02.09-19.17.44:516][691]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Commode)
+[2020.02.09-19.17.47:214][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.18.56:069][980]LogEditorViewport: Clicking on Actor (LMB): BP_Classic_Commode_C (BP_Classic_Commode)
+[2020.02.09-19.24.57:443][658]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-19.24.57:482][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.02.09-19.24.57:608][658]LogSavePackage: Moving '../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Saved/Map_com_Auto9AD0A4E934BF3C3E8E700BD8F5823B2AA.tmp' to '../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Saved/Autosaves/Game/salle_com/Map_com_Auto9.umap'
+[2020.02.09-19.24.57:611][658]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/salle_com/Map_com' took 0.155
+[2020.02.09-19.24.57:611][658]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.155
+[2020.02.09-19.34.57:778][665]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-19.34.57:816][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.02.09-19.34.57:816][665]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/salle_com/Map_com' took 0.025
+[2020.02.09-19.43.02:479][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.44.16:742][194]LogActorFactory: Actor Factory created SM_CupB
+[2020.02.09-19.44.19:128][337]LogActorFactory: Actor Factory created SM_CupB
+[2020.02.09-19.44.20:806][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.44.21:036][449]LogActorFactory: Actor Factory created SM_CupB
+[2020.02.09-19.44.23:330][587]LogActorFactory: Actor Factory created SM_CupB
+[2020.02.09-19.44.24:520][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.44.24:691][667]LogActorFactory: Actor Factory created SM_CupB
+[2020.02.09-19.44.27:254][821]LogActorFactory: Actor Factory created SM_CupB
+[2020.02.09-19.44.28:787][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CupB)
+[2020.02.09-19.45.00:009][782]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-19.45.00:063][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.02.09-19.45.00:186][782]LogSavePackage: Moving '../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Saved/Map_com_Auto092F779E641E9E41F068A269AD706D83F.tmp' to '../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Saved/Autosaves/Game/salle_com/Map_com_Auto0.umap'
+[2020.02.09-19.45.00:188][782]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/salle_com/Map_com' took 0.152
+[2020.02.09-19.45.00:188][782]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.152
+[2020.02.09-19.55.00:673][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.02.09-19.55.00:673][261]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/salle_com/Map_com' took 0.026
+[2020.02.09-20.05.01:198][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.02.09-20.05.01:198][ 57]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/salle_com/Map_com' took 0.025
+[2020.02.09-20.15.01:596][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-20.15.01:596][852]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/salle_com/Map_com' took 0.024
+[2020.02.09-20.25.02:159][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-20.25.02:160][648]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/salle_com/Map_com' took 0.024
+[2020.02.09-20.35.02:679][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.02.09-20.35.02:679][444]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/salle_com/Map_com' took 0.024
+[2020.02.09-20.45.03:357][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.02.09-20.45.03:357][240]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/salle_com/Map_com' took 0.023
+[2020.02.09-20.55.03:897][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.02.09-20.55.03:897][ 36]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/salle_com/Map_com' took 0.024
+[2020.02.09-21.04.29:932][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-21.04.42:449][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stool)
+[2020.02.09-21.05.17:437][572]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-21.05.17:473][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.02.09-21.05.17:598][572]LogSavePackage: Moving '../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Saved/Map_com_Auto1D8BD01D3461AC62A0DAEAB833BF148FA.tmp' to '../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Saved/Autosaves/Game/salle_com/Map_com_Auto1.umap'
+[2020.02.09-21.05.17:601][572]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/salle_com/Map_com' took 0.150
+[2020.02.09-21.05.17:601][572]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.150
+[2020.02.09-21.15.17:811][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-21.15.17:873][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.02.09-21.15.17:873][ 27]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/salle_com/Map_com' took 0.035
+[2020.02.09-21.25.18:222][843]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-21.25.18:282][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.02.09-21.25.18:282][843]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/salle_com/Map_com' took 0.036
+[2020.02.09-21.30.38:342][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-21.35.18:724][941]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-21.35.18:786][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.02.09-21.35.18:961][941]LogSavePackage: Moving '../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Saved/Map_com_Auto2132F3056436F304AAC2CA2B52B5248D9.tmp' to '../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Saved/Autosaves/Game/salle_com/Map_com_Auto2.umap'
+[2020.02.09-21.35.18:969][941]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/salle_com/Map_com' took 0.216
+[2020.02.09-21.35.18:969][941]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.216
+[2020.02.09-21.45.44:885][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.02.09-21.45.44:885][323]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/salle_com/Map_com' took 0.036
+[2020.02.09-21.55.45:317][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.02.09-21.55.45:317][148]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/salle_com/Map_com' took 0.032
+[2020.02.09-22.05.45:739][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.02.09-22.05.45:739][971]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/salle_com/Map_com' took 0.032
+[2020.02.09-22.13.41:873][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-22.15.46:094][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.02.09-22.15.46:094][857]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/salle_com/Map_com' took 0.031
+[2020.02.09-22.17.43:431][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CoffeeTable)
+[2020.02.09-22.17.44:213][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CupB3)
+[2020.02.09-22.17.47:484][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-22.18.05:648][953]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CupB)
+[2020.02.09-22.18.06:747][988]Cmd: DELETE
+[2020.02.09-22.18.06:747][988]Cmd: ACTOR DELETE
+[2020.02.09-22.18.06:750][988]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.09-22.18.06:783][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.02.09-22.18.06:783][988]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.02.09-22.18.08:181][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CupB2)
+[2020.02.09-22.18.08:581][ 42]Cmd: DELETE
+[2020.02.09-22.18.08:581][ 42]Cmd: ACTOR DELETE
+[2020.02.09-22.18.08:583][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.09-22.18.08:616][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.02.09-22.18.08:617][ 42]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2020.02.09-22.18.10:282][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CupB3)
+[2020.02.09-22.18.13:881][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-22.18.20:568][382]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-22.19.32:238][918]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-22.19.40:530][415]Cmd: EDIT COPY
+[2020.02.09-22.19.41:379][466]Cmd: EDIT PASTE
+[2020.02.09-22.19.44:816][672]Cmd: EDIT PASTE
+[2020.02.09-22.20.05:602][917]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Armchair)
+[2020.02.09-22.20.16:227][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_sofa_2)
+[2020.02.09-22.20.19:441][744]Cmd: EDIT COPY
+[2020.02.09-22.20.20:581][813]Cmd: EDIT PASTE
+[2020.02.09-22.20.23:153][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-22.20.31:389][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-22.20.34:572][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Armchair2)
+[2020.02.09-22.20.36:617][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-22.23.26:044][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-22.23.27:693][ 37]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stool)
+[2020.02.09-22.23.31:770][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Armchair2)
+[2020.02.09-22.23.40:331][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_sofa_3)
+[2020.02.09-22.23.51:089][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stool)
+[2020.02.09-22.23.54:610][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Armchair2)
+[2020.02.09-22.23.55:672][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Old_Chair)
+[2020.02.09-22.24.02:161][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Armchair2)
+[2020.02.09-22.24.11:428][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_sofa_2)
+[2020.02.09-22.24.13:952][795]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-22.24.21:577][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Armchair)
+[2020.02.09-22.24.29:347][718]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_sofa_2)
+[2020.02.09-22.24.45:876][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_sofa_2)
+[2020.02.09-22.24.54:769][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Armchair)
+[2020.02.09-22.25.02:882][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Armchair2)
+[2020.02.09-22.25.15:602][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stool)
+[2020.02.09-22.25.28:884][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-22.25.38:173][842]LogEditorViewport: Clicking Background
+[2020.02.09-22.25.48:798][478]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-22.26.17:960][227]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-22.26.18:002][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.02.09-22.26.18:128][227]LogSavePackage: Moving '../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Saved/Map_com_Auto3E278F5CB4041B43400DA899D353BB0FB.tmp' to '../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Saved/Autosaves/Game/salle_com/Map_com_Auto3.umap'
+[2020.02.09-22.26.18:131][227]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/salle_com/Map_com' took 0.159
+[2020.02.09-22.26.18:131][227]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.159
+[2020.02.09-22.36.18:417][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.02.09-22.36.18:418][ 37]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/salle_com/Map_com' took 0.036
+[2020.02.09-22.42.09:863][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-22.46.19:098][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.02.09-22.46.19:098][292]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/salle_com/Map_com' took 0.032
+[2020.02.09-22.46.28:194][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-22.46.28:426][431]MapCheck: New page: Map Check
+[2020.02.09-22.46.28:559][431]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.09-22.46.28:561][431]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.09-22.46.28:628][431]LogWorld: UWorld::CleanupWorld for Map_com, bSessionEnded=true, bCleanupResources=false
+[2020.02.09-22.46.28:687][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.02.09-22.46.28:742][431]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.46.28:760][431]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2020.02.09-22.46.28:760][431]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.02.09-22.46.28:760][431]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.46.28:788][431]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.02.09-22.46.28:788][431]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.02.09-22.46.28:788][431]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.46.28:806][431]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2020.02.09-22.46.28:806][431]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.02.09-22.46.28:806][431]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2020.02.09-22.46.28:857][431]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 38
+[2020.02.09-22.46.28:857][431]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 37
+[2020.02.09-22.46.28:857][431]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.46.28:894][431]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.46.28:914][431]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.46.28:932][431]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.46.28:949][431]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.46.28:967][431]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.46.28:983][431]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.46.28:999][431]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.46.29:015][431]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.46.29:031][431]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.46.29:084][431]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.46.29:099][431]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.46.29:129][431]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.46.29:145][431]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.46.29:160][431]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.46.29:174][431]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.46.29:197][431]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.46.32:609][431]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 70
+[2020.02.09-22.46.32:609][431]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 69
+[2020.02.09-22.46.32:609][431]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 68
+[2020.02.09-22.46.32:609][431]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 67
+[2020.02.09-22.46.32:609][431]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 66
+[2020.02.09-22.46.32:609][431]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 65
+[2020.02.09-22.46.32:609][431]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 64
+[2020.02.09-22.46.32:609][431]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 63
+[2020.02.09-22.46.32:609][431]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 62
+[2020.02.09-22.46.32:609][431]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 61
+[2020.02.09-22.46.32:609][431]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 60
+[2020.02.09-22.46.32:609][431]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 59
+[2020.02.09-22.46.32:609][431]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 58
+[2020.02.09-22.46.32:609][431]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 57
+[2020.02.09-22.46.32:609][431]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 56
+[2020.02.09-22.46.32:609][431]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 55
+[2020.02.09-22.46.32:609][431]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 54
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 53
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 52
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 51
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 50
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 49
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 48
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 47
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 46
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 45
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 44
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 43
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 42
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 41
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 40
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 39
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 38
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 37
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 36
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 35
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 34
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 33
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 32
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 31
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 30
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 29
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 28
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 26
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2020.02.09-22.46.32:610][431]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.02.09-22.46.32:611][431]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.02.09-22.46.32:611][431]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.02.09-22.46.32:611][431]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.02.09-22.46.32:611][431]TextureStreamingBuild: Display: Compiling optional shaders took 3.872 seconds.
+[2020.02.09-22.46.32:662][431]LogLevel: Display: Export Material TexCoord Scales took 0.052 seconds.
+[2020.02.09-22.46.32:709][431]TextureStreamingBuild: Display: Build Texture Streaming took 0.045 seconds.
+[2020.02.09-22.46.32:741][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.02.09-22.46.32:741][431]LightingResults: New page: Lighting Build - 10 févr. 2020 00:46:32
+[2020.02.09-22.46.32:748][431]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.09-22.46.32:751][431]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.09-22.46.32:751][431]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.09-22.46.32:752][431]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.09-22.46.32:752][431]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14500
+[2020.02.09-22.46.37:335][431]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.09-22.46.37:335][431]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.09-22.46.37:335][431]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.09-22.46.37:335][431]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.09-22.46.37:335][431]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.09-22.46.37:543][431]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.02.09-22.46.37:543][431]MapCheck: New page: Map_com - 10 févr. 2020 00:46:37
+[2020.02.09-22.46.37:558][431]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2020.02.09-22.46.37:559][431]MapCheck: Warning: book3_32 Static mesh actor has NULL StaticMesh property 
+[2020.02.09-22.46.37:559][431]MapCheck: Warning: book9_50 Static mesh actor has NULL StaticMesh property 
+[2020.02.09-22.46.37:559][431]MapCheck: Warning: book_5 Static mesh actor has NULL StaticMesh property 
+[2020.02.09-22.46.37:559][431]MapCheck: Map check complete: 1 Error(s), 3 Warning(s), took 16,2ms to complete.
+[2020.02.09-22.46.37:562][431]LogEditorBuildUtils: Build time 0:09
+[2020.02.09-22.46.37:995][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.02.09-22.46.42:126][493]LogSlate: Window 'Message Log' being destroyed
+[2020.02.09-22.46.42:235][493]LogSlate: Window 'Message Log' being destroyed
+[2020.02.09-22.46.50:829][737]Job is a success!
+[2020.02.09-22.46.50:986][738]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-22.46.51:062][738]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2020.02.09-22.46.51:062][738]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.02.09-22.46.51:062][738]LogVolumetricLightmapImport:      BrickData 70x5x5 = 0.1Mb
+[2020.02.09-22.46.51:062][738]LogVolumetricLightmapImport:      Bricks at Level
+[2020.02.09-22.46.51:062][738]LogVolumetricLightmapImport:          0: 7.1% covering 100.0% of volume
+[2020.02.09-22.46.51:062][738]LogVolumetricLightmapImport:          1: 7.1% covering 1.6% of volume
+[2020.02.09-22.46.51:062][738]LogVolumetricLightmapImport:          2: 85.7% covering 0.3% of volume
+[2020.02.09-22.46.51:936][738]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.02.09-22.46.51:936][738]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.02.09-22.46.51:936][738]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.02.09-22.46.51:936][738]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.02.09-22.46.51:936][738]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 256X256)
+[2020.02.09-22.46.51:936][738]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 256X256)
+[2020.02.09-22.46.51:936][738]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2020.02.09-22.46.51:936][738]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2020.02.09-22.46.52:076][738]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (BGRA8, 32X32)
+[2020.02.09-22.46.52:076][738]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (BGRA8, 512X512)
+[2020.02.09-22.46.52:076][738]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (BGRA8, 1024X512)
+[2020.02.09-22.46.52:090][738]Lightmass on DESKTOP-2LFQF9B: 13.4 sec total, 368 ms importing, 98 ms setup, 3.88 sec photons, 9.09 sec processing, 0 ms extra exporting [87/87 mappings]. Threads: 1:40 min total, 37.4 sec processing.
+[2020.02.09-22.46.52:160][738]LogStaticLightingSystem: Map_com_BuiltData storing lightmap data for 50 meshes in 6 LightmapResourceClusters (8.3 Meshes per cluster).
+[2020.02.09-22.46.52:232][738]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.02.09-22.46.52:253][738]LogStaticLightingSystem: Illumination: 19.4 sec (716 ms encoding lightmaps, 130 ms encoding shadowmaps)
+[2020.02.09-22.46.52:253][738]LogStaticLightingSystem: Lightmap texture memory:  4.1 MB (2.1 MB streaming, 2.0 MB non-streaming), 8 textures
+[2020.02.09-22.46.52:253][738]LogStaticLightingSystem: Shadowmap texture memory: 4.0 MB (2.7 MB streaming, 1.3 MB non-streaming), 3 textures
+[2020.02.09-22.46.52:338][738]DumpUnbuiltLightIteractions
+[2020.02.09-22.46.52:338][738]Lights with unbuilt interactions: 0
+[2020.02.09-22.46.52:338][738]
+[2020.02.09-22.46.52:338][738]Primitives with unbuilt interactions: 0
+[2020.02.09-22.46.52:370][738]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-22.46.52:447][739]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.09-22.46.52:448][739]MapCheck: New page: Map_com - 10 févr. 2020 00:46:52
+[2020.02.09-22.46.52:448][739]MapCheck: Warning: book3_32 Static mesh actor has NULL StaticMesh property 
+[2020.02.09-22.46.52:448][739]MapCheck: Warning: book9_50 Static mesh actor has NULL StaticMesh property 
+[2020.02.09-22.46.52:449][739]MapCheck: Warning: book_5 Static mesh actor has NULL StaticMesh property 
+[2020.02.09-22.46.52:449][739]MapCheck: Map check complete: 0 Error(s), 3 Warning(s), took 1,397ms to complete.
+[2020.02.09-22.47.22:994][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-22.47.37:147][223]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-22.47.53:781][722]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-22.48.12:929][666]LogEditorViewport: Clicking on Actor (LMB): BP_Classic_Commode_C (BP_Classic_Commode)
+[2020.02.09-22.48.23:652][986]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-22.48.29:461][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-22.48.29:526][131]MapCheck: New page: Map Check
+[2020.02.09-22.48.29:662][131]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.09-22.48.29:662][131]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.09-22.48.29:728][131]LogWorld: UWorld::CleanupWorld for Map_com, bSessionEnded=true, bCleanupResources=false
+[2020.02.09-22.48.29:782][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.02.09-22.48.29:841][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.48.29:859][131]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2020.02.09-22.48.29:859][131]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.02.09-22.48.29:859][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.48.29:888][131]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.02.09-22.48.29:888][131]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.02.09-22.48.29:888][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.48.29:909][131]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2020.02.09-22.48.29:909][131]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.02.09-22.48.29:909][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2020.02.09-22.48.29:961][131]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 38
+[2020.02.09-22.48.29:961][131]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 37
+[2020.02.09-22.48.29:961][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.48.29:994][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.48.30:012][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.48.30:032][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.48.30:047][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.48.30:064][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.48.30:079][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.48.30:097][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.48.30:113][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.48.30:132][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.48.30:191][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.48.30:205][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.48.30:233][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.48.30:247][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.48.30:263][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.48.30:278][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.48.30:306][131]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 70
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 69
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 68
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 67
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 66
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 65
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 64
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 63
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 62
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 61
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 60
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 59
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 58
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 57
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 56
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 55
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 54
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 53
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 52
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 51
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 50
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 49
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 48
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 47
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 46
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 45
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 44
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 43
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 42
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 41
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 40
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 39
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 38
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 37
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 36
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 35
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 34
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 33
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 32
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 31
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 30
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 29
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 28
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 27
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 24
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 23
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 22
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 21
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2020.02.09-22.48.33:633][131]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2020.02.09-22.48.33:634][131]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2020.02.09-22.48.33:634][131]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2020.02.09-22.48.33:634][131]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2020.02.09-22.48.33:634][131]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2020.02.09-22.48.33:634][131]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2020.02.09-22.48.33:634][131]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2020.02.09-22.48.33:634][131]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2020.02.09-22.48.33:634][131]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2020.02.09-22.48.33:634][131]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2020.02.09-22.48.33:634][131]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2020.02.09-22.48.33:634][131]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2020.02.09-22.48.33:634][131]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.02.09-22.48.33:634][131]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.02.09-22.48.33:634][131]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.02.09-22.48.33:634][131]TextureStreamingBuild: Display: Compiling optional shaders took 3.797 seconds.
+[2020.02.09-22.48.33:691][131]LogLevel: Display: Export Material TexCoord Scales took 0.057 seconds.
+[2020.02.09-22.48.33:734][131]TextureStreamingBuild: Display: Build Texture Streaming took 0.043 seconds.
+[2020.02.09-22.48.33:765][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-22.48.33:766][131]LightingResults: New page: Lighting Build - 10 févr. 2020 00:48:33
+[2020.02.09-22.48.33:771][131]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.09-22.48.33:775][131]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.09-22.48.33:775][131]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.09-22.48.33:776][131]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.09-22.48.33:776][131]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14500
+[2020.02.09-22.48.38:333][131]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.09-22.48.38:333][131]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.09-22.48.38:333][131]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.09-22.48.38:334][131]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.09-22.48.38:334][131]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.09-22.48.38:484][131]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.02.09-22.48.38:484][131]MapCheck: New page: Map_com - 10 févr. 2020 00:48:38
+[2020.02.09-22.48.38:484][131]MapCheck: Warning: book3_32 Static mesh actor has NULL StaticMesh property 
+[2020.02.09-22.48.38:484][131]MapCheck: Warning: book9_50 Static mesh actor has NULL StaticMesh property 
+[2020.02.09-22.48.38:484][131]MapCheck: Warning: book_5 Static mesh actor has NULL StaticMesh property 
+[2020.02.09-22.48.38:484][131]MapCheck: Map check complete: 0 Error(s), 3 Warning(s), took 0,585ms to complete.
+[2020.02.09-22.48.38:486][131]LogEditorBuildUtils: Build time 0:08
+[2020.02.09-22.48.38:507][131]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-22.48.39:146][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.02.09-22.48.40:710][146]LogSlate: Window 'Message Log' being destroyed
+[2020.02.09-22.48.40:862][146]LogSlate: Window 'Message Log' being destroyed
+[2020.02.09-22.48.48:961][250]Job is a success!
+[2020.02.09-22.48.49:249][251]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-22.48.49:426][251]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2020.02.09-22.48.49:426][251]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.02.09-22.48.49:427][251]LogVolumetricLightmapImport:      BrickData 50x5x5 = 0.0Mb
+[2020.02.09-22.48.49:427][251]LogVolumetricLightmapImport:      Bricks at Level
+[2020.02.09-22.48.49:427][251]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2020.02.09-22.48.49:427][251]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2020.02.09-22.48.49:427][251]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2020.02.09-22.48.50:195][251]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.02.09-22.48.50:195][251]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.02.09-22.48.50:195][251]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.02.09-22.48.50:195][251]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.02.09-22.48.50:195][251]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2020.02.09-22.48.50:195][251]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2020.02.09-22.48.50:195][251]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 64X64)
+[2020.02.09-22.48.50:195][251]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 64X64)
+[2020.02.09-22.48.50:362][251]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (BGRA8, 32X32)
+[2020.02.09-22.48.50:362][251]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (BGRA8, 512X512)
+[2020.02.09-22.48.50:362][251]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (BGRA8, 1024X512)
+[2020.02.09-22.48.50:381][251]Lightmass on DESKTOP-2LFQF9B: 10.6 sec total, 307 ms importing, 98 ms setup, 3.45 sec photons, 6.80 sec processing, 0 ms extra exporting [90/90 mappings]. Threads: 1:14 min total, 24.7 sec processing.
+[2020.02.09-22.48.50:443][251]LogStaticLightingSystem: Map_com_BuiltData storing lightmap data for 48 meshes in 6 LightmapResourceClusters (8.0 Meshes per cluster).
+[2020.02.09-22.48.50:514][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.02.09-22.48.50:534][251]LogStaticLightingSystem: Illumination: 16.5 sec (644 ms encoding lightmaps, 165 ms encoding shadowmaps)
+[2020.02.09-22.48.50:534][251]LogStaticLightingSystem: Lightmap texture memory:  4.1 MB (2.1 MB streaming, 2.0 MB non-streaming), 8 textures
+[2020.02.09-22.48.50:534][251]LogStaticLightingSystem: Shadowmap texture memory: 4.0 MB (2.7 MB streaming, 1.3 MB non-streaming), 3 textures
+[2020.02.09-22.48.51:356][251]DumpUnbuiltLightIteractions
+[2020.02.09-22.48.51:356][251]Lights with unbuilt interactions: 0
+[2020.02.09-22.48.51:356][251]
+[2020.02.09-22.48.51:356][251]Primitives with unbuilt interactions: 0
+[2020.02.09-22.48.51:386][251]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-22.48.51:512][252]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.09-22.48.51:512][252]MapCheck: New page: Map_com - 10 févr. 2020 00:48:51
+[2020.02.09-22.48.51:512][252]MapCheck: Warning: book3_32 Static mesh actor has NULL StaticMesh property 
+[2020.02.09-22.48.51:512][252]MapCheck: Warning: book9_50 Static mesh actor has NULL StaticMesh property 
+[2020.02.09-22.48.51:514][252]MapCheck: Warning: book_5 Static mesh actor has NULL StaticMesh property 
+[2020.02.09-22.48.51:514][252]MapCheck: Map check complete: 0 Error(s), 3 Warning(s), took 1,557ms to complete.
+[2020.02.09-22.49.18:227][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-22.50.08:827][523]Cmd: TRANSACTION UNDO
+[2020.02.09-22.50.08:828][523]LogEditorTransaction: Undo Move Actors
+[2020.02.09-22.50.15:310][672]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.09-22.50.20:010][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-22.50.20:278][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.02.09-22.50.23:088][795]LogSlate: Window 'Save Content' being destroyed
+[2020.02.09-22.50.23:151][795]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-22.50.23:348][795]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-22.50.23:364][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/salle_com/Map_com" FILE="../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Content/salle_com/Map_com.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.09-22.50.23:403][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.02.09-22.50.23:557][795]LogSavePackage: Moving '../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Saved/Map_com2D32332846FF9A50E02A39A5406B469F.tmp' to '../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Content/salle_com/Map_com.umap'
+[2020.02.09-22.50.23:602][795]LogFileHelpers: Saving map 'Map_com' took 0.239
+[2020.02.09-22.50.23:612][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/salle_com/Map_com_BuiltData" FILE="../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Content/salle_com/Map_com_BuiltData.uasset" SILENT=true
+[2020.02.09-22.50.23:808][795]LogSavePackage: Moving '../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Saved/Map_com_BuiltData85941EAD4A7B93CB75CB8785A5308172.tmp' to '../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Content/salle_com/Map_com_BuiltData.uasset'
+[2020.02.09-22.50.28:278][930]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-22.50.28:479][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.02.09-22.50.28:576][935]LogSlate: Window 'MMI_VR - Unreal Editor' being destroyed
+[2020.02.09-22.50.28:770][935]Cmd: QUIT_EDITOR
+[2020.02.09-22.50.29:500][935]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.09-22.50.29:532][935]LogExit: Preparing to exit.
+[2020.02.09-22.50.30:266][935]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.09-22.50.30:267][935]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.02.09-22.50.30:267][935]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.02.09-22.50.30:267][935]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.09-22.50.30:267][935]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.02.09-22.50.30:276][935]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.02.09-22.50.30:295][935]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.09-22.50.30:296][935]LogExit: Editor shut down
+[2020.02.09-22.50.30:296][935]LogExit: Transaction tracking system shut down
+[2020.02.09-22.50.30:721][935]LogExit: Object subsystem successfully closed.
+[2020.02.09-22.50.30:782][935]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.02.09-22.50.30:845][935]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (682)
+[2020.02.09-22.50.30:845][935]LogModuleManager: Shutting down and abandoning module Voice (680)
+[2020.02.09-22.50.30:847][935]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (678)
+[2020.02.09-22.50.30:847][935]LogModuleManager: Shutting down and abandoning module MeshBuilder (676)
+[2020.02.09-22.50.30:847][935]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (674)
+[2020.02.09-22.50.30:847][935]LogModuleManager: Shutting down and abandoning module SceneOutliner (672)
+[2020.02.09-22.50.30:847][935]LogModuleManager: Shutting down and abandoning module AddContentDialog (670)
+[2020.02.09-22.50.30:847][935]LogModuleManager: Shutting down and abandoning module WidgetCarousel (669)
+[2020.02.09-22.50.30:847][935]LogModuleManager: Shutting down and abandoning module EditorWidgets (666)
+[2020.02.09-22.50.30:847][935]LogModuleManager: Shutting down and abandoning module CollectionManager (664)
+[2020.02.09-22.50.30:847][935]LogModuleManager: Shutting down and abandoning module StatsViewer (662)
+[2020.02.09-22.50.30:847][935]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (660)
+[2020.02.09-22.50.30:847][935]LogModuleManager: Shutting down and abandoning module FoliageEdit (658)
+[2020.02.09-22.50.30:847][935]LogModuleManager: Shutting down and abandoning module LandscapeEditor (656)
+[2020.02.09-22.50.30:847][935]LogModuleManager: Shutting down and abandoning module MeshPaintMode (654)
+[2020.02.09-22.50.30:847][935]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (652)
+[2020.02.09-22.50.30:847][935]LogModuleManager: Shutting down and abandoning module ActorPickerMode (650)
+[2020.02.09-22.50.30:847][935]LogModuleManager: Shutting down and abandoning module GeometryMode (648)
+[2020.02.09-22.50.30:847][935]LogModuleManager: Shutting down and abandoning module TextureAlignMode (646)
+[2020.02.09-22.50.30:847][935]LogModuleManager: Shutting down and abandoning module BspMode (644)
+[2020.02.09-22.50.30:847][935]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (642)
+[2020.02.09-22.50.30:847][935]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (640)
+[2020.02.09-22.50.30:847][935]LogModuleManager: Shutting down and abandoning module AutomationWorker (638)
+[2020.02.09-22.50.30:847][935]LogModuleManager: Shutting down and abandoning module OculusMR (636)
+[2020.02.09-22.50.30:847][935]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (634)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (632)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (630)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module PlacementMode (629)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module MaterialEditor (628)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (624)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (622)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (620)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (618)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (616)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module WebMMedia (614)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (612)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (610)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module SequenceRecorder (609)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (606)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (604)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (602)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (600)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (598)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (596)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (594)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (592)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (590)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (588)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (586)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module CharacterAI (584)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module SmartSnapping (582)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module SessionServices (580)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module MeshPaint (578)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module ViewportSnapping (576)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module ViewportInteraction (574)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module ClothPainter (572)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (571)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module LogVisualizer (568)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module IntroTutorials (566)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (565)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (562)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (560)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (558)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (556)
+[2020.02.09-22.50.30:848][935]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (555)
+[2020.02.09-22.50.31:336][935]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (552)
+[2020.02.09-22.50.31:336][935]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (550)
+[2020.02.09-22.50.31:336][935]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (548)
+[2020.02.09-22.50.31:336][935]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (546)
+[2020.02.09-22.50.31:336][935]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (544)
+[2020.02.09-22.50.31:336][935]LogModuleManager: Shutting down and abandoning module InputBindingEditor (542)
+[2020.02.09-22.50.31:336][935]LogModuleManager: Shutting down and abandoning module MergeActors (540)
+[2020.02.09-22.50.31:336][935]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (538)
+[2020.02.09-22.50.31:336][935]LogModuleManager: Shutting down and abandoning module LocalizationService (537)
+[2020.02.09-22.50.31:336][935]LogModuleManager: Shutting down and abandoning module HardwareTargeting (534)
+[2020.02.09-22.50.31:336][935]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (532)
+[2020.02.09-22.50.31:336][935]LogModuleManager: Shutting down and abandoning module UndoHistory (530)
+[2020.02.09-22.50.31:336][935]LogModuleManager: Shutting down and abandoning module XmlParser (528)
+[2020.02.09-22.50.31:336][935]LogModuleManager: Shutting down and abandoning module Blutility (526)
+[2020.02.09-22.50.31:336][935]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (524)
+[2020.02.09-22.50.31:336][935]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (523)
+[2020.02.09-22.50.31:336][935]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (520)
+[2020.02.09-22.50.31:336][935]LogModuleManager: Shutting down and abandoning module SettingsEditor (518)
+[2020.02.09-22.50.31:336][935]LogModuleManager: Shutting down and abandoning module ProjectLauncher (516)
+[2020.02.09-22.50.31:336][935]LogModuleManager: Shutting down and abandoning module SessionFrontend (514)
+[2020.02.09-22.50.31:336][935]LogModuleManager: Shutting down and abandoning module ProfilerClient (512)
+[2020.02.09-22.50.31:336][935]LogModuleManager: Shutting down and abandoning module DeviceManager (510)
+[2020.02.09-22.50.31:336][935]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (509)
+[2020.02.09-22.50.31:379][935]LogModuleManager: Shutting down and abandoning module AutomationController (506)
+[2020.02.09-22.50.31:379][935]LogModuleManager: Shutting down and abandoning module AutomationWindow (504)
+[2020.02.09-22.50.31:379][935]LogModuleManager: Shutting down and abandoning module Layers (502)
+[2020.02.09-22.50.31:379][935]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (500)
+[2020.02.09-22.50.31:379][935]LogModuleManager: Shutting down and abandoning module DetailCustomizations (498)
+[2020.02.09-22.50.31:379][935]LogModuleManager: Shutting down and abandoning module PackagesDialog (496)
+[2020.02.09-22.50.31:379][935]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (494)
+[2020.02.09-22.50.31:379][935]LogModuleManager: Shutting down and abandoning module Persona (492)
+[2020.02.09-22.50.31:379][935]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (491)
+[2020.02.09-22.50.31:379][935]LogModuleManager: Shutting down and abandoning module AnimGraph (489)
+[2020.02.09-22.50.31:379][935]LogModuleManager: Shutting down and abandoning module Kismet (486)
+[2020.02.09-22.50.31:380][935]LogModuleManager: Shutting down and abandoning module KismetWidgets (485)
+[2020.02.09-22.50.31:380][935]LogModuleManager: Shutting down and abandoning module GraphEditor (482)
+[2020.02.09-22.50.31:380][935]LogModuleManager: Shutting down and abandoning module StructViewer (480)
+[2020.02.09-22.50.31:380][935]LogModuleManager: Shutting down and abandoning module ClassViewer (478)
+[2020.02.09-22.50.31:381][935]LogModuleManager: Shutting down and abandoning module Toolbox (476)
+[2020.02.09-22.50.31:381][935]LogModuleManager: Shutting down and abandoning module ModuleUI (474)
+[2020.02.09-22.50.31:381][935]LogModuleManager: Shutting down and abandoning module MovieSceneTools (472)
+[2020.02.09-22.50.31:381][935]LogModuleManager: Shutting down and abandoning module OutputLog (470)
+[2020.02.09-22.50.31:383][935]LogModuleManager: Shutting down and abandoning module GammaUI (468)
+[2020.02.09-22.50.31:383][935]LogModuleManager: Shutting down and abandoning module Documentation (466)
+[2020.02.09-22.50.31:383][935]LogModuleManager: Shutting down and abandoning module LiveCoding (464)
+[2020.02.09-22.50.31:383][935]LogModuleManager: Shutting down and abandoning module LevelSequence (462)
+[2020.02.09-22.50.31:384][935]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (460)
+[2020.02.09-22.50.31:384][935]LogModuleManager: Shutting down and abandoning module MovieScene (458)
+[2020.02.09-22.50.31:384][935]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (456)
+[2020.02.09-22.50.31:384][935]LogModuleManager: Shutting down and abandoning module LauncherPlatform (454)
+[2020.02.09-22.50.31:384][935]LogModuleManager: Shutting down and abandoning module AnalyticsET (452)
+[2020.02.09-22.50.31:384][935]LogModuleManager: Shutting down and abandoning module PortalServices (450)
+[2020.02.09-22.50.31:384][935]LogModuleManager: Shutting down and abandoning module PortalRpc (448)
+[2020.02.09-22.50.31:384][935]LogModuleManager: Shutting down and abandoning module MessagingRpc (446)
+[2020.02.09-22.50.31:384][935]LogModuleManager: Shutting down and abandoning module AIModule (444)
+[2020.02.09-22.50.31:384][935]LogModuleManager: Shutting down and abandoning module GameplayDebugger (443)
+[2020.02.09-22.50.31:384][935]LogModuleManager: Shutting down and abandoning module AITestSuite (441)
+[2020.02.09-22.50.31:384][935]LogModuleManager: Shutting down and abandoning module NavigationSystem (439)
+[2020.02.09-22.50.31:384][935]LogModuleManager: Shutting down and abandoning module DesktopPlatform (436)
+[2020.02.09-22.50.31:384][935]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (434)
+[2020.02.09-22.50.31:391][935]LogModuleManager: Shutting down and abandoning module ProfilerService (432)
+[2020.02.09-22.50.31:515][935]LogModuleManager: Shutting down and abandoning module TaskGraph (430)
+[2020.02.09-22.50.31:515][935]LogModuleManager: Shutting down and abandoning module PythonEditor (428)
+[2020.02.09-22.50.31:515][935]LogModuleManager: Shutting down and abandoning module UnrealEnginePython (426)
+[2020.02.09-22.50.31:515][935]LogPython: Goodbye Python
+[2020.02.09-22.50.31:567][935]LogModuleManager: Shutting down and abandoning module ScreenshotTools (424)
+[2020.02.09-22.50.31:567][935]LogModuleManager: Shutting down and abandoning module SteamVRController (422)
+[2020.02.09-22.50.31:567][935]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (420)
+[2020.02.09-22.50.31:567][935]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (418)
+[2020.02.09-22.50.31:567][935]LogModuleManager: Shutting down and abandoning module OculusEditor (416)
+[2020.02.09-22.50.31:567][935]LogModuleManager: Shutting down and abandoning module OculusInput (414)
+[2020.02.09-22.50.31:567][935]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (412)
+[2020.02.09-22.50.31:567][935]LogModuleManager: Shutting down and abandoning module EditableMesh (410)
+[2020.02.09-22.50.31:567][935]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (408)
+[2020.02.09-22.50.31:567][935]LogModuleManager: Shutting down and abandoning module CableComponent (406)
+[2020.02.09-22.50.31:567][935]LogModuleManager: Shutting down and abandoning module AudioCapture (404)
+[2020.02.09-22.50.31:567][935]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (402)
+[2020.02.09-22.50.31:567][935]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (400)
+[2020.02.09-22.50.31:567][935]LogModuleManager: Shutting down and abandoning module AppleImageUtils (398)
+[2020.02.09-22.50.31:567][935]LogModuleManager: Shutting down and abandoning module AndroidPermission (396)
+[2020.02.09-22.50.31:567][935]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (394)
+[2020.02.09-22.50.31:567][935]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (392)
+[2020.02.09-22.50.31:567][935]LogModuleManager: Shutting down and abandoning module MediaCompositing (390)
+[2020.02.09-22.50.31:568][935]LogModuleManager: Shutting down and abandoning module ImgMedia (388)
+[2020.02.09-22.50.31:568][935]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (386)
+[2020.02.09-22.50.31:568][935]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (384)
+[2020.02.09-22.50.31:568][935]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (382)
+[2020.02.09-22.50.31:568][935]LogModuleManager: Shutting down and abandoning module HTML5Networking (380)
+[2020.02.09-22.50.31:568][935]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (378)
+[2020.02.09-22.50.31:568][935]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (376)
+[2020.02.09-22.50.31:568][935]LogModuleManager: Shutting down and abandoning module BackChannel (374)
+[2020.02.09-22.50.31:568][935]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (372)
+[2020.02.09-22.50.31:568][935]LogModuleManager: Shutting down and abandoning module AutomationUtils (370)
+[2020.02.09-22.50.31:568][935]LogModuleManager: Shutting down and abandoning module AlembicImporter (368)
+[2020.02.09-22.50.31:568][935]LogModuleManager: Shutting down and abandoning module AlembicLibrary (367)
+[2020.02.09-22.50.31:568][935]LogModuleManager: Shutting down and abandoning module GeometryCache (366)
+[2020.02.09-22.50.31:568][935]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (365)
+[2020.02.09-22.50.31:568][935]LogModuleManager: Shutting down and abandoning module VariantManagerContent (360)
+[2020.02.09-22.50.31:568][935]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (358)
+[2020.02.09-22.50.31:568][935]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (356)
+[2020.02.09-22.50.31:568][935]LogModuleManager: Shutting down and abandoning module PluginBrowser (354)
+[2020.02.09-22.50.31:568][935]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (352)
+[2020.02.09-22.50.31:568][935]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (350)
+[2020.02.09-22.50.31:568][935]LogModuleManager: Shutting down and abandoning module CurveEditorTools (348)
+[2020.02.09-22.50.31:568][935]LogModuleManager: Shutting down and abandoning module CurveEditor (347)
+[2020.02.09-22.50.31:568][935]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (344)
+[2020.02.09-22.50.31:568][935]LogModuleManager: Shutting down and abandoning module CryptoKeys (342)
+[2020.02.09-22.50.31:568][935]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (340)
+[2020.02.09-22.50.31:568][935]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (338)
+[2020.02.09-22.50.31:568][935]LogModuleManager: Shutting down and abandoning module UObjectPlugin (336)
+[2020.02.09-22.50.31:568][935]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (334)
+[2020.02.09-22.50.31:568][935]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (332)
+[2020.02.09-22.50.31:568][935]LogModuleManager: Shutting down and abandoning module GitSourceControl (330)
+[2020.02.09-22.50.31:569][935]LogModuleManager: Shutting down and abandoning module SourceControl (329)
+[2020.02.09-22.50.31:569][935]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (326)
+[2020.02.09-22.50.31:569][935]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (324)
+[2020.02.09-22.50.31:569][935]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (322)
+[2020.02.09-22.50.31:569][935]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (320)
+[2020.02.09-22.50.31:569][935]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (318)
+[2020.02.09-22.50.31:569][935]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (316)
+[2020.02.09-22.50.31:569][935]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (314)
+[2020.02.09-22.50.31:569][935]LogModuleManager: Shutting down and abandoning module Paper2DEditor (312)
+[2020.02.09-22.50.31:569][935]LogModuleManager: Shutting down and abandoning module PythonConsole (310)
+[2020.02.09-22.50.31:569][935]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2020.02.09-22.50.31:569][935]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2020.02.09-22.50.31:569][935]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2020.02.09-22.50.31:569][935]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2020.02.09-22.50.31:569][935]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2020.02.09-22.50.31:569][935]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2020.02.09-22.50.31:670][935]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2020.02.09-22.50.31:771][935]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2020.02.09-22.50.31:771][935]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2020.02.09-22.50.31:771][935]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2020.02.09-22.50.31:771][935]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2020.02.09-22.50.31:771][935]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2020.02.09-22.50.31:771][935]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.02.09-22.50.31:771][935]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2020.02.09-22.50.31:771][935]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2020.02.09-22.50.31:771][935]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2020.02.09-22.50.31:771][935]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2020.02.09-22.50.31:771][935]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2020.02.09-22.50.31:771][935]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2020.02.09-22.50.31:771][935]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2020.02.09-22.50.31:771][935]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2020.02.09-22.50.31:817][935]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.09-22.50.31:817][935]LogWindows: Windows GetLastError: L’opération a réussi. (0)
+[2020.02.09-22.50.35:026][935]LogWindows: Error: === Critical error: ===
+[2020.02.09-22.50.35:026][935]LogWindows: Error: 
+[2020.02.09-22.50.35:026][935]LogWindows: Error: Assertion failed: ModuleManager.IsModuleLoaded(ModuleName) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h] [Line: 263] 
+[2020.02.09-22.50.35:026][935]LogWindows: Error: Tried to get module interface for unloaded module: 'ActorPickerMode'
+[2020.02.09-22.50.35:026][935]LogWindows: Error: 
+[2020.02.09-22.50.35:026][935]LogWindows: Error: 
+[2020.02.09-22.50.35:026][935]LogWindows: Error: [Callstack] 0x00007ff987469159 KERNELBASE.dll!UnknownFunction []
+[2020.02.09-22.50.35:026][935]LogWindows: Error: [Callstack] 0x00007ff961a8a367 UE4Editor-Core.dll!UnknownFunction []
+[2020.02.09-22.50.35:026][935]LogWindows: Error: [Callstack] 0x00007ff961a8cbc4 UE4Editor-Core.dll!UnknownFunction []
+[2020.02.09-22.50.35:026][935]LogWindows: Error: [Callstack] 0x00007ff961881ada UE4Editor-Core.dll!UnknownFunction []
+[2020.02.09-22.50.35:026][935]LogWindows: Error: [Callstack] 0x00007ff9617d67a3 UE4Editor-Core.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff9617d6eb0 UE4Editor-Core.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff930ec2bb3 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff930d11340 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ff479ec UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ff367a4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff9610d0076 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ff479ec UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ff367a4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ff47a5c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ff367a4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ff479ec UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ff367a4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ff4396f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ff36ad4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ff369bc UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ff369bc UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ff369bc UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ff479ec UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ff367a4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ff369bc UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff9610d0076 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ff479ec UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ff367a4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ff479ec UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ff367a4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff9612acb33 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff9610d08a5 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:027][935]LogWindows: Error: [Callstack] 0x00007ff95ff369bc UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff95ff369bc UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff9613260d5 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff961321548 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff961322eb9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff95ff369bc UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff95ff4396f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff95ff36ad4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff95ff47a5c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff95ff367a4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff95ff369bc UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff95ff47a5c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff95ff367a4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff9612acb33 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff9610d08a5 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff95ff47a5c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff95ff367a4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff95ff369bc UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff9610d0076 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff95ff369bc UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff95ff4396f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff95ff36ad4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:028][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:029][935]LogWindows: Error: [Callstack] 0x00007ff95ff47a5c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:029][935]LogWindows: Error: [Callstack] 0x00007ff95ff367a4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:029][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:029][935]LogWindows: Error: [Callstack] 0x00007ff95ff369bc UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:029][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:029][935]LogWindows: Error: [Callstack] 0x00007ff9612acb33 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.09-22.50.35:029][935]LogWindows: Error: [Callstack] 0x00007ff9610d08a5 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.09-22.50.35:029][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:029][935]LogWindows: Error: [Callstack] 0x00007ff95ff369bc UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:029][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:029][935]LogWindows: Error: [Callstack] 0x00007ff9612acb33 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.09-22.50.35:029][935]LogWindows: Error: [Callstack] 0x00007ff9610d08a5 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.09-22.50.35:029][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:029][935]LogWindows: Error: [Callstack] 0x00007ff95ff4396f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:029][935]LogWindows: Error: [Callstack] 0x00007ff95ff36ad4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:029][935]LogWindows: Error: [Callstack] 0x00007ff95ffba29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.09-22.50.35:029][935]LogWindows: Error: 
+[2020.02.09-22.50.35:040][935]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.02.09-22.50.35:053][935]Log file closed, 02/09/20 23:50:35
