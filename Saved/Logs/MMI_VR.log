@@ -1655,3 +1655,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.09-18.27.15:050][724]PIE: Play in editor start time for /Game/salle_infographie/UEDPIE_0_Map_infographie -0,566
 [2020.02.09-18.27.15:050][724]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel' has LevelScriptBlueprint '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie' with GeneratedClass '/Game/salle_infographie/Map_infographie.Map_infographie_C' with ClassGeneratedBy '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie'
 [2020.02.09-18.28.43:898][378]LogSavePackage: Moving '../../../../../../Users/mmi/Documents/Unreal Projects/MMI_VR/Saved/SM_Classic_Cupboard_Door_Left4EEE57164FDBEFBA64B8A4BD26DCDBA6.tmp' to '../../../../../../Users/mmi/Documents/Unreal Projects/MMI_VR/Content/FreeFurniturePack/Meshes/SM_Classic_Cupboard_Door_Left.uasset'
+[2020.02.09-18.32.36:841][367]Cmd: SELECT NONE
+[2020.02.09-18.32.38:840][487]Cmd: SELECT NONE
+[2020.02.09-18.32.39:892][550]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel' has LevelScriptBlueprint '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie' with GeneratedClass '/Game/salle_infographie/Map_infographie.Map_infographie_C' with ClassGeneratedBy '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie'
+[2020.02.09-18.32.39:892][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.09-18.32.39:892][550]LogWorld: BeginTearingDown for /Game/salle_infographie/UEDPIE_0_Map_infographie
+[2020.02.09-18.32.39:892][550]LogWorld: UWorld::CleanupWorld for Map_infographie, bSessionEnded=true, bCleanupResources=true
+[2020.02.09-18.32.39:903][550]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.09-18.32.39:903][550]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel' has LevelScriptBlueprint '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie' with GeneratedClass '/Game/salle_infographie/Map_infographie.Map_infographie_C' with ClassGeneratedBy '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie'
+[2020.02.09-18.32.39:935][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.09-18.32.39:939][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.02.09-18.32.40:003][554]LogPlayLevel: Display: Destroying online subsystem :Context_17
