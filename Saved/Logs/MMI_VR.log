@@ -676,3 +676,256 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.09-17.15.52:950][238]LogEditorTransaction: Undo Select Brush Surface
 [2020.02.09-17.15.53:482][269]Cmd: TRANSACTION UNDO
 [2020.02.09-17.15.53:482][269]LogEditorTransaction: Undo Move Actors
+[2020.02.09-17.24.27:004][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.02.09-17.24.27:004][276]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/salle_infographie/Map_infographie' took 0.022
+[2020.02.09-17.25.44:613][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-17.25.44:713][556]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.09-17.25.44:731][556]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel' has LevelScriptBlueprint '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie' with GeneratedClass '/Game/salle_infographie/Map_infographie.Map_infographie_C' with ClassGeneratedBy '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie'
+[2020.02.09-17.25.44:731][556]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.09-17.25.44:732][556]PIE: New page: PIE session: Map_infographie (9 févr. 2020 19:25:44)
+[2020.02.09-17.25.44:732][556]LogPlayLevel: Creating play world package: /Game/salle_infographie/UEDPIE_0_Map_infographie
+[2020.02.09-17.25.44:745][556]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012780s)
+[2020.02.09-17.25.44:745][556]LogAIModule: Creating AISystem for world Map_infographie
+[2020.02.09-17.25.44:746][556]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2020.02.09-17.25.44:746][556]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/salle_infographie/Map_infographie.Map_infographie to /Game/salle_infographie/UEDPIE_0_Map_infographie.Map_infographie (0.013941s)
+[2020.02.09-17.25.44:768][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.02.09-17.25.44:776][556]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.09-17.25.44:862][556]LogInit: FAudioDevice initialized.
+[2020.02.09-17.25.44:868][556]LogLoad: Game class is 'GameModeBase'
+[2020.02.09-17.25.44:871][556]LogWorld: Bringing World /Game/salle_infographie/UEDPIE_0_Map_infographie.Map_infographie up for play (max tick rate 60) at 2020.02.09-18.25.44
+[2020.02.09-17.25.44:872][556]LogWorld: Bringing up level for play took: 0.002599
+[2020.02.09-17.25.44:872][556]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.02.09-17.25.44:877][556]PIE: Play in editor start time for /Game/salle_infographie/UEDPIE_0_Map_infographie -0,739
+[2020.02.09-17.25.44:882][556]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel' has LevelScriptBlueprint '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie' with GeneratedClass '/Game/salle_infographie/Map_infographie.Map_infographie_C' with ClassGeneratedBy '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie'
+[2020.02.09-17.27.34:375][123]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel' has LevelScriptBlueprint '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie' with GeneratedClass '/Game/salle_infographie/Map_infographie.Map_infographie_C' with ClassGeneratedBy '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie'
+[2020.02.09-17.27.34:376][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.09-17.27.34:376][123]LogWorld: BeginTearingDown for /Game/salle_infographie/UEDPIE_0_Map_infographie
+[2020.02.09-17.27.34:376][123]LogWorld: UWorld::CleanupWorld for Map_infographie, bSessionEnded=true, bCleanupResources=true
+[2020.02.09-17.27.34:387][123]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.09-17.27.34:387][123]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel' has LevelScriptBlueprint '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie' with GeneratedClass '/Game/salle_infographie/Map_infographie.Map_infographie_C' with ClassGeneratedBy '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie'
+[2020.02.09-17.27.34:417][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.09-17.27.34:420][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.02.09-17.27.34:488][127]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.02.09-17.27.36:205][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-17.27.36:288][235]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.09-17.27.36:305][235]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel' has LevelScriptBlueprint '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie' with GeneratedClass '/Game/salle_infographie/Map_infographie.Map_infographie_C' with ClassGeneratedBy '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie'
+[2020.02.09-17.27.36:305][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.09-17.27.36:305][235]PIE: New page: PIE session: Map_infographie (9 févr. 2020 19:27:36)
+[2020.02.09-17.27.36:305][235]LogPlayLevel: Creating play world package: /Game/salle_infographie/UEDPIE_0_Map_infographie
+[2020.02.09-17.27.36:316][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011093s)
+[2020.02.09-17.27.36:317][235]LogAIModule: Creating AISystem for world Map_infographie
+[2020.02.09-17.27.36:317][235]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2020.02.09-17.27.36:317][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/salle_infographie/Map_infographie.Map_infographie to /Game/salle_infographie/UEDPIE_0_Map_infographie.Map_infographie (0.012048s)
+[2020.02.09-17.27.36:340][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.02.09-17.27.36:347][235]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.09-17.27.36:428][235]LogInit: FAudioDevice initialized.
+[2020.02.09-17.27.36:439][235]LogLoad: Game class is 'GameModeBase'
+[2020.02.09-17.27.36:442][235]LogWorld: Bringing World /Game/salle_infographie/UEDPIE_0_Map_infographie.Map_infographie up for play (max tick rate 60) at 2020.02.09-18.27.36
+[2020.02.09-17.27.36:442][235]LogWorld: Bringing up level for play took: 0.002782
+[2020.02.09-17.27.36:443][235]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.02.09-17.27.36:446][235]PIE: Play in editor start time for /Game/salle_infographie/UEDPIE_0_Map_infographie 0,831
+[2020.02.09-17.27.36:446][235]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel' has LevelScriptBlueprint '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie' with GeneratedClass '/Game/salle_infographie/Map_infographie.Map_infographie_C' with ClassGeneratedBy '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie'
+[2020.02.09-17.27.37:493][297]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel' has LevelScriptBlueprint '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie' with GeneratedClass '/Game/salle_infographie/Map_infographie.Map_infographie_C' with ClassGeneratedBy '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie'
+[2020.02.09-17.27.37:493][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.09-17.27.37:494][297]LogWorld: BeginTearingDown for /Game/salle_infographie/UEDPIE_0_Map_infographie
+[2020.02.09-17.27.37:494][297]LogWorld: UWorld::CleanupWorld for Map_infographie, bSessionEnded=true, bCleanupResources=true
+[2020.02.09-17.27.37:506][297]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.09-17.27.37:506][297]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel' has LevelScriptBlueprint '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie' with GeneratedClass '/Game/salle_infographie/Map_infographie.Map_infographie_C' with ClassGeneratedBy '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie'
+[2020.02.09-17.27.37:535][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.09-17.27.37:539][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.02.09-17.27.37:603][301]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.02.09-17.27.47:638][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Curtain_2)
+[2020.02.09-17.27.50:559][ 75]Cmd: DELETE
+[2020.02.09-17.27.50:559][ 75]Cmd: ACTOR DELETE
+[2020.02.09-17.27.50:564][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.09-17.27.50:565][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.09-17.27.50:586][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-17.27.50:587][ 75]LogEditorActor: Deleted 2 Actors (0.027 secs)
+[2020.02.09-17.27.51:978][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-17.27.52:061][164]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.09-17.27.52:079][164]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel' has LevelScriptBlueprint '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie' with GeneratedClass '/Game/salle_infographie/Map_infographie.Map_infographie_C' with ClassGeneratedBy '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie'
+[2020.02.09-17.27.52:079][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.09-17.27.52:079][164]PIE: New page: PIE session: Map_infographie (9 févr. 2020 19:27:52)
+[2020.02.09-17.27.52:080][164]LogPlayLevel: Creating play world package: /Game/salle_infographie/UEDPIE_0_Map_infographie
+[2020.02.09-17.27.52:090][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010893s)
+[2020.02.09-17.27.52:091][164]LogAIModule: Creating AISystem for world Map_infographie
+[2020.02.09-17.27.52:091][164]LogPlayLevel: PIE: World Init took: (0.000785s)
+[2020.02.09-17.27.52:091][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/salle_infographie/Map_infographie.Map_infographie to /Game/salle_infographie/UEDPIE_0_Map_infographie.Map_infographie (0.011831s)
+[2020.02.09-17.27.52:113][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.02.09-17.27.52:119][164]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.09-17.27.52:201][164]LogInit: FAudioDevice initialized.
+[2020.02.09-17.27.52:207][164]LogLoad: Game class is 'GameModeBase'
+[2020.02.09-17.27.52:210][164]LogWorld: Bringing World /Game/salle_infographie/UEDPIE_0_Map_infographie.Map_infographie up for play (max tick rate 60) at 2020.02.09-18.27.52
+[2020.02.09-17.27.52:211][164]LogWorld: Bringing up level for play took: 0.003085
+[2020.02.09-17.27.52:212][164]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.02.09-17.27.52:215][164]PIE: Play in editor start time for /Game/salle_infographie/UEDPIE_0_Map_infographie 0,6
+[2020.02.09-17.27.52:216][164]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel' has LevelScriptBlueprint '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie' with GeneratedClass '/Game/salle_infographie/Map_infographie.Map_infographie_C' with ClassGeneratedBy '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie'
+[2020.02.09-17.27.53:417][235]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel' has LevelScriptBlueprint '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie' with GeneratedClass '/Game/salle_infographie/Map_infographie.Map_infographie_C' with ClassGeneratedBy '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie'
+[2020.02.09-17.27.53:417][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.09-17.27.53:417][235]LogWorld: BeginTearingDown for /Game/salle_infographie/UEDPIE_0_Map_infographie
+[2020.02.09-17.27.53:418][235]LogWorld: UWorld::CleanupWorld for Map_infographie, bSessionEnded=true, bCleanupResources=true
+[2020.02.09-17.27.53:423][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.09-17.27.53:424][235]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel' has LevelScriptBlueprint '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie' with GeneratedClass '/Game/salle_infographie/Map_infographie.Map_infographie_C' with ClassGeneratedBy '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie'
+[2020.02.09-17.27.53:454][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.09-17.27.53:458][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.02.09-17.27.53:526][239]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.02.09-17.27.53:942][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.02.09-17.27.54:917][321]Cmd: DELETE
+[2020.02.09-17.27.54:917][321]Cmd: ACTOR DELETE
+[2020.02.09-17.27.54:920][321]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.09-17.27.54:942][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.02.09-17.27.54:943][321]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.02.09-17.27.56:133][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-17.27.56:233][399]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.09-17.27.56:250][399]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel' has LevelScriptBlueprint '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie' with GeneratedClass '/Game/salle_infographie/Map_infographie.Map_infographie_C' with ClassGeneratedBy '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie'
+[2020.02.09-17.27.56:250][399]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.09-17.27.56:250][399]PIE: New page: PIE session: Map_infographie (9 févr. 2020 19:27:56)
+[2020.02.09-17.27.56:250][399]LogPlayLevel: Creating play world package: /Game/salle_infographie/UEDPIE_0_Map_infographie
+[2020.02.09-17.27.56:262][399]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011921s)
+[2020.02.09-17.27.56:263][399]LogAIModule: Creating AISystem for world Map_infographie
+[2020.02.09-17.27.56:263][399]LogPlayLevel: PIE: World Init took: (0.000898s)
+[2020.02.09-17.27.56:263][399]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/salle_infographie/Map_infographie.Map_infographie to /Game/salle_infographie/UEDPIE_0_Map_infographie.Map_infographie (0.012970s)
+[2020.02.09-17.27.56:283][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.02.09-17.27.56:290][399]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.09-17.27.56:372][399]LogInit: FAudioDevice initialized.
+[2020.02.09-17.27.56:383][399]LogLoad: Game class is 'GameModeBase'
+[2020.02.09-17.27.56:385][399]LogWorld: Bringing World /Game/salle_infographie/UEDPIE_0_Map_infographie.Map_infographie up for play (max tick rate 60) at 2020.02.09-18.27.56
+[2020.02.09-17.27.56:386][399]LogWorld: Bringing up level for play took: 0.002156
+[2020.02.09-17.27.56:386][399]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.02.09-17.27.56:389][399]PIE: Play in editor start time for /Game/salle_infographie/UEDPIE_0_Map_infographie 0,773
+[2020.02.09-17.27.56:390][399]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel' has LevelScriptBlueprint '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie' with GeneratedClass '/Game/salle_infographie/Map_infographie.Map_infographie_C' with ClassGeneratedBy '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie'
+[2020.02.09-17.28.02:652][774]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel' has LevelScriptBlueprint '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie' with GeneratedClass '/Game/salle_infographie/Map_infographie.Map_infographie_C' with ClassGeneratedBy '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie'
+[2020.02.09-17.28.02:652][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.09-17.28.02:652][774]LogWorld: BeginTearingDown for /Game/salle_infographie/UEDPIE_0_Map_infographie
+[2020.02.09-17.28.02:652][774]LogWorld: UWorld::CleanupWorld for Map_infographie, bSessionEnded=true, bCleanupResources=true
+[2020.02.09-17.28.02:661][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.09-17.28.02:661][774]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel' has LevelScriptBlueprint '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie' with GeneratedClass '/Game/salle_infographie/Map_infographie.Map_infographie_C' with ClassGeneratedBy '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie'
+[2020.02.09-17.28.02:688][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.09-17.28.02:692][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.02.09-17.28.02:756][778]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.02.09-17.28.21:292][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-17.28.21:759][918]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.09-17.28.21:779][918]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel' has LevelScriptBlueprint '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie' with GeneratedClass '/Game/salle_infographie/Map_infographie.Map_infographie_C' with ClassGeneratedBy '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie'
+[2020.02.09-17.28.21:779][918]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.09-17.28.21:779][918]PIE: New page: PIE session: Map_infographie (9 févr. 2020 19:28:21)
+[2020.02.09-17.28.21:779][918]LogPlayLevel: Creating play world package: /Game/salle_infographie/UEDPIE_0_Map_infographie
+[2020.02.09-17.28.21:791][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011839s)
+[2020.02.09-17.28.21:792][918]LogAIModule: Creating AISystem for world Map_infographie
+[2020.02.09-17.28.21:792][918]LogPlayLevel: PIE: World Init took: (0.001303s)
+[2020.02.09-17.28.21:793][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/salle_infographie/Map_infographie.Map_infographie to /Game/salle_infographie/UEDPIE_0_Map_infographie.Map_infographie (0.013397s)
+[2020.02.09-17.28.21:817][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.02.09-17.28.21:824][918]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.09-17.28.21:907][918]LogInit: FAudioDevice initialized.
+[2020.02.09-17.28.21:916][918]LogLoad: Game class is 'GameModeBase'
+[2020.02.09-17.28.21:919][918]LogWorld: Bringing World /Game/salle_infographie/UEDPIE_0_Map_infographie.Map_infographie up for play (max tick rate 60) at 2020.02.09-18.28.21
+[2020.02.09-17.28.21:919][918]LogWorld: Bringing up level for play took: 0.002191
+[2020.02.09-17.28.21:919][918]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.02.09-17.28.21:923][918]PIE: Play in editor start time for /Game/salle_infographie/UEDPIE_0_Map_infographie 0,308
+[2020.02.09-17.28.21:924][918]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel' has LevelScriptBlueprint '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie' with GeneratedClass '/Game/salle_infographie/Map_infographie.Map_infographie_C' with ClassGeneratedBy '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie'
+[2020.02.09-17.28.25:837][152]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel' has LevelScriptBlueprint '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie' with GeneratedClass '/Game/salle_infographie/Map_infographie.Map_infographie_C' with ClassGeneratedBy '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie'
+[2020.02.09-17.28.25:837][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.09-17.28.25:837][152]LogWorld: BeginTearingDown for /Game/salle_infographie/UEDPIE_0_Map_infographie
+[2020.02.09-17.28.25:838][152]LogWorld: UWorld::CleanupWorld for Map_infographie, bSessionEnded=true, bCleanupResources=true
+[2020.02.09-17.28.25:849][152]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.09-17.28.25:849][152]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel' has LevelScriptBlueprint '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie' with GeneratedClass '/Game/salle_infographie/Map_infographie.Map_infographie_C' with ClassGeneratedBy '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie'
+[2020.02.09-17.28.25:878][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.09-17.28.25:881][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.02.09-17.28.25:944][156]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.02.09-17.28.27:377][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (chandelier3)
+[2020.02.09-17.28.32:937][571]LogEditorViewport: Clicking on Actor (LMB): BP_lightLustreInfographie_C (BP_lightLustreInfographie)
+[2020.02.09-17.28.39:301][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-17.28.39:417][957]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.09-17.28.39:434][957]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel' has LevelScriptBlueprint '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie' with GeneratedClass '/Game/salle_infographie/Map_infographie.Map_infographie_C' with ClassGeneratedBy '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie'
+[2020.02.09-17.28.39:434][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.09-17.28.39:434][957]PIE: New page: PIE session: Map_infographie (9 févr. 2020 19:28:39)
+[2020.02.09-17.28.39:434][957]LogPlayLevel: Creating play world package: /Game/salle_infographie/UEDPIE_0_Map_infographie
+[2020.02.09-17.28.39:445][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010412s)
+[2020.02.09-17.28.39:446][957]LogAIModule: Creating AISystem for world Map_infographie
+[2020.02.09-17.28.39:446][957]LogPlayLevel: PIE: World Init took: (0.001167s)
+[2020.02.09-17.28.39:446][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/salle_infographie/Map_infographie.Map_infographie to /Game/salle_infographie/UEDPIE_0_Map_infographie.Map_infographie (0.011714s)
+[2020.02.09-17.28.39:469][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.02.09-17.28.39:476][957]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.09-17.28.39:556][957]LogInit: FAudioDevice initialized.
+[2020.02.09-17.28.39:563][957]LogLoad: Game class is 'GameModeBase'
+[2020.02.09-17.28.39:566][957]LogWorld: Bringing World /Game/salle_infographie/UEDPIE_0_Map_infographie.Map_infographie up for play (max tick rate 60) at 2020.02.09-18.28.39
+[2020.02.09-17.28.39:566][957]LogWorld: Bringing up level for play took: 0.002744
+[2020.02.09-17.28.39:567][957]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.02.09-17.28.39:570][957]PIE: Play in editor start time for /Game/salle_infographie/UEDPIE_0_Map_infographie -0,045
+[2020.02.09-17.28.39:570][957]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel' has LevelScriptBlueprint '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie' with GeneratedClass '/Game/salle_infographie/Map_infographie.Map_infographie_C' with ClassGeneratedBy '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie'
+[2020.02.09-17.28.41:316][ 61]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel' has LevelScriptBlueprint '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie' with GeneratedClass '/Game/salle_infographie/Map_infographie.Map_infographie_C' with ClassGeneratedBy '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie'
+[2020.02.09-17.28.41:317][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.09-17.28.41:317][ 61]LogWorld: BeginTearingDown for /Game/salle_infographie/UEDPIE_0_Map_infographie
+[2020.02.09-17.28.41:317][ 61]LogWorld: UWorld::CleanupWorld for Map_infographie, bSessionEnded=true, bCleanupResources=true
+[2020.02.09-17.28.41:326][ 61]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.09-17.28.41:326][ 61]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel' has LevelScriptBlueprint '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie' with GeneratedClass '/Game/salle_infographie/Map_infographie.Map_infographie_C' with ClassGeneratedBy '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie'
+[2020.02.09-17.28.41:355][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.09-17.28.41:357][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.02.09-17.28.41:423][ 65]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.02.09-17.28.44:510][250]LogEditorViewport: Clicking on Actor (LMB): BP_lightLustreInfographie_C (BP_lightLustreInfographie)
+[2020.02.09-17.28.47:436][423]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-17.28.53:478][786]LogEditorViewport: Clicking Background
+[2020.02.09-17.28.54:412][842]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (chandelier3)
+[2020.02.09-17.28.55:354][897]LogEditorViewport: Clicking Background
+[2020.02.09-17.28.56:321][955]LogEditorViewport: Clicking on Actor (LMB): BP_lightLustreInfographie_C (BP_lightLustreInfographie)
+[2020.02.09-17.29.13:590][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (chandelier2)
+[2020.02.09-17.29.16:436][157]LogEditorViewport: Clicking on Actor (LMB): BP_lightLustreInfographie_C (BP_lightLustreInfographie2)
+[2020.02.09-17.29.23:631][587]LogEditorViewport: Clicking Background
+[2020.02.09-17.29.31:398][ 53]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bookshelf8)
+[2020.02.09-17.29.48:347][ 68]LogEditorViewport: Clicking Background
+[2020.02.09-17.29.48:764][ 93]LogEditorViewport: Clicking Background
+[2020.02.09-17.29.49:447][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bookshelf8)
+[2020.02.09-17.29.56:623][563]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LampFloor4)
+[2020.02.09-17.29.57:300][602]LogEditorViewport: Clicking Background
+[2020.02.09-17.29.58:250][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LampFloor4)
+[2020.02.09-17.29.59:254][718]LogEditorViewport: Clicking Background
+[2020.02.09-17.29.59:855][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LampFloor4)
+[2020.02.09-17.30.01:542][854]Cmd: DELETE
+[2020.02.09-17.30.01:542][854]Cmd: ACTOR DELETE
+[2020.02.09-17.30.01:545][854]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.09-17.30.01:569][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.02.09-17.30.01:569][854]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.02.09-17.30.03:725][984]Cmd: TRANSACTION UNDO
+[2020.02.09-17.30.03:725][984]LogEditorTransaction: Undo Delete Actors
+[2020.02.09-17.30.06:224][132]LogEditorViewport: Clicking Background
+[2020.02.09-17.30.11:829][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LampFloor4)
+[2020.02.09-17.30.18:604][872]LogEditorViewport: Clicking Background
+[2020.02.09-17.30.19:020][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LampFloor4)
+[2020.02.09-17.30.20:800][  2]LogEditorViewport: Clicking Background
+[2020.02.09-17.30.29:184][503]Cmd: TRANSACTION UNDO
+[2020.02.09-17.30.29:185][503]LogEditorTransaction: Undo Move Actors
+[2020.02.09-17.30.30:912][604]Cmd: TRANSACTION UNDO
+[2020.02.09-17.30.30:912][604]LogEditorTransaction: Undo Move Actors
+[2020.02.09-17.30.33:150][737]LogEditorViewport: Clicking Background
+[2020.02.09-17.30.34:493][817]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2020.02.09-17.30.45:929][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bookshelf5)
+[2020.02.09-17.30.49:412][706]LogEditorViewport: Clicking Background
+[2020.02.09-17.31.02:214][474]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LampFloor5)
+[2020.02.09-17.31.10:025][940]LogEditorViewport: Clicking Background
+[2020.02.09-17.31.10:978][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-17.31.11:077][  3]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.09-17.31.11:095][  3]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel' has LevelScriptBlueprint '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie' with GeneratedClass '/Game/salle_infographie/Map_infographie.Map_infographie_C' with ClassGeneratedBy '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie'
+[2020.02.09-17.31.11:096][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.09-17.31.11:096][  3]PIE: New page: PIE session: Map_infographie (9 févr. 2020 19:31:11)
+[2020.02.09-17.31.11:096][  3]LogPlayLevel: Creating play world package: /Game/salle_infographie/UEDPIE_0_Map_infographie
+[2020.02.09-17.31.11:108][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011702s)
+[2020.02.09-17.31.11:108][  3]LogAIModule: Creating AISystem for world Map_infographie
+[2020.02.09-17.31.11:108][  3]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2020.02.09-17.31.11:108][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/salle_infographie/Map_infographie.Map_infographie to /Game/salle_infographie/UEDPIE_0_Map_infographie.Map_infographie (0.012672s)
+[2020.02.09-17.31.11:135][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.02.09-17.31.11:141][  3]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.09-17.31.11:224][  3]LogInit: FAudioDevice initialized.
+[2020.02.09-17.31.11:228][  3]LogLoad: Game class is 'GameModeBase'
+[2020.02.09-17.31.11:231][  3]LogWorld: Bringing World /Game/salle_infographie/UEDPIE_0_Map_infographie.Map_infographie up for play (max tick rate 60) at 2020.02.09-18.31.11
+[2020.02.09-17.31.11:231][  3]LogWorld: Bringing up level for play took: 0.002324
+[2020.02.09-17.31.11:232][  3]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.02.09-17.31.11:236][  3]PIE: Play in editor start time for /Game/salle_infographie/UEDPIE_0_Map_infographie -0,38
+[2020.02.09-17.31.11:236][  3]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel' has LevelScriptBlueprint '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie' with GeneratedClass '/Game/salle_infographie/Map_infographie.Map_infographie_C' with ClassGeneratedBy '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie'
+[2020.02.09-17.31.14:031][170]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel' has LevelScriptBlueprint '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie' with GeneratedClass '/Game/salle_infographie/Map_infographie.Map_infographie_C' with ClassGeneratedBy '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie'
+[2020.02.09-17.31.14:031][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.09-17.31.14:031][170]LogWorld: BeginTearingDown for /Game/salle_infographie/UEDPIE_0_Map_infographie
+[2020.02.09-17.31.14:032][170]LogWorld: UWorld::CleanupWorld for Map_infographie, bSessionEnded=true, bCleanupResources=true
+[2020.02.09-17.31.14:041][170]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.09-17.31.14:041][170]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel' has LevelScriptBlueprint '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie' with GeneratedClass '/Game/salle_infographie/Map_infographie.Map_infographie_C' with ClassGeneratedBy '/Game/salle_infographie/Map_infographie.Map_infographie:PersistentLevel.Map_infographie'
+[2020.02.09-17.31.14:071][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.09-17.31.14:074][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.02.09-17.31.14:138][174]LogPlayLevel: Display: Destroying online subsystem :Context_11
