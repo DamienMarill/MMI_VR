@@ -5666,3 +5666,625 @@ Please see Output Log for details.
 [2020.02.09-14.41.52:689][799]LogSavePackage: Moving '../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Saved/Map_com_BuiltDataD34543C546F5AF2FC1DB54B647DF206C.tmp' to '../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Content/salle_com/Map_com_BuiltData.uasset'
 [2020.02.09-14.41.52:694][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/salle_com/Meshes/M_mur2" FILE="../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Content/salle_com/Meshes/M_mur2.uasset" SILENT=true
 [2020.02.09-14.41.52:713][799]LogSavePackage: Moving '../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Saved/M_mur20DE023724A701AA662DFAAAA21AE7FB9.tmp' to '../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Content/salle_com/Meshes/M_mur2.uasset'
+[2020.02.09-16.30.13:302][275]LogHttp: Warning: 00000281113656C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B36F3252F-4E7E-B472-39D1-149907F09DEE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=d43b050b45180607723d0ab9a5c450c0%7Cfa1888ab16be499bb20e6ca36f476c50%7C415ca250-accc-40b6-8c63-87a65a81ffc1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2020.02.09-16.30.13:302][275]LogHttp: Warning: 00000281113656C0: request failed, libcurl error: 0 (No error)
+[2020.02.09-16.30.13:302][275]LogHttp: Warning: 00000281113656C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2816b473f70 [can pipeline])
+[2020.02.09-16.30.13:302][275]LogHttp: Warning: 00000281113656C0: libcurl info message cache 1 (Re-using existing connection! (#149) with host datarouter.ol.epicgames.com)
+[2020.02.09-16.30.13:302][275]LogHttp: Warning: 00000281113656C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.45.123.19) port 443 (#149))
+[2020.02.09-16.30.13:302][275]LogHttp: Warning: 00000281113656C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.02.09-16.30.13:302][275]LogHttp: Warning: 00000281113656C0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.02.09-16.30.13:302][275]LogHttp: Warning: 00000281113656C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.02.09-16.30.13:302][275]LogHttp: Warning: 00000281113656C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.02.09-16.30.13:302][275]LogHttp: Warning: 00000281113656C0: libcurl info message cache 7 (Closing connection 149)
+[2020.02.09-16.30.13:302][275]LogHttp: Warning: 00000281113656C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.02.09-16.30.13:645][276]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B36F3252F-4E7E-B472-39D1-149907F09DEE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=d43b050b45180607723d0ab9a5c450c0%7Cfa1888ab16be499bb20e6ca36f476c50%7C415ca250-accc-40b6-8c63-87a65a81ffc1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.09-16.30.23:231][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-16.30.57:115][840]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.09-16.30.57:190][840]LogClass: Warning: Enum '/Game/InteractiveLights/Blueprints/BaseElements/LightOn_Off.LightOn_Off' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2020.02.09-16.30.57:193][840]LogClass: Warning: Enum '/Game/InteractiveLights/Blueprints/BaseElements/LightModification.LightModification' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2020.02.09-16.30.57:281][840]LogStaticMesh: Building static mesh SM_1x1...
+[2020.02.09-16.30.57:283][840]LogStaticMesh: Built static mesh [0.00s] /Game/InteractiveLights/Mesh/SM_1x1.SM_1x1
+[2020.02.09-16.30.57:286][840]LogMaterial: Display: Missing cached shader map for material M_Invisible, compiling. 
+[2020.02.09-16.30.57:321][840]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 45
+[2020.02.09-16.30.57:321][840]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 39
+[2020.02.09-16.30.57:321][840]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 33
+[2020.02.09-16.30.57:321][840]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2020.02.09-16.30.57:322][840]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 21
+[2020.02.09-16.30.57:322][840]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2020.02.09-16.30.57:322][840]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2020.02.09-16.30.57:322][840]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2020.02.09-16.30.57:322][840]LogMaterial: Display: Missing cached shader map for material M_FontEmissve, compiling. 
+[2020.02.09-16.30.57:445][840]LogMaterial: Display: Missing cached shader map for material M_Simple_Master, compiling. 
+[2020.02.09-16.30.57:498][840]LogStaticMesh: Building static mesh SM_BallLamp...
+[2020.02.09-16.30.57:520][840]LogStaticMesh: Built static mesh [0.02s] /Game/InteractiveLights/Mesh/SM_BallLamp.SM_BallLamp
+[2020.02.09-16.30.57:527][840]LogMaterial: Display: Missing cached shader map for material M_Emissive_Master, compiling. 
+[2020.02.09-16.30.57:633][840]LogMaterial: Display: Missing cached shader map for material M_Metal_Master, compiling. 
+[2020.02.09-16.30.57:673][840]LogStaticMesh: Building static mesh SM_Bulb_01...
+[2020.02.09-16.30.57:700][840]LogStaticMesh: Built static mesh [0.03s] /Game/InteractiveLights/Mesh/SM_Bulb_01.SM_Bulb_01
+[2020.02.09-16.30.57:734][840]LogStaticMesh: Building static mesh SM_Bulb_02...
+[2020.02.09-16.30.57:754][840]LogStaticMesh: Built static mesh [0.02s] /Game/InteractiveLights/Mesh/SM_Bulb_02.SM_Bulb_02
+[2020.02.09-16.30.57:789][840]LogStaticMesh: Building static mesh SM_Bulb_03...
+[2020.02.09-16.30.57:814][840]LogStaticMesh: Built static mesh [0.03s] /Game/InteractiveLights/Mesh/SM_Bulb_03.SM_Bulb_03
+[2020.02.09-16.30.57:854][840]LogStaticMesh: Building static mesh SM_CeilingLamp_01...
+[2020.02.09-16.30.57:884][840]LogStaticMesh: Built static mesh [0.03s] /Game/InteractiveLights/Mesh/SM_CeilingLamp_01.SM_CeilingLamp_01
+[2020.02.09-16.30.57:959][840]LogStaticMesh: Building static mesh SM_CeilingLamp_02...
+[2020.02.09-16.30.58:025][840]LogStaticMesh: Built static mesh [0.07s] /Game/InteractiveLights/Mesh/SM_CeilingLamp_02.SM_CeilingLamp_02
+[2020.02.09-16.30.58:141][840]LogStaticMesh: Building static mesh SM_CeilingLamp_03...
+[2020.02.09-16.30.58:219][840]LogStaticMesh: Built static mesh [0.08s] /Game/InteractiveLights/Mesh/SM_CeilingLamp_03.SM_CeilingLamp_03
+[2020.02.09-16.30.58:308][840]LogStaticMesh: Building static mesh SM_DeskLamp_02...
+[2020.02.09-16.30.58:334][840]LogStaticMesh: Built static mesh [0.03s] /Game/InteractiveLights/Mesh/SM_DeskLamp_02.SM_DeskLamp_02
+[2020.02.09-16.30.58:462][840]LogMaterial: Display: Missing cached shader map for material M_EmissiveAdv_Master, compiling. 
+[2020.02.09-16.30.58:489][840]LogMaterial: Display: Missing cached shader map for material M_EmissiveAdv_Master, compiling. 
+[2020.02.09-16.30.58:538][840]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 140
+[2020.02.09-16.30.58:538][840]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave S_LightBuzzing_03...
+[2020.02.09-16.30.58:605][840]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 349072 while cooking SoundWave /Game/InteractiveLights/Sounds/Waves/S_LightBuzzing_03.S_LightBuzzing_03.
+[2020.02.09-16.30.58:605][840]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave S_FluorescentLight_On_C...
+[2020.02.09-16.30.58:667][840]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 547040 while cooking SoundWave /Game/InteractiveLights/Sounds/Waves/S_FluorescentLight_On_C.S_FluorescentLight_On_C.
+[2020.02.09-16.30.58:667][840]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave S_FluorescentLight_On_B...
+[2020.02.09-16.30.58:734][840]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 465356 while cooking SoundWave /Game/InteractiveLights/Sounds/Waves/S_FluorescentLight_On_B.S_FluorescentLight_On_B.
+[2020.02.09-16.30.58:734][840]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave S_FluorescentLight_On_A...
+[2020.02.09-16.30.58:845][840]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 161
+[2020.02.09-16.30.58:845][840]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 151
+[2020.02.09-16.30.58:845][840]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 141
+[2020.02.09-16.30.58:845][840]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 836304 while cooking SoundWave /Game/InteractiveLights/Sounds/Waves/S_FluorescentLight_On_A.S_FluorescentLight_On_A.
+[2020.02.09-16.30.58:897][840]LogStaticMesh: Building static mesh SM_FluorescentLight_02...
+[2020.02.09-16.30.58:918][840]LogStaticMesh: Built static mesh [0.02s] /Game/InteractiveLights/Mesh/SM_FluorescentLight_02.SM_FluorescentLight_02
+[2020.02.09-16.30.58:949][840]LogStaticMesh: Building static mesh SM_GardenLight...
+[2020.02.09-16.30.58:957][840]LogStaticMesh: Built static mesh [0.01s] /Game/InteractiveLights/Mesh/SM_GardenLight.SM_GardenLight
+[2020.02.09-16.30.59:126][840]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 131
+[2020.02.09-16.30.59:126][840]LogTexture: Display: Building textures: T_Cotton_Normal (BC5, 1024X1024)
+[2020.02.09-16.30.59:126][840]LogStaticMesh: Building static mesh SM_Lamp_01...
+[2020.02.09-16.30.59:167][840]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 121
+[2020.02.09-16.30.59:167][840]LogStaticMesh: Built static mesh [0.04s] /Game/InteractiveLights/Mesh/SM_Lamp_01.SM_Lamp_01
+[2020.02.09-16.30.59:231][840]LogStaticMesh: Building static mesh SM_Lamp_02...
+[2020.02.09-16.30.59:307][840]LogTexture: Display: Building textures: T_Lamp_Rectangle_Mask (AutoDXT, 1024X1024)
+[2020.02.09-16.30.59:307][840]LogTexture: Display: Building textures: T_Lamp_Rectanble_Normal (BC5, 1024X1024)
+[2020.02.09-16.30.59:307][840]LogStaticMesh: Built static mesh [0.08s] /Game/InteractiveLights/Mesh/SM_Lamp_02.SM_Lamp_02
+[2020.02.09-16.30.59:878][840]LogTexture: Display: Building textures: T_Lamp_Rectanble_Diff (AutoDXT, 1024X1024)
+[2020.02.09-16.30.59:878][840]LogStaticMesh: Building static mesh SM_Lamp_03...
+[2020.02.09-16.30.59:906][840]LogStaticMesh: Built static mesh [0.03s] /Game/InteractiveLights/Mesh/SM_Lamp_03.SM_Lamp_03
+[2020.02.09-16.31.00:008][840]LogTexture: Display: Building textures: T_Halogen_Mask (AutoDXT, 256X256)
+[2020.02.09-16.31.00:008][840]LogTexture: Display: Building textures: T_Halogen (AutoDXT, 256X256)
+[2020.02.09-16.31.00:008][840]LogStaticMesh: Building static mesh SM_LedLight_01...
+[2020.02.09-16.31.00:012][840]LogStaticMesh: Built static mesh [0.00s] /Game/InteractiveLights/Mesh/SM_LedLight_01.SM_LedLight_01
+[2020.02.09-16.31.00:044][840]LogStaticMesh: Building static mesh SM_LedLight_02...
+[2020.02.09-16.31.00:048][840]LogStaticMesh: Built static mesh [0.00s] /Game/InteractiveLights/Mesh/SM_LedLight_02.SM_LedLight_02
+[2020.02.09-16.31.00:093][840]LogStaticMesh: Building static mesh SM_LightPanel_A...
+[2020.02.09-16.31.00:094][840]LogStaticMesh: Built static mesh [0.00s] /Game/InteractiveLights/Mesh/SM_LightPanel_A.SM_LightPanel_A
+[2020.02.09-16.31.00:194][840]LogTexture: Display: Building textures: T_LightPanel_2 (AutoDXT, 512X512)
+[2020.02.09-16.31.00:194][840]LogTexture: Display: Building textures: T_Pattern_01_N (BC5, 512X512)
+[2020.02.09-16.31.00:195][840]LogTexture: Display: Building textures: T_LightPanel_1 (AutoDXT, 256X256)
+[2020.02.09-16.31.00:195][840]LogStaticMesh: Building static mesh SM_LightPanel_B...
+[2020.02.09-16.31.00:197][840]LogStaticMesh: Built static mesh [0.00s] /Game/InteractiveLights/Mesh/SM_LightPanel_B.SM_LightPanel_B
+[2020.02.09-16.31.00:271][840]LogStaticMesh: Building static mesh SM_NeonLight...
+[2020.02.09-16.31.00:306][840]LogStaticMesh: Built static mesh [0.04s] /Game/InteractiveLights/Mesh/SM_NeonLight.SM_NeonLight
+[2020.02.09-16.31.00:350][840]LogStaticMesh: Building static mesh SM_SciFiLamp...
+[2020.02.09-16.31.00:367][840]LogStaticMesh: Built static mesh [0.02s] /Game/InteractiveLights/Mesh/SM_SciFiLamp.SM_SciFiLamp
+[2020.02.09-16.31.00:412][840]LogStaticMesh: Building static mesh SM_SirenLight...
+[2020.02.09-16.31.00:430][840]LogStaticMesh: Built static mesh [0.02s] /Game/InteractiveLights/Mesh/SM_SirenLight.SM_SirenLight
+[2020.02.09-16.31.00:498][840]LogStaticMesh: Building static mesh SM_StreetLamp_01...
+[2020.02.09-16.31.00:602][840]LogStaticMesh: Built static mesh [0.10s] /Game/InteractiveLights/Mesh/SM_StreetLamp_01.SM_StreetLamp_01
+[2020.02.09-16.31.00:671][840]LogStaticMesh: Building static mesh SM_StreetLamp_02...
+[2020.02.09-16.31.00:978][840]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 111
+[2020.02.09-16.31.00:979][840]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 101
+[2020.02.09-16.31.00:979][840]LogStaticMesh: Built static mesh [0.31s] /Game/InteractiveLights/Mesh/SM_StreetLamp_02.SM_StreetLamp_02
+[2020.02.09-16.31.01:586][840]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 91
+[2020.02.09-16.31.01:586][840]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 512X512)
+[2020.02.09-16.31.01:586][840]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.02.09-16.31.01:586][840]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.02.09-16.31.01:586][840]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2020.02.09-16.31.01:586][840]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2020.02.09-16.31.01:586][840]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 512X512)
+[2020.02.09-16.31.01:586][840]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 512X256)
+[2020.02.09-16.31.01:586][840]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2020.02.09-16.31.01:586][840]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 2048X1024)
+[2020.02.09-16.31.01:586][840]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 512X1024)
+[2020.02.09-16.31.01:586][840]LogStaticMesh: Building static mesh SM_LightSwitch_02B...
+[2020.02.09-16.31.01:608][840]LogStaticMesh: Built static mesh [0.02s] /Game/InteractiveLights/Mesh/Switches/SM_LightSwitch_02B.SM_LightSwitch_02B
+[2020.02.09-16.31.01:624][840]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave S_LightSwitch_01...
+[2020.02.09-16.31.01:650][840]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 91680 while cooking SoundWave /Game/InteractiveLights/Sounds/Waves/S_LightSwitch_01.S_LightSwitch_01.
+[2020.02.09-16.31.01:651][840]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave S_LightBuzzing_02...
+[2020.02.09-16.31.01:661][840]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1932 while cooking SoundWave /Game/InteractiveLights/Sounds/Waves/S_LightBuzzing_02.S_LightBuzzing_02.
+[2020.02.09-16.31.01:661][840]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave S_LightBuzzing_01...
+[2020.02.09-16.31.01:746][840]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 538856 while cooking SoundWave /Game/InteractiveLights/Sounds/Waves/S_LightBuzzing_01.S_LightBuzzing_01.
+[2020.02.09-16.31.01:747][840]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave S_FluorescentLight_Flicker...
+[2020.02.09-16.31.02:575][840]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 6754424 while cooking SoundWave /Game/InteractiveLights/Sounds/Waves/S_FluorescentLight_Flicker.S_FluorescentLight_Flicker.
+[2020.02.09-16.31.02:576][840]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave S_LightSwitch_02...
+[2020.02.09-16.31.02:598][840]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 25732 while cooking SoundWave /Game/InteractiveLights/Sounds/Waves/S_LightSwitch_02.S_LightSwitch_02.
+[2020.02.09-16.31.02:599][840]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave S_LightSwitch_03...
+[2020.02.09-16.31.02:623][840]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 54440 while cooking SoundWave /Game/InteractiveLights/Sounds/Waves/S_LightSwitch_03.S_LightSwitch_03.
+[2020.02.09-16.31.02:623][840]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave S_LightSwitch_04B...
+[2020.02.09-16.31.02:638][840]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 47636 while cooking SoundWave /Game/InteractiveLights/Sounds/Waves/S_LightSwitch_04B.S_LightSwitch_04B.
+[2020.02.09-16.31.02:638][840]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave S_LightSwitch_04A...
+[2020.02.09-16.31.02:651][840]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 32080 while cooking SoundWave /Game/InteractiveLights/Sounds/Waves/S_LightSwitch_04A.S_LightSwitch_04A.
+[2020.02.09-16.31.02:652][840]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave S_LightSwitch_05...
+[2020.02.09-16.31.02:689][840]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 118600 while cooking SoundWave /Game/InteractiveLights/Sounds/Waves/S_LightSwitch_05.S_LightSwitch_05.
+[2020.02.09-16.31.02:695][840]LogAIModule: Creating AISystem for world Showcase
+[2020.02.09-16.31.02:810][840]LogStaticMesh: Building static mesh SM_LightSwitch_01...
+[2020.02.09-16.31.02:828][840]LogStaticMesh: Built static mesh [0.02s] /Game/InteractiveLights/Mesh/Switches/SM_LightSwitch_01.SM_LightSwitch_01
+[2020.02.09-16.31.02:847][840]LogStaticMesh: Building static mesh SM_LightSwitch_01B...
+[2020.02.09-16.31.02:856][840]LogStaticMesh: Built static mesh [0.01s] /Game/InteractiveLights/Mesh/Switches/SM_LightSwitch_01B.SM_LightSwitch_01B
+[2020.02.09-16.31.02:878][840]LogStaticMesh: Building static mesh SM_LightSwitch_02...
+[2020.02.09-16.31.02:935][840]LogStaticMesh: Built static mesh [0.06s] /Game/InteractiveLights/Mesh/Switches/SM_LightSwitch_02.SM_LightSwitch_02
+[2020.02.09-16.31.02:952][840]LogStaticMesh: Building static mesh SM_LightSwitch_03...
+[2020.02.09-16.31.02:956][840]LogStaticMesh: Built static mesh [0.00s] /Game/InteractiveLights/Mesh/Switches/SM_LightSwitch_03.SM_LightSwitch_03
+[2020.02.09-16.31.02:972][840]LogStaticMesh: Building static mesh SM_LightSwitch_04...
+[2020.02.09-16.31.02:981][840]LogStaticMesh: Built static mesh [0.01s] /Game/InteractiveLights/Mesh/Switches/SM_LightSwitch_04.SM_LightSwitch_04
+[2020.02.09-16.31.02:990][840]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave S_FluorescentLightFlickering_A...
+[2020.02.09-16.31.03:675][840]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 81
+[2020.02.09-16.31.03:675][840]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 5659976 while cooking SoundWave /Game/InteractiveLights/Sounds/Waves/S_FluorescentLightFlickering_A.S_FluorescentLightFlickering_A.
+[2020.02.09-16.31.03:684][840]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave S_FluorescentLightFlickering_B...
+[2020.02.09-16.31.04:437][840]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 71
+[2020.02.09-16.31.04:437][840]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 62
+[2020.02.09-16.31.04:437][840]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 54
+[2020.02.09-16.31.04:437][840]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 6451480 while cooking SoundWave /Game/InteractiveLights/Sounds/Waves/S_FluorescentLightFlickering_B.S_FluorescentLightFlickering_B.
+[2020.02.09-16.31.04:438][840]LogObjectTools: Deleting 1 worlds: /Game/InteractiveLights/Maps/Showcase.Showcase
+[2020.02.09-16.31.04:438][840]LogObjectTools: Currently 4 active worlds: /Game/salle_com/Map_com.Map_com, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2
+[2020.02.09-16.31.04:484][840]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2020.02.09-16.31.07:248][840]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 47
+[2020.02.09-16.31.07:248][840]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 41
+[2020.02.09-16.31.07:248][840]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 35
+[2020.02.09-16.31.07:248][840]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 30
+[2020.02.09-16.31.07:248][840]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 26
+[2020.02.09-16.31.07:248][840]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 22
+[2020.02.09-16.31.07:659][840]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2020.02.09-16.31.07:659][840]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2020.02.09-16.31.08:097][840]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2020.02.09-16.31.08:097][840]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2020.02.09-16.31.08:097][840]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2020.02.09-16.31.08:524][840]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2020.02.09-16.31.08:749][840]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2020.02.09-16.31.08:976][840]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.02.09-16.31.08:976][840]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.02.09-16.31.08:977][840]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2020.02.09-16.31.08:977][840]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.02.09-16.31.09:174][840]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.02.09-16.31.56:583][840]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.09-16.34.03:744][840]LogUObjectGlobals: Force Deleting 139 Package(s):
+	Asset Name: /Game/InteractiveLights/Blueprints/B_LightSwitch.B_LightSwitch
+	Asset Name: /Game/InteractiveLights/Blueprints/B_Point_Light.B_Point_Light
+	Asset Name: /Game/InteractiveLights/Blueprints/B_Rect_Light.B_Rect_Light
+	Asset Name: /Game/InteractiveLights/Blueprints/B_Spot_Light.B_Spot_Light
+	Asset Name: /Game/InteractiveLights/Blueprints/BaseElements/LightModification.LightModification
+	Asset Name: /Game/InteractiveLights/Blueprints/BaseElements/LightOn_Off.LightOn_Off
+	Asset Name: /Game/InteractiveLights/Blueprints/BaseElements/Light_Base.Light_Base
+	Asset Name: /Game/InteractiveLights/Blueprints/_Examples/B_BallLamp.B_BallLamp
+	Asset Name: /Game/InteractiveLights/Blueprints/_Examples/B_Bulb_01.B_Bulb_01
+	Asset Name: /Game/InteractiveLights/Blueprints/_Examples/B_Bulb_02.B_Bulb_02
+[2020.02.09-16.34.04:700][840]LogProperty: Warning: Serialized BlueprintGeneratedClass /Engine/Transient.REINST_B_Bulb_01_C_159 for a property of BlueprintGeneratedClass /Engine/Transient.DEADCLASS_Light_Base_C_8. Reference will be nullptred.
+    Property = ObjectProperty /Engine/Transient.REINST_B_LightSwitch_C_147:Lights.Lights
+    Item = REINST_B_Bulb_01_C_159 /Game/InteractiveLights/Maps/Showcase.Showcase:PersistentLevel.B_Bulb_2
+[2020.02.09-16.34.04:700][840]LogProperty: Warning: Serialized BlueprintGeneratedClass /Engine/Transient.REINST_B_Bulb_02_C_161 for a property of BlueprintGeneratedClass /Engine/Transient.DEADCLASS_Light_Base_C_8. Reference will be nullptred.
+    Property = ObjectProperty /Engine/Transient.REINST_B_LightSwitch_C_147:Lights.Lights
+    Item = REINST_B_Bulb_02_C_161 /Game/InteractiveLights/Maps/Showcase.Showcase:PersistentLevel.B_Bulb_3
+[2020.02.09-16.34.04:700][840]LogProperty: Warning: Serialized BlueprintGeneratedClass /Engine/Transient.REINST_B_Bulb_03_C_163 for a property of BlueprintGeneratedClass /Engine/Transient.DEADCLASS_Light_Base_C_8. Reference will be nullptred.
+    Property = ObjectProperty /Engine/Transient.REINST_B_LightSwitch_C_147:Lights.Lights
+    Item = REINST_B_Bulb_03_C_163 /Game/InteractiveLights/Maps/Showcase.Showcase:PersistentLevel.B_Bulb_4
+[2020.02.09-16.34.04:700][840]LogProperty: Warning: Serialized BlueprintGeneratedClass /Engine/Transient.REINST_B_SciFiLamp_C_199 for a property of BlueprintGeneratedClass /Engine/Transient.DEADCLASS_Light_Base_C_8. Reference will be nullptred.
+    Property = ObjectProperty /Engine/Transient.REINST_B_LightSwitch_C_147:Lights.Lights
+    Item = REINST_B_SciFiLamp_C_199 /Game/InteractiveLights/Maps/Showcase.Showcase:PersistentLevel.B_SciFiLamp2
+[2020.02.09-16.34.04:700][840]LogProperty: Warning: Serialized BlueprintGeneratedClass /Engine/Transient.REINST_B_SciFiLamp_C_199 for a property of BlueprintGeneratedClass /Engine/Transient.DEADCLASS_Light_Base_C_8. Reference will be nullptred.
+    Property = ObjectProperty /Engine/Transient.REINST_B_LightSwitch_C_147:Lights.Lights
+    Item = REINST_B_SciFiLamp_C_199 /Game/InteractiveLights/Maps/Showcase.Showcase:PersistentLevel.B_SciFiLamp_1948
+[2020.02.09-16.34.04:700][840]LogProperty: Warning: Serialized BlueprintGeneratedClass /Engine/Transient.REINST_B_SciFiLamp_C_199 for a property of BlueprintGeneratedClass /Engine/Transient.DEADCLASS_Light_Base_C_8. Reference will be nullptred.
+    Property = ObjectProperty /Engine/Transient.REINST_B_LightSwitch_C_147:Lights.Lights
+    Item = REINST_B_SciFiLamp_C_199 /Game/InteractiveLights/Maps/Showcase.Showcase:PersistentLevel.B_SciFiLamp4
+[2020.02.09-16.34.04:700][840]LogProperty: Warning: Serialized BlueprintGeneratedClass /Engine/Transient.REINST_B_SciFiLamp_C_199 for a property of BlueprintGeneratedClass /Engine/Transient.DEADCLASS_Light_Base_C_8. Reference will be nullptred.
+    Property = ObjectProperty /Engine/Transient.REINST_B_LightSwitch_C_147:Lights.Lights
+    Item = REINST_B_SciFiLamp_C_199 /Game/InteractiveLights/Maps/Showcase.Showcase:PersistentLevel.B_SciFiLamp3
+[2020.02.09-16.34.04:700][840]LogProperty: Warning: Serialized BlueprintGeneratedClass /Engine/Transient.REINST_B_SciFiLamp_C_199 for a property of BlueprintGeneratedClass /Engine/Transient.DEADCLASS_Light_Base_C_8. Reference will be nullptred.
+    Property = ObjectProperty /Engine/Transient.REINST_B_LightSwitch_C_147:Lights.Lights
+    Item = REINST_B_SciFiLamp_C_199 /Game/InteractiveLights/Maps/Showcase.Showcase:PersistentLevel.B_SciFiLamp6
+[2020.02.09-16.34.04:700][840]LogProperty: Warning: Serialized BlueprintGeneratedClass /Engine/Transient.REINST_B_SciFiLamp_C_199 for a property of BlueprintGeneratedClass /Engine/Transient.DEADCLASS_Light_Base_C_8. Reference will be nullptred.
+    Property = ObjectProperty /Engine/Transient.REINST_B_LightSwitch_C_147:Lights.Lights
+    Item = REINST_B_SciFiLamp_C_199 /Game/InteractiveLights/Maps/Showcase.Showcase:PersistentLevel.B_SciFiLamp5
+[2020.02.09-16.34.04:700][840]LogProperty: Warning: Serialized BlueprintGeneratedClass /Engine/Transient.REINST_B_Rect_Light_C_151 for a property of BlueprintGeneratedClass /Engine/Transient.DEADCLASS_Light_Base_C_8. Reference will be nullptred.
+    Property = ObjectProperty /Engine/Transient.REINST_B_LightSwitch_C_147:Lights.Lights
+    Item = REINST_B_Rect_Light_C_151 /Game/InteractiveLights/Maps/Showcase.Showcase:PersistentLevel.B_Rect_Light_13
+[2020.02.09-16.34.04:701][840]LogProperty: Warning: Serialized BlueprintGeneratedClass /Engine/Transient.REINST_B_Spot_Light_C_153 for a property of BlueprintGeneratedClass /Engine/Transient.DEADCLASS_Light_Base_C_8. Reference will be nullptred.
+    Property = ObjectProperty /Engine/Transient.REINST_B_LightSwitch_C_147:Lights.Lights
+    Item = REINST_B_Spot_Light_C_153 /Game/InteractiveLights/Maps/Showcase.Showcase:PersistentLevel.B_Spot_Light_1283
+[2020.02.09-16.34.04:701][840]LogProperty: Warning: Serialized BlueprintGeneratedClass /Engine/Transient.REINST_B_DeskLamp_01_C_171 for a property of BlueprintGeneratedClass /Engine/Transient.DEADCLASS_Light_Base_C_8. Reference will be nullptred.
+    Property = ObjectProperty /Engine/Transient.REINST_B_LightSwitch_C_147:Lights.Lights
+    Item = REINST_B_DeskLamp_01_C_171 /Game/InteractiveLights/Maps/Showcase.Showcase:PersistentLevel.B_DeskLamp_01_1083
+[2020.02.09-16.34.04:701][840]LogProperty: Warning: Serialized BlueprintGeneratedClass /Engine/Transient.REINST_B_Lamp_03_C_187 for a property of BlueprintGeneratedClass /Engine/Transient.DEADCLASS_Light_Base_C_8. Reference will be nullptred.
+    Property = ObjectProperty /Engine/Transient.REINST_B_LightSwitch_C_147:Lights.Lights
+    Item = REINST_B_Lamp_03_C_187 /Game/InteractiveLights/Maps/Showcase.Showcase:PersistentLevel.B_Lamp_03_548
+[2020.02.09-16.34.04:701][840]LogProperty: Warning: Serialized BlueprintGeneratedClass /Engine/Transient.REINST_B_BallLamp_C_157 for a property of BlueprintGeneratedClass /Engine/Transient.DEADCLASS_Light_Base_C_8. Reference will be nullptred.
+    Property = ObjectProperty /Engine/Transient.REINST_B_LightSwitch_C_147:Lights.Lights
+    Item = REINST_B_BallLamp_C_157 /Game/InteractiveLights/Maps/Showcase.Showcase:PersistentLevel.B_BallLamp_220
+[2020.02.09-16.34.04:702][840]LogProperty: Warning: Serialized BlueprintGeneratedClass /Engine/Transient.REINST_B_CeilingLamp_02_C_167 for a property of BlueprintGeneratedClass /Engine/Transient.DEADCLASS_Light_Base_C_8. Reference will be nullptred.
+    Property = ObjectProperty /Engine/Transient.REINST_B_LightSwitch_C_147:Lights.Lights
+    Item = REINST_B_CeilingLamp_02_C_167 /Game/InteractiveLights/Maps/Showcase.Showcase:PersistentLevel.B_CeilingLamp_02_660
+[2020.02.09-16.34.04:702][840]LogProperty: Warning: Serialized BlueprintGeneratedClass /Engine/Transient.REINST_B_StreetLamp_02_C_205 for a property of BlueprintGeneratedClass /Engine/Transient.DEADCLASS_Light_Base_C_8. Reference will be nullptred.
+    Property = ObjectProperty /Engine/Transient.REINST_B_LightSwitch_C_147:Lights.Lights
+    Item = REINST_B_StreetLamp_02_C_205 /Game/InteractiveLights/Maps/Showcase.Showcase:PersistentLevel.B_StreetLamp_02_2962
+[2020.02.09-16.34.04:702][840]LogProperty: Warning: Serialized BlueprintGeneratedClass /Engine/Transient.REINST_B_Lamp_02_C_185 for a property of BlueprintGeneratedClass /Engine/Transient.DEADCLASS_Light_Base_C_8. Reference will be nullptred.
+    Property = ObjectProperty /Engine/Transient.REINST_B_LightSwitch_C_147:Lights.Lights
+    Item = REINST_B_Lamp_02_C_185 /Game/InteractiveLights/Maps/Showcase.Showcase:PersistentLevel.B_Lamp_02_627
+[2020.02.09-16.34.04:702][840]LogProperty: Warning: Serialized BlueprintGeneratedClass /Engine/Transient.REINST_B_Bulb_01_C_159 for a property of BlueprintGeneratedClass /Engine/Transient.DEADCLASS_Light_Base_C_8. Reference will be nullptred.
+    Property = ObjectProperty /Engine/Transient.REINST_B_LightSwitch_C_147:Lights.Lights
+    Item = REINST_B_Bulb_01_C_159 /Game/InteractiveLights/Maps/Showcase.Showcase:PersistentLevel.B_Bulb_01_188
+[2020.02.09-16.34.04:702][840]LogProperty: Warning: Serialized BlueprintGeneratedClass /Engine/Transient.REINST_B_Bulb_02_C_161 for a property of BlueprintGeneratedClass /Engine/Transient.DEADCLASS_Light_Base_C_8. Reference will be nullptred.
+    Property = ObjectProperty /Engine/Transient.REINST_B_LightSwitch_C_147:Lights.Lights
+    Item = REINST_B_Bulb_02_C_161 /Game/InteractiveLights/Maps/Showcase.Showcase:PersistentLevel.B_Bulb_02_372
+[2020.02.09-16.34.04:702][840]LogProperty: Warning: Serialized BlueprintGeneratedClass /Engine/Transient.REINST_B_Bulb_03_C_163 for a property of BlueprintGeneratedClass /Engine/Transient.DEADCLASS_Light_Base_C_8. Reference will be nullptred.
+    Property = ObjectProperty /Engine/Transient.REINST_B_LightSwitch_C_147:Lights.Lights
+    Item = REINST_B_Bulb_03_C_163 /Game/InteractiveLights/Maps/Showcase.Showcase:PersistentLevel.B_Bulb_03_252
+[2020.02.09-16.34.04:702][840]LogProperty: Warning: Serialized BlueprintGeneratedClass /Engine/Transient.REINST_B_Point_Light_C_149 for a property of BlueprintGeneratedClass /Engine/Transient.DEADCLASS_Light_Base_C_8. Reference will be nullptred.
+    Property = ObjectProperty /Engine/Transient.REINST_B_LightSwitch_C_147:Lights.Lights
+    Item = REINST_B_Point_Light_C_149 /Game/InteractiveLights/Maps/Showcase.Showcase:PersistentLevel.B_Point_Light_375
+[2020.02.09-16.34.04:908][840]LogStaticMesh: Building static mesh SM_1x1...
+[2020.02.09-16.34.04:910][840]LogStaticMesh: Built static mesh [0.00s] /Game/InteractiveLights/Mesh/SM_1x1.SM_1x1
+[2020.02.09-16.34.04:917][840]LogMaterial: Display: Missing cached shader map for material M_Emissive_Master, compiling. 
+[2020.02.09-16.34.04:917][840]LogMaterial: Warning: C:\Users\designLab\Documents\Unreal Projects\MMI_VR\Content\InteractiveLights\Materials\M_Emissive_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.02.09-16.34.04:917][840]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.02.09-16.34.04:917][840]LogMaterial: Warning: GetIndexedTexture returning NULL (0)
+[2020.02.09-16.34.04:921][840]LogMaterial: Display: Missing cached shader map for material M_Simple_Master, compiling. 
+[2020.02.09-16.34.04:922][840]LogMaterial: Warning: C:\Users\designLab\Documents\Unreal Projects\MMI_VR\Content\InteractiveLights\Materials\M_Simple_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.02.09-16.34.04:922][840]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.02.09-16.34.04:923][840]LogStaticMesh: Building static mesh SM_BallLamp...
+[2020.02.09-16.34.04:935][840]LogStaticMesh: Built static mesh [0.01s] /Game/InteractiveLights/Mesh/SM_BallLamp.SM_BallLamp
+[2020.02.09-16.34.04:946][840]LogMaterial: Display: Missing cached shader map for material M_Metal_Master, compiling. 
+[2020.02.09-16.34.04:946][840]LogMaterial: Warning: C:\Users\designLab\Documents\Unreal Projects\MMI_VR\Content\InteractiveLights\Materials\M_Metal_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.02.09-16.34.04:946][840]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.02.09-16.34.04:948][840]LogStaticMesh: Building static mesh SM_Bulb_01...
+[2020.02.09-16.34.04:963][840]LogStaticMesh: Built static mesh [0.01s] /Game/InteractiveLights/Mesh/SM_Bulb_01.SM_Bulb_01
+[2020.02.09-16.34.04:971][840]LogStaticMesh: Building static mesh SM_Bulb_02...
+[2020.02.09-16.34.04:981][840]LogStaticMesh: Built static mesh [0.01s] /Game/InteractiveLights/Mesh/SM_Bulb_02.SM_Bulb_02
+[2020.02.09-16.34.04:990][840]LogStaticMesh: Building static mesh SM_Bulb_03...
+[2020.02.09-16.34.05:002][840]LogStaticMesh: Built static mesh [0.01s] /Game/InteractiveLights/Mesh/SM_Bulb_03.SM_Bulb_03
+[2020.02.09-16.34.05:013][840]LogStaticMesh: Building static mesh SM_CeilingLamp_01...
+[2020.02.09-16.34.05:031][840]LogStaticMesh: Built static mesh [0.02s] /Game/InteractiveLights/Mesh/SM_CeilingLamp_01.SM_CeilingLamp_01
+[2020.02.09-16.34.05:039][840]LogStaticMesh: Building static mesh SM_CeilingLamp_02...
+[2020.02.09-16.34.05:072][840]LogStaticMesh: Built static mesh [0.03s] /Game/InteractiveLights/Mesh/SM_CeilingLamp_02.SM_CeilingLamp_02
+[2020.02.09-16.34.05:087][840]LogStaticMesh: Building static mesh SM_CeilingLamp_03...
+[2020.02.09-16.34.05:111][840]LogStaticMesh: Built static mesh [0.02s] /Game/InteractiveLights/Mesh/SM_CeilingLamp_03.SM_CeilingLamp_03
+[2020.02.09-16.34.05:133][840]LogStaticMesh: Building static mesh SM_DeskLamp...
+[2020.02.09-16.34.05:247][840]LogStaticMesh: Built static mesh [0.11s] /Game/InteractiveLights/Mesh/SM_DeskLamp.SM_DeskLamp
+[2020.02.09-16.34.05:281][840]LogStaticMesh: Building static mesh SM_DeskLamp_02...
+[2020.02.09-16.34.05:295][840]LogStaticMesh: Built static mesh [0.01s] /Game/InteractiveLights/Mesh/SM_DeskLamp_02.SM_DeskLamp_02
+[2020.02.09-16.34.05:309][840]LogMaterial: Display: Missing cached shader map for material M_EmissiveAdv_Master, compiling. 
+[2020.02.09-16.34.05:309][840]LogMaterial: Warning: C:\Users\designLab\Documents\Unreal Projects\MMI_VR\Content\InteractiveLights\Materials\M_EmissiveAdv_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.02.09-16.34.05:310][840]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.02.09-16.34.05:310][840]LogMaterial: Warning: Requesting an invalid TextureIndex! (2 / 1)
+[2020.02.09-16.34.05:312][840]LogMaterial: Display: Missing cached shader map for material M_EmissiveAdv_Master, compiling. 
+[2020.02.09-16.34.05:313][840]LogMaterial: Warning: C:\Users\designLab\Documents\Unreal Projects\MMI_VR\Content\InteractiveLights\Materials\M_EmissiveAdv_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.02.09-16.34.05:313][840]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.02.09-16.34.05:316][840]LogMaterial: Display: Missing cached shader map for material M_EmissiveAdv_Master, compiling. 
+[2020.02.09-16.34.05:316][840]LogMaterial: Warning: C:\Users\designLab\Documents\Unreal Projects\MMI_VR\Content\InteractiveLights\Materials\M_EmissiveAdv_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.02.09-16.34.05:316][840]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.02.09-16.34.05:318][840]LogStaticMesh: Building static mesh SM_FluorescentLight_01...
+[2020.02.09-16.34.05:327][840]LogStaticMesh: Built static mesh [0.01s] /Game/InteractiveLights/Mesh/SM_FluorescentLight_01.SM_FluorescentLight_01
+[2020.02.09-16.34.05:334][840]LogStaticMesh: Building static mesh SM_FluorescentLight_02...
+[2020.02.09-16.34.05:341][840]LogStaticMesh: Built static mesh [0.01s] /Game/InteractiveLights/Mesh/SM_FluorescentLight_02.SM_FluorescentLight_02
+[2020.02.09-16.34.05:345][840]LogStaticMesh: Building static mesh SM_GardenLight...
+[2020.02.09-16.34.05:350][840]LogStaticMesh: Built static mesh [0.00s] /Game/InteractiveLights/Mesh/SM_GardenLight.SM_GardenLight
+[2020.02.09-16.34.05:351][840]LogStaticMesh: Warning: SM_GardenLight has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.02.09-16.34.05:351][840]LogStaticMesh: Warning: SM_GardenLight has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.02.09-16.34.05:359][840]LogStaticMesh: Building static mesh SM_Lamp_01...
+[2020.02.09-16.34.05:384][840]LogStaticMesh: Built static mesh [0.02s] /Game/InteractiveLights/Mesh/SM_Lamp_01.SM_Lamp_01
+[2020.02.09-16.34.05:406][840]LogStaticMesh: Building static mesh SM_Lamp_02...
+[2020.02.09-16.34.05:413][840]LogStaticMesh: Built static mesh [0.01s] /Game/InteractiveLights/Mesh/SM_Lamp_02.SM_Lamp_02
+[2020.02.09-16.34.05:418][840]LogStaticMesh: Building static mesh SM_Lamp_03...
+[2020.02.09-16.34.05:430][840]LogStaticMesh: Built static mesh [0.01s] /Game/InteractiveLights/Mesh/SM_Lamp_03.SM_Lamp_03
+[2020.02.09-16.34.05:438][840]LogStaticMesh: Building static mesh SM_LedLight_01...
+[2020.02.09-16.34.05:441][840]LogStaticMesh: Built static mesh [0.00s] /Game/InteractiveLights/Mesh/SM_LedLight_01.SM_LedLight_01
+[2020.02.09-16.34.05:445][840]LogStaticMesh: Building static mesh SM_LedLight_02...
+[2020.02.09-16.34.05:448][840]LogStaticMesh: Built static mesh [0.00s] /Game/InteractiveLights/Mesh/SM_LedLight_02.SM_LedLight_02
+[2020.02.09-16.34.05:455][840]LogStaticMesh: Building static mesh SM_LightPanel_A...
+[2020.02.09-16.34.05:456][840]LogStaticMesh: Built static mesh [0.00s] /Game/InteractiveLights/Mesh/SM_LightPanel_A.SM_LightPanel_A
+[2020.02.09-16.34.05:463][840]LogStaticMesh: Building static mesh SM_LightPanel_B...
+[2020.02.09-16.34.05:465][840]LogStaticMesh: Built static mesh [0.00s] /Game/InteractiveLights/Mesh/SM_LightPanel_B.SM_LightPanel_B
+[2020.02.09-16.34.05:469][840]LogStaticMesh: Building static mesh SM_NeonLight...
+[2020.02.09-16.34.05:492][840]LogStaticMesh: Built static mesh [0.02s] /Game/InteractiveLights/Mesh/SM_NeonLight.SM_NeonLight
+[2020.02.09-16.34.05:504][840]LogStaticMesh: Building static mesh SM_SciFiLamp...
+[2020.02.09-16.34.05:510][840]LogStaticMesh: Built static mesh [0.01s] /Game/InteractiveLights/Mesh/SM_SciFiLamp.SM_SciFiLamp
+[2020.02.09-16.34.05:517][840]LogStaticMesh: Building static mesh SM_SirenLight...
+[2020.02.09-16.34.05:528][840]LogStaticMesh: Built static mesh [0.01s] /Game/InteractiveLights/Mesh/SM_SirenLight.SM_SirenLight
+[2020.02.09-16.34.05:533][840]LogStaticMesh: Building static mesh SM_StreetLamp_01...
+[2020.02.09-16.34.05:590][840]LogStaticMesh: Built static mesh [0.06s] /Game/InteractiveLights/Mesh/SM_StreetLamp_01.SM_StreetLamp_01
+[2020.02.09-16.34.05:610][840]LogStaticMesh: Building static mesh SM_StreetLamp_02...
+[2020.02.09-16.34.05:687][840]LogStaticMesh: Built static mesh [0.08s] /Game/InteractiveLights/Mesh/SM_StreetLamp_02.SM_StreetLamp_02
+[2020.02.09-16.34.05:756][840]LogStaticMesh: Building static mesh SM_LightSwitch_02B...
+[2020.02.09-16.34.05:766][840]LogStaticMesh: Built static mesh [0.01s] /Game/InteractiveLights/Mesh/Switches/SM_LightSwitch_02B.SM_LightSwitch_02B
+[2020.02.09-16.34.05:777][840]LogStaticMesh: Building static mesh SM_LightSwitch_01...
+[2020.02.09-16.34.05:786][840]LogStaticMesh: Built static mesh [0.01s] /Game/InteractiveLights/Mesh/Switches/SM_LightSwitch_01.SM_LightSwitch_01
+[2020.02.09-16.34.05:793][840]LogStaticMesh: Building static mesh SM_LightSwitch_01B...
+[2020.02.09-16.34.05:799][840]LogStaticMesh: Built static mesh [0.01s] /Game/InteractiveLights/Mesh/Switches/SM_LightSwitch_01B.SM_LightSwitch_01B
+[2020.02.09-16.34.05:802][840]LogStaticMesh: Building static mesh SM_LightSwitch_02...
+[2020.02.09-16.34.05:817][840]LogStaticMesh: Built static mesh [0.02s] /Game/InteractiveLights/Mesh/Switches/SM_LightSwitch_02.SM_LightSwitch_02
+[2020.02.09-16.34.05:822][840]LogStaticMesh: Building static mesh SM_LightSwitch_03...
+[2020.02.09-16.34.05:825][840]LogStaticMesh: Built static mesh [0.00s] /Game/InteractiveLights/Mesh/Switches/SM_LightSwitch_03.SM_LightSwitch_03
+[2020.02.09-16.34.05:829][840]LogStaticMesh: Building static mesh SM_LightSwitch_04...
+[2020.02.09-16.34.05:834][840]LogStaticMesh: Built static mesh [0.01s] /Game/InteractiveLights/Mesh/Switches/SM_LightSwitch_04.SM_LightSwitch_04
+[2020.02.09-16.34.05:870][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.02.09-16.34.18:988][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.02.09-16.34.19:012][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.02.09-16.34.19:039][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.19:063][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.02.09-16.34.19:086][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.02.09-16.34.19:110][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.02.09-16.34.19:134][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.02.09-16.34.19:166][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.02.09-16.34.19:190][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.09-16.34.19:215][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.09-16.34.19:240][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.19:265][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.19:288][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.02.09-16.34.19:312][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.09-16.34.19:337][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.19:366][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.19:390][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.19:414][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.19:438][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.19:462][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.19:486][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.02.09-16.34.19:510][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.19:533][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.19:558][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.19:584][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.09-16.34.19:610][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.02.09-16.34.19:632][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.19:658][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.09-16.34.19:682][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.19:707][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.19:730][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.09-16.34.19:756][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.19:779][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.19:806][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.02.09-16.34.19:829][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.19:852][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.02.09-16.34.19:875][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.19:899][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.19:925][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.19:949][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.02.09-16.34.19:973][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.19:998][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.20:024][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.20:048][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.09-16.34.20:072][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.20:097][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.20:122][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.20:147][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.09-16.34.20:171][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.20:195][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.20:220][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.02.09-16.34.20:249][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.09-16.34.20:274][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.20:298][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.09-16.34.20:323][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.02.09-16.34.20:347][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.09-16.34.20:372][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.20:396][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.20:420][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.02.09-16.34.20:449][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.09-16.34.20:473][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.20:497][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.20:522][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.20:548][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.20:571][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.20:595][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.09-16.34.20:620][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.02.09-16.34.20:651][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.09-16.34.20:674][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.20:699][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.20:724][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.20:748][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.09-16.34.20:773][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.20:797][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.02.09-16.34.20:821][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.02.09-16.34.20:849][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.20:873][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.20:896][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.09-16.34.20:921][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.20:946][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.20:969][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.02.09-16.34.20:995][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.02.09-16.34.21:019][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.02.09-16.34.21:043][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.21:070][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.02.09-16.34.21:096][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.21:119][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.02.09-16.34.21:143][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.21:167][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.21:191][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.09-16.34.21:216][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.21:242][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.21:267][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.21:292][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.02.09-16.34.21:315][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.02.09-16.34.21:339][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.21:362][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.21:387][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.02.09-16.34.21:411][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.09-16.34.21:436][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.02.09-16.34.21:459][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.21:483][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.09-16.34.21:508][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.09-16.34.21:533][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.02.09-16.34.21:558][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.09-16.34.21:582][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.09-16.34.21:608][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.02.09-16.34.21:631][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.09-16.34.21:656][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.21:682][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.09-16.34.21:706][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.21:732][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.21:756][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.21:782][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.21:807][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.21:831][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.02.09-16.34.21:856][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.09-16.34.21:881][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.09-16.34.21:906][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.21:930][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.09-16.34.21:957][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.21:982][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.22:007][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.22:031][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.22:056][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.22:080][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.22:104][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.22:126][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.09-16.34.22:150][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.22:176][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.22:200][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.22:224][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.22:247][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.22:272][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.22:296][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.09-16.34.22:321][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.09-16.34.22:345][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.02.09-16.34.22:369][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.02.09-16.34.22:400][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.09-16.34.22:426][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.02.09-16.34.22:449][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.09-16.34.23:482][840]SourceControl: Error: Updated 0 paths from the index
+[2020.02.09-16.34.23:482][840]SourceControl: Error: Updated 0 paths from the index
+[2020.02.09-16.34.23:482][840]SourceControl: Error: Updated 0 paths from the index
+[2020.02.09-16.34.23:482][840]SourceControl: Unstaged changes after reset:
+[2020.02.09-16.34.23:482][840]SourceControl: M	Saved/Logs/MMI_VR.log
+[2020.02.09-16.34.23:482][840]SourceControl: Unstaged changes after reset:
+[2020.02.09-16.34.23:482][840]SourceControl: M	Saved/Logs/MMI_VR.log
+[2020.02.09-16.34.23:482][840]SourceControl: Unstaged changes after reset:
+[2020.02.09-16.34.23:482][840]SourceControl: M	Saved/Logs/MMI_VR.log
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Mesh/Materials/M_Emissive_LightPanels2.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Mesh/Switches/SM_LightSwitch_01.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Mesh/Switches/SM_LightSwitch_01B.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Mesh/Switches/SM_LightSwitch_02.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Mesh/Switches/SM_LightSwitch_02B.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Mesh/Switches/SM_LightSwitch_03.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Mesh/Switches/SM_LightSwitch_04.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Mesh/Textures/T_Halogen.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Mesh/Textures/T_Halogen_Mask.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Mesh/Textures/T_Lamp_01_Diff.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Mesh/Textures/T_Lamp_01_Mask.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Mesh/Textures/T_Lamp_Rectanble_Diff.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Mesh/Textures/T_Lamp_Rectanble_Normal.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Mesh/Textures/T_Lamp_Rectangle_Mask.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Sounds/Attenuation_Buzzing.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Sounds/Attenuation_Light.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Sounds/Attenuation_Switch.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Sounds/SC_FluorescentLight_Flicker.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Sounds/SC_FluorescentLight_On.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Sounds/SC_LightBuzzing_01.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Sounds/SC_LightBuzzing_02.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Sounds/SC_LightBuzzing_03.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Sounds/SC_LightSwitch_01.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Sounds/SC_LightSwitch_02.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Sounds/SC_LightSwitch_03.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Sounds/SC_LightSwitch_04.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Sounds/SC_LightSwitch_05.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Sounds/Waves/S_FluorescentLightFlickering_A.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Sounds/Waves/S_FluorescentLightFlickering_B.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Sounds/Waves/S_FluorescentLight_Flicker.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Sounds/Waves/S_FluorescentLight_On_A.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Sounds/Waves/S_FluorescentLight_On_B.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Sounds/Waves/S_FluorescentLight_On_C.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Sounds/Waves/S_LightBuzzing_01.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Sounds/Waves/S_LightBuzzing_02.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Sounds/Waves/S_LightBuzzing_03.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Sounds/Waves/S_LightSwitch_01.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Sounds/Waves/S_LightSwitch_02.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Sounds/Waves/S_LightSwitch_03.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Sounds/Waves/S_LightSwitch_04A.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Sounds/Waves/S_LightSwitch_04B.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Sounds/Waves/S_LightSwitch_05.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Textures/EmissiveMasks/T_EmissiveMask.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Textures/EmissiveMasks/T_Fluorescent_Mask.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Textures/EmissiveMasks/T_LightPanel_1.uasset'
+[2020.02.09-16.34.24:429][840]SourceControl: rm 'Content/InteractiveLights/Textures/EmissiveMasks/T_LightPanel_2.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Textures/T_Cotton_Normal.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Textures/T_Pattern_01_N.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Textures/T_Pattern_02_N.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Textures/T_Plastic_Matte_N.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Materials/M_Emissive_Orange.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Materials/M_Emissive_Red.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Materials/M_Emissive_White.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Materials/M_FontEmissve.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Materials/M_Invisible.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Materials/M_Metal_Master.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Materials/M_Metal_Painted_Red.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Materials/M_Metal_Pattern.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Materials/M_Metal_Rough.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Materials/M_Metal_Rough2.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Materials/M_Metal_Shiny.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Materials/M_Plastic_Beige.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Materials/M_Plastic_Black.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Materials/M_Plastic_Matte.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Materials/M_Plastic_White.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Materials/M_Simple_Master.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/Materials/M_EmissiveAdv_Fluorescent.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/Materials/M_EmissiveAdv_Halogen.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/Materials/M_EmissiveAdv_Lamp.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/Materials/M_EmissiveAdv_Lamp_01.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/Materials/M_EmissiveAdv_LightPanel_A.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/Materials/M_EmissiveAdv_LightPanel_B.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/Materials/M_EmissiveAdv_Siren.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/Materials/M_Emissive_Bulb.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/Materials/M_Emissive_LightPanels.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/SM_1x1.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/SM_BallLamp.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/SM_Bulb_01.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/SM_Bulb_02.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/SM_Bulb_03.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/SM_CeilingLamp_01.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/SM_CeilingLamp_02.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/SM_CeilingLamp_03.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/SM_DeskLamp.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/SM_DeskLamp_02.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/SM_FluorescentLight_01.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/SM_FluorescentLight_02.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/SM_GardenLight.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/SM_Lamp_01.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/SM_Lamp_02.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/SM_Lamp_03.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/SM_LedLight_01.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/SM_LedLight_02.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/SM_LightPanel_A.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/SM_LightPanel_B.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/SM_NeonLight.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/SM_SciFiLamp.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/SM_SirenLight.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/SM_StreetLamp_01.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Mesh/SM_StreetLamp_02.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/B_LightSwitch.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/B_Point_Light.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/B_Rect_Light.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/B_Spot_Light.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/BaseElements/LightModification.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/BaseElements/LightOn_Off.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/BaseElements/Light_Base.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/_Examples/B_BallLamp.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/_Examples/B_Bulb_01.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/_Examples/B_Bulb_02.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/_Examples/B_Bulb_03.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/_Examples/B_CeilingLamp_01.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/_Examples/B_CeilingLamp_02.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/_Examples/B_CeilingLamp_04.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/_Examples/B_DeskLamp_01.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/_Examples/B_DeskLamp_02.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/_Examples/B_FluorescentLight_01.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/_Examples/B_FluorescentLight_01_FlickerStart.uasset'
+[2020.02.09-16.34.24:430][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/_Examples/B_FluorescentLight_02.uasset'
+[2020.02.09-16.34.24:431][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/_Examples/B_GardenLight.uasset'
+[2020.02.09-16.34.24:431][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/_Examples/B_Lamp_01.uasset'
+[2020.02.09-16.34.24:431][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/_Examples/B_Lamp_02.uasset'
+[2020.02.09-16.34.24:431][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/_Examples/B_Lamp_03.uasset'
+[2020.02.09-16.34.24:431][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/_Examples/B_LedLight_01.uasset'
+[2020.02.09-16.34.24:431][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/_Examples/B_LedLight_02.uasset'
+[2020.02.09-16.34.24:431][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/_Examples/B_LightPanel_A.uasset'
+[2020.02.09-16.34.24:431][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/_Examples/B_LightPanel_B.uasset'
+[2020.02.09-16.34.24:431][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/_Examples/B_NeonLight.uasset'
+[2020.02.09-16.34.24:431][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/_Examples/B_SciFiLamp.uasset'
+[2020.02.09-16.34.24:431][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/_Examples/B_SirenLight.uasset'
+[2020.02.09-16.34.24:431][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/_Examples/B_StreetLamp_01.uasset'
+[2020.02.09-16.34.24:431][840]SourceControl: rm 'Content/InteractiveLights/Blueprints/_Examples/B_StreetLamp_02.uasset'
+[2020.02.09-16.34.24:431][840]SourceControl: rm 'Content/InteractiveLights/Maps/Showcase.umap'
+[2020.02.09-16.34.24:431][840]SourceControl: rm 'Content/InteractiveLights/Maps/Showcase_BuiltData.uasset'
+[2020.02.09-16.34.24:431][840]SourceControl: rm 'Content/InteractiveLights/Materials/M_Ceramic_White.uasset'
+[2020.02.09-16.34.24:431][840]SourceControl: rm 'Content/InteractiveLights/Materials/M_EmissiveAdv_Master.uasset'
+[2020.02.09-16.34.24:431][840]SourceControl: rm 'Content/InteractiveLights/Materials/M_Emissive_Blue.uasset'
+[2020.02.09-16.34.24:431][840]SourceControl: rm 'Content/InteractiveLights/Materials/M_Emissive_Master.uasset'
+[2020.02.09-16.34.24:431][840]SourceControl: rm 'Content/InteractiveLights/Materials/M_Emissive_Matte.uasset'
