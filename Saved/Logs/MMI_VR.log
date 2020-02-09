@@ -6862,3 +6862,14 @@ Please see Output Log for details.
 [2020.02.09-18.47.24:436][502]LogSlate: FSceneViewport::OnFocusLost() reason 5
 [2020.02.09-18.47.24:474][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
 [2020.02.09-18.47.24:474][502]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/salle_com/Map_com' took 0.025
+[2020.02.09-18.47.58:122][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-18.47.58:295][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.02.09-18.48.00:233][538]LogSlate: Window 'Save Content' being destroyed
+[2020.02.09-18.48.00:261][538]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-18.48.00:358][538]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.09-18.48.00:365][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/salle_com/Map_com" FILE="../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Content/salle_com/Map_com.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.09-18.48.00:390][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.02.09-18.48.00:512][538]LogSavePackage: Moving '../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Saved/Map_com3D8CD80B4B05700C04C2A697775CE202.tmp' to '../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Content/salle_com/Map_com.umap'
+[2020.02.09-18.48.00:545][538]LogFileHelpers: Saving map 'Map_com' took 0.180
+[2020.02.09-18.48.00:548][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/salle_com/Map_com_BuiltData" FILE="../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Content/salle_com/Map_com_BuiltData.uasset" SILENT=true
+[2020.02.09-18.48.00:700][538]LogSavePackage: Moving '../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Saved/Map_com_BuiltDataE1D4EF4842B40B8C793B70A23E359EE9.tmp' to '../../../../../../Users/designLab/Documents/Unreal Projects/MMI_VR/Content/salle_com/Map_com_BuiltData.uasset'
