@@ -6206,3 +6206,198 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.10-23.10.56:815][559]LogSavePackage: Moving '../../../../../../Users/mmi/Documents/Unreal Projects/MMI_VR/Saved/Map_hubFin8FDBBE4B4CC152C86DACB5BBCD78E98A.tmp' to '../../../../../../Users/mmi/Documents/Unreal Projects/MMI_VR/Content/salle_hubFin/Map_hubFin.umap'
 [2020.02.10-23.10.56:925][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/salle_hubFin/Map_hubFin_BuiltData" FILE="../../../../../../Users/mmi/Documents/Unreal Projects/MMI_VR/Content/salle_hubFin/Map_hubFin_BuiltData.uasset" SILENT=true
 [2020.02.10-23.10.57:251][559]LogSavePackage: Moving '../../../../../../Users/mmi/Documents/Unreal Projects/MMI_VR/Saved/Map_hubFin_BuiltData3643A87642274DA18C39C1B441DB85B2.tmp' to '../../../../../../Users/mmi/Documents/Unreal Projects/MMI_VR/Content/salle_hubFin/Map_hubFin_BuiltData.uasset'
+[2020.02.10-23.13.35:407][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.10-23.15.20:942][984]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight3)
+[2020.02.10-23.15.22:371][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.10-23.15.38:026][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.10-23.15.38:126][ 12]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.10-23.15.39:524][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.10-23.15.39:624][102]MapCheck: New page: Map Check
+[2020.02.10-23.15.39:642][102]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.10-23.15.39:642][102]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.10-23.15.39:663][102]LogWorld: UWorld::CleanupWorld for Map_hubFin, bSessionEnded=true, bCleanupResources=false
+[2020.02.10-23.15.39:720][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.02.10-23.15.39:754][102]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.10-23.15.39:772][102]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.10-23.15.39:772][102]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.10-23.15.39:772][102]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.10-23.15.39:785][102]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.10-23.15.39:785][102]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.10-23.15.39:785][102]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2020.02.10-23.15.39:813][102]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.10-23.15.39:835][102]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.10-23.15.39:872][102]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.10-23.15.39:885][102]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.10-23.15.39:897][102]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.10-23.15.39:958][102]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.10-23.15.39:969][102]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.10-23.15.39:980][102]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.10-23.15.43:797][102]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 54
+[2020.02.10-23.15.43:797][102]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 53
+[2020.02.10-23.15.43:797][102]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 52
+[2020.02.10-23.15.43:797][102]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 51
+[2020.02.10-23.15.43:797][102]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 50
+[2020.02.10-23.15.43:797][102]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 49
+[2020.02.10-23.15.43:797][102]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 48
+[2020.02.10-23.15.43:797][102]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 47
+[2020.02.10-23.15.43:797][102]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 46
+[2020.02.10-23.15.43:797][102]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 45
+[2020.02.10-23.15.43:797][102]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 44
+[2020.02.10-23.15.43:797][102]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 43
+[2020.02.10-23.15.43:797][102]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2020.02.10-23.15.43:797][102]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 41
+[2020.02.10-23.15.43:797][102]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 40
+[2020.02.10-23.15.43:797][102]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2020.02.10-23.15.43:797][102]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
+[2020.02.10-23.15.43:797][102]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2020.02.10-23.15.43:797][102]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2020.02.10-23.15.43:797][102]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2020.02.10-23.15.43:797][102]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2020.02.10-23.15.43:797][102]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2020.02.10-23.15.43:797][102]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2020.02.10-23.15.43:797][102]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.02.10-23.15.43:797][102]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2020.02.10-23.15.43:797][102]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2020.02.10-23.15.43:797][102]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2020.02.10-23.15.43:797][102]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2020.02.10-23.15.43:797][102]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2020.02.10-23.15.43:798][102]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.02.10-23.15.43:798][102]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2020.02.10-23.15.43:798][102]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2020.02.10-23.15.43:798][102]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.02.10-23.15.43:798][102]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2020.02.10-23.15.43:798][102]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.02.10-23.15.43:798][102]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.02.10-23.15.43:798][102]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.02.10-23.15.43:798][102]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.02.10-23.15.43:798][102]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2020.02.10-23.15.43:798][102]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.02.10-23.15.43:798][102]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.02.10-23.15.43:798][102]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.02.10-23.15.43:798][102]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.02.10-23.15.43:798][102]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.02.10-23.15.43:798][102]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.02.10-23.15.43:798][102]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.02.10-23.15.43:798][102]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.10-23.15.43:798][102]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.02.10-23.15.43:798][102]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.02.10-23.15.43:798][102]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.02.10-23.15.43:798][102]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.02.10-23.15.43:798][102]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.02.10-23.15.43:798][102]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.10-23.15.43:798][102]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.10-23.15.43:798][102]TextureStreamingBuild: Display: Compiling optional shaders took 4.048 seconds.
+[2020.02.10-23.15.43:824][102]LogLevel: Display: Export Material TexCoord Scales took 0.026 seconds.
+[2020.02.10-23.15.43:858][102]TextureStreamingBuild: Display: Build Texture Streaming took 0.033 seconds.
+[2020.02.10-23.15.43:882][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.02.10-23.15.43:882][102]LightingResults: New page: Lighting Build - 11 févr. 2020 01:15:43
+[2020.02.10-23.15.43:889][102]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.10-23.15.43:896][102]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.10-23.15.43:896][102]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.10-23.15.43:897][102]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.10-23.15.43:897][102]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17360
+[2020.02.10-23.15.48:411][102]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.10-23.15.48:412][102]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.10-23.15.48:412][102]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.10-23.15.48:412][102]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.10-23.15.48:412][102]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.10-23.15.48:531][102]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.02.10-23.15.48:531][102]MapCheck: New page: Map_hubFin - 11 févr. 2020 01:15:48
+[2020.02.10-23.15.48:531][102]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,411ms to complete.
+[2020.02.10-23.15.48:533][102]LogEditorBuildUtils: Build time 0:08
+[2020.02.10-23.15.48:644][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.02.10-23.15.57:060][585]Job is a success!
+[2020.02.10-23.15.57:138][586]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.017s
+[2020.02.10-23.15.57:139][586]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.02.10-23.15.57:139][586]LogVolumetricLightmapImport:      BrickData 605x5x5 = 0.5Mb
+[2020.02.10-23.15.57:139][586]LogVolumetricLightmapImport:      Bricks at Level
+[2020.02.10-23.15.57:139][586]LogVolumetricLightmapImport:          0: 0.8% covering 100.0% of volume
+[2020.02.10-23.15.57:139][586]LogVolumetricLightmapImport:          1: 6.6% covering 12.5% of volume
+[2020.02.10-23.15.57:139][586]LogVolumetricLightmapImport:          2: 92.6% covering 2.7% of volume
+[2020.02.10-23.15.58:574][586]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.02.10-23.15.58:574][586]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.02.10-23.15.58:575][586]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2020.02.10-23.15.58:575][586]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2020.02.10-23.15.58:575][586]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 512X512)
+[2020.02.10-23.15.58:575][586]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 512X512)
+[2020.02.10-23.15.58:575][586]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2020.02.10-23.15.58:575][586]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2020.02.10-23.15.58:775][586]LogTexture: Display: Building textures: ShadowMapTexture2D_55 (BGRA8, 32X32)
+[2020.02.10-23.15.58:775][586]LogTexture: Display: Building textures: ShadowMapTexture2D_54 (BGRA8, 64X64)
+[2020.02.10-23.15.58:775][586]LogTexture: Display: Building textures: ShadowMapTexture2D_53 (BGRA8, 1024X512)
+[2020.02.10-23.15.58:854][586]LogTexture: Display: Building textures: ShadowMapTexture2D_52 (BGRA8, 1024X1024)
+[2020.02.10-23.15.58:865][586]LogStaticLightingSystem: Map_hubFin_BuiltData storing lightmap data for 62 meshes in 7 LightmapResourceClusters (8.9 Meshes per cluster).
+[2020.02.10-23.15.58:891][586]Lightmass on MMI-PORT2: 9.79 sec total, 229 ms importing, 99 ms setup, 1.25 sec photons, 8.17 sec processing, 0 ms extra exporting [147/147 mappings]. Threads: 57.2 sec total, 25.1 sec processing.
+[2020.02.10-23.15.58:894][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.02.10-23.15.58:904][586]LogStaticLightingSystem: Illumination: 14.9 sec (1.10 sec encoding lightmaps, 272 ms encoding shadowmaps)
+[2020.02.10-23.15.58:904][586]LogStaticLightingSystem: Lightmap texture memory:  10.5 MB (0.5 MB streaming, 10.0 MB non-streaming), 8 textures
+[2020.02.10-23.15.58:904][586]LogStaticLightingSystem: Shadowmap texture memory: 8.0 MB (0.0 MB streaming, 8.0 MB non-streaming), 4 textures
+[2020.02.10-23.15.59:422][586]DumpUnbuiltLightIteractions
+[2020.02.10-23.15.59:422][586]Lights with unbuilt interactions: 0
+[2020.02.10-23.15.59:422][586]
+[2020.02.10-23.15.59:422][586]Primitives with unbuilt interactions: 0
+[2020.02.10-23.15.59:435][586]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.10-23.15.59:466][587]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.10-23.15.59:466][587]MapCheck: New page: Map_hubFin - 11 févr. 2020 01:15:59
+[2020.02.10-23.15.59:467][587]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,532ms to complete.
+[2020.02.10-23.16.29:621][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.10-23.16.29:720][402]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.10-23.16.29:737][402]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/salle_hubFin/Map_hubFin.Map_hubFin:PersistentLevel' has LevelScriptBlueprint '/Game/salle_hubFin/Map_hubFin.Map_hubFin:PersistentLevel.Map_hubFin' with GeneratedClass '/Game/salle_hubFin/Map_hubFin.Map_hubFin_C' with ClassGeneratedBy '/Game/salle_hubFin/Map_hubFin.Map_hubFin:PersistentLevel.Map_hubFin'
+[2020.02.10-23.16.29:737][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.10-23.16.29:737][402]PIE: New page: PIE session: Map_hubFin (11 févr. 2020 01:16:29)
+[2020.02.10-23.16.29:737][402]LogPlayLevel: Creating play world package: /Game/salle_hubFin/UEDPIE_0_Map_hubFin
+[2020.02.10-23.16.29:749][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011622s)
+[2020.02.10-23.16.29:749][402]LogAIModule: Creating AISystem for world Map_hubFin
+[2020.02.10-23.16.29:750][402]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2020.02.10-23.16.29:750][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/salle_hubFin/Map_hubFin.Map_hubFin to /Game/salle_hubFin/UEDPIE_0_Map_hubFin.Map_hubFin (0.012611s)
+[2020.02.10-23.16.29:773][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.02.10-23.16.29:780][402]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.10-23.16.29:861][402]LogInit: FAudioDevice initialized.
+[2020.02.10-23.16.29:868][402]LogLoad: Game class is 'GameModeBase'
+[2020.02.10-23.16.29:871][402]LogWorld: Bringing World /Game/salle_hubFin/UEDPIE_0_Map_hubFin.Map_hubFin up for play (max tick rate 60) at 2020.02.11-00.16.29
+[2020.02.10-23.16.29:871][402]LogWorld: Bringing up level for play took: 0.001594
+[2020.02.10-23.16.29:871][402]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2020.02.10-23.16.29:875][402]PIE: Play in editor start time for /Game/salle_hubFin/UEDPIE_0_Map_hubFin -0,853
+[2020.02.10-23.16.29:875][402]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/salle_hubFin/Map_hubFin.Map_hubFin:PersistentLevel' has LevelScriptBlueprint '/Game/salle_hubFin/Map_hubFin.Map_hubFin:PersistentLevel.Map_hubFin' with GeneratedClass '/Game/salle_hubFin/Map_hubFin.Map_hubFin_C' with ClassGeneratedBy '/Game/salle_hubFin/Map_hubFin.Map_hubFin:PersistentLevel.Map_hubFin'
+[2020.02.10-23.16.31:535][501]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/salle_hubFin/Map_hubFin.Map_hubFin:PersistentLevel' has LevelScriptBlueprint '/Game/salle_hubFin/Map_hubFin.Map_hubFin:PersistentLevel.Map_hubFin' with GeneratedClass '/Game/salle_hubFin/Map_hubFin.Map_hubFin_C' with ClassGeneratedBy '/Game/salle_hubFin/Map_hubFin.Map_hubFin:PersistentLevel.Map_hubFin'
+[2020.02.10-23.16.31:535][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.10-23.16.31:535][501]LogWorld: BeginTearingDown for /Game/salle_hubFin/UEDPIE_0_Map_hubFin
+[2020.02.10-23.16.31:535][501]LogWorld: UWorld::CleanupWorld for Map_hubFin, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-23.16.31:544][501]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.10-23.16.31:544][501]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/salle_hubFin/Map_hubFin.Map_hubFin:PersistentLevel' has LevelScriptBlueprint '/Game/salle_hubFin/Map_hubFin.Map_hubFin:PersistentLevel.Map_hubFin' with GeneratedClass '/Game/salle_hubFin/Map_hubFin.Map_hubFin_C' with ClassGeneratedBy '/Game/salle_hubFin/Map_hubFin.Map_hubFin:PersistentLevel.Map_hubFin'
+[2020.02.10-23.16.31:572][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.10-23.16.31:574][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.02.10-23.16.31:638][505]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2020.02.10-23.16.33:305][605]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.10-23.16.33:321][605]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/salle_hubFin/Map_hubFin.Map_hubFin:PersistentLevel' has LevelScriptBlueprint '/Game/salle_hubFin/Map_hubFin.Map_hubFin:PersistentLevel.Map_hubFin' with GeneratedClass '/Game/salle_hubFin/Map_hubFin.Map_hubFin_C' with ClassGeneratedBy '/Game/salle_hubFin/Map_hubFin.Map_hubFin:PersistentLevel.Map_hubFin'
+[2020.02.10-23.16.33:322][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.10-23.16.33:322][605]PIE: New page: PIE session: Map_hubFin (11 févr. 2020 01:16:33)
+[2020.02.10-23.16.33:322][605]LogPlayLevel: Creating play world package: /Game/salle_hubFin/UEDPIE_0_Map_hubFin
+[2020.02.10-23.16.33:333][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011239s)
+[2020.02.10-23.16.33:334][605]LogAIModule: Creating AISystem for world Map_hubFin
+[2020.02.10-23.16.33:334][605]LogPlayLevel: PIE: World Init took: (0.000997s)
+[2020.02.10-23.16.33:334][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/salle_hubFin/Map_hubFin.Map_hubFin to /Game/salle_hubFin/UEDPIE_0_Map_hubFin.Map_hubFin (0.012354s)
+[2020.02.10-23.16.33:357][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.02.10-23.16.33:365][605]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.10-23.16.33:444][605]LogInit: FAudioDevice initialized.
+[2020.02.10-23.16.33:453][605]LogLoad: Game class is 'GameModeBase'
+[2020.02.10-23.16.33:455][605]LogWorld: Bringing World /Game/salle_hubFin/UEDPIE_0_Map_hubFin.Map_hubFin up for play (max tick rate 60) at 2020.02.11-00.16.33
+[2020.02.10-23.16.33:455][605]LogWorld: Bringing up level for play took: 0.001526
+[2020.02.10-23.16.33:456][605]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2020.02.10-23.16.33:460][605]PIE: Play in editor start time for /Game/salle_hubFin/UEDPIE_0_Map_hubFin 0,733
+[2020.02.10-23.16.33:460][605]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/salle_hubFin/Map_hubFin.Map_hubFin:PersistentLevel' has LevelScriptBlueprint '/Game/salle_hubFin/Map_hubFin.Map_hubFin:PersistentLevel.Map_hubFin' with GeneratedClass '/Game/salle_hubFin/Map_hubFin.Map_hubFin_C' with ClassGeneratedBy '/Game/salle_hubFin/Map_hubFin.Map_hubFin:PersistentLevel.Map_hubFin'
+[2020.02.10-23.17.18:856][ 51]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/salle_hubFin/Map_hubFin.Map_hubFin:PersistentLevel' has LevelScriptBlueprint '/Game/salle_hubFin/Map_hubFin.Map_hubFin:PersistentLevel.Map_hubFin' with GeneratedClass '/Game/salle_hubFin/Map_hubFin.Map_hubFin_C' with ClassGeneratedBy '/Game/salle_hubFin/Map_hubFin.Map_hubFin:PersistentLevel.Map_hubFin'
+[2020.02.10-23.17.18:856][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.10-23.17.18:856][ 51]LogWorld: BeginTearingDown for /Game/salle_hubFin/UEDPIE_0_Map_hubFin
+[2020.02.10-23.17.18:856][ 51]LogWorld: UWorld::CleanupWorld for Map_hubFin, bSessionEnded=true, bCleanupResources=true
+[2020.02.10-23.17.18:865][ 51]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.10-23.17.18:866][ 51]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/salle_hubFin/Map_hubFin.Map_hubFin:PersistentLevel' has LevelScriptBlueprint '/Game/salle_hubFin/Map_hubFin.Map_hubFin:PersistentLevel.Map_hubFin' with GeneratedClass '/Game/salle_hubFin/Map_hubFin.Map_hubFin_C' with ClassGeneratedBy '/Game/salle_hubFin/Map_hubFin.Map_hubFin:PersistentLevel.Map_hubFin'
+[2020.02.10-23.17.18:894][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.10-23.17.18:897][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.02.10-23.17.18:960][ 55]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2020.02.10-23.17.19:656][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.10-23.17.19:735][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.10-23.17.19:762][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.02.10-23.17.19:904][ 96]LogSavePackage: Moving '../../../../../../Users/mmi/Documents/Unreal Projects/MMI_VR/Saved/Map_hubFin82F6E00346E4DC8D718CBA9EE0F4C960.tmp' to '../../../../../../Users/mmi/Documents/Unreal Projects/MMI_VR/Content/salle_hubFin/Map_hubFin.umap'
+[2020.02.10-23.17.20:017][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/salle_hubFin/Map_hubFin_BuiltData" FILE="../../../../../../Users/mmi/Documents/Unreal Projects/MMI_VR/Content/salle_hubFin/Map_hubFin_BuiltData.uasset" SILENT=true
+[2020.02.10-23.17.20:345][ 96]LogSavePackage: Moving '../../../../../../Users/mmi/Documents/Unreal Projects/MMI_VR/Saved/Map_hubFin_BuiltDataCE75DBDA4D847F8529858E9AC6151BDD.tmp' to '../../../../../../Users/mmi/Documents/Unreal Projects/MMI_VR/Content/salle_hubFin/Map_hubFin_BuiltData.uasset'
