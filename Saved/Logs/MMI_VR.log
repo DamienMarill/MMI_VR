@@ -1071,3 +1071,869 @@ Gauche
 [2020.02.20-20.34.53:330][273]LogPlayLevel: Display: Destroying online subsystem :Context_9
 [2020.02.20-20.34.53:337][273]LogEngine: Changing dynamic resolution state.
 [2020.02.20-20.35.43:025][629]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.02.20-20.37.25:933][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-20.37.53:227][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-20.37.53:313][  7]LogTemp: Repeating last play command: VR Preview
+[2020.02.20-20.37.53:340][  7]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.37.53:340][  7]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-20.37.53:340][  7]LogHMD: Initializing OVRPlugin session
+[2020.02.20-20.37.53:451][  7]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2020.02.20-20.37.53:452][  7]PIE: New page: PIE session: Map_progra (20 févr. 2020 22:37:53)
+[2020.02.20-20.37.53:452][  7]LogPlayLevel: Creating play world package: /Game/salle_progra/UEDPIE_0_Map_progra
+[2020.02.20-20.37.53:499][  7]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046232s)
+[2020.02.20-20.37.53:500][  7]LogAIModule: Creating AISystem for world Map_progra
+[2020.02.20-20.37.53:501][  7]LogPlayLevel: PIE: World Init took: (0.001648s)
+[2020.02.20-20.37.53:501][  7]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/salle_progra/Map_progra.Map_progra to /Game/salle_progra/UEDPIE_0_Map_progra.Map_progra (0.048440s)
+[2020.02.20-20.37.53:547][  7]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.02.20-20.37.53:621][  7]LogInit: XAudio2 using 'Casque (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-20.37.53:637][  7]LogInit: FAudioDevice initialized.
+[2020.02.20-20.37.53:664][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-20.37.53:709][  7]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-20.37.53:715][  7]LogWorld: Bringing World /Game/salle_progra/UEDPIE_0_Map_progra.Map_progra up for play (max tick rate 0) at 2020.02.20-21.37.53
+[2020.02.20-20.37.53:716][  7]LogWorld: Bringing up level for play took: 0.005401
+[2020.02.20-20.37.53:716][  7]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.02.20-20.37.53:718][  7]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/
+[2020.02.20-20.37.53:727][  7]PIE: Play in editor start time for /Game/salle_progra/UEDPIE_0_Map_progra 1,103
+[2020.02.20-20.37.53:727][  7]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.37.53:729][  7]LogEngine: Changing dynamic resolution state.
+[2020.02.20-20.37.53:826][  7]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2020.02.20-20.37.53:851][  8]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2020.02.20-20.37.59:407][216]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.37.59:461][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-20.37.59:461][216]LogWorld: BeginTearingDown for /Game/salle_progra/UEDPIE_0_Map_progra
+[2020.02.20-20.37.59:826][216]LogSlate: Window 'MMI_VR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.20-20.37.59:841][216]LogWorld: UWorld::CleanupWorld for Map_progra, bSessionEnded=true, bCleanupResources=true
+[2020.02.20-20.37.59:870][216]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-20.37.59:871][216]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.37.59:949][216]LogUObjectHash: Compacting FUObjectHashTables data took   6.88ms
+[2020.02.20-20.38.00:014][216]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_141] Couleur
+Fond
+[2020.02.20-20.38.00:015][216]LogBlueprintUserMessages: [Menu_C_0] bgColor
+[2020.02.20-20.38.00:016][216]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_142] Taille
+[2020.02.20-20.38.00:016][216]LogBlueprintUserMessages: [Menu_C_0] size
+[2020.02.20-20.38.00:017][216]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_143] Opacité
+[2020.02.20-20.38.00:018][216]LogBlueprintUserMessages: [Menu_C_0] opacity
+[2020.02.20-20.38.00:019][216]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_144] Marge
+Gauche
+[2020.02.20-20.38.00:019][216]LogBlueprintUserMessages: [Menu_C_0] marginLeft
+[2020.02.20-20.38.00:021][216]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_145] Couleur
+[2020.02.20-20.38.00:021][216]LogBlueprintUserMessages: [Menu_C_0] color
+[2020.02.20-20.38.00:022][216]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.38.00:024][216]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.38.00:025][216]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.38.00:091][217]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.02.20-20.38.00:093][217]LogEngine: Changing dynamic resolution state.
+[2020.02.20-20.38.09:721][794]BlueprintLog: New page: Compile BPI_WebBrowser
+[2020.02.20-20.38.10:155][794]LogUObjectHash: Compacting FUObjectHashTables data took   6.47ms
+[2020.02.20-20.38.11:733][900]LogTemp: Repeating last play command: VR Preview
+[2020.02.20-20.38.11:758][900]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.38.11:758][900]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-20.38.11:758][900]LogHMD: Initializing OVRPlugin session
+[2020.02.20-20.38.11:858][900]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2020.02.20-20.38.11:859][900]PIE: New page: PIE session: Map_progra (20 févr. 2020 22:38:11)
+[2020.02.20-20.38.11:859][900]LogPlayLevel: Creating play world package: /Game/salle_progra/UEDPIE_0_Map_progra
+[2020.02.20-20.38.11:905][900]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046105s)
+[2020.02.20-20.38.11:906][900]LogAIModule: Creating AISystem for world Map_progra
+[2020.02.20-20.38.11:906][900]LogPlayLevel: PIE: World Init took: (0.000896s)
+[2020.02.20-20.38.11:906][900]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/salle_progra/Map_progra.Map_progra to /Game/salle_progra/UEDPIE_0_Map_progra.Map_progra (0.047372s)
+[2020.02.20-20.38.11:951][900]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.02.20-20.38.12:032][900]LogInit: XAudio2 using 'Casque (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-20.38.12:048][900]LogInit: FAudioDevice initialized.
+[2020.02.20-20.38.12:072][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-20.38.12:118][900]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-20.38.12:124][900]LogWorld: Bringing World /Game/salle_progra/UEDPIE_0_Map_progra.Map_progra up for play (max tick rate 0) at 2020.02.20-21.38.12
+[2020.02.20-20.38.12:124][900]LogWorld: Bringing up level for play took: 0.005928
+[2020.02.20-20.38.12:125][900]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.02.20-20.38.12:127][900]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/
+[2020.02.20-20.38.12:138][900]PIE: Play in editor start time for /Game/salle_progra/UEDPIE_0_Map_progra -0,485
+[2020.02.20-20.38.12:138][900]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.38.12:140][900]LogEngine: Changing dynamic resolution state.
+[2020.02.20-20.38.12:256][900]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2020.02.20-20.38.12:307][902]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2020.02.20-20.38.21:358][217]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1334] Marge
+Gauche
+[2020.02.20-20.38.21:358][217]LogBlueprintUserMessages: [Menu_2] marginLeft
+[2020.02.20-20.38.23:162][279]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?marginLeft=50%
+[2020.02.20-20.38.24:750][332]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1331] Couleur
+Fond
+[2020.02.20-20.38.24:750][332]LogBlueprintUserMessages: [Menu_2] bgColor
+[2020.02.20-20.38.25:481][357]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?bgColor=red
+[2020.02.20-20.38.26:584][395]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?bgColor=blue
+[2020.02.20-20.38.28:158][450]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?bgColor=red
+[2020.02.20-20.38.28:843][474]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?bgColor=white
+[2020.02.20-20.38.29:431][494]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1332] Taille
+[2020.02.20-20.38.29:431][494]LogBlueprintUserMessages: [Menu_2] size
+[2020.02.20-20.38.29:514][497]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1335] Couleur
+[2020.02.20-20.38.29:515][497]LogBlueprintUserMessages: [Menu_2] color
+[2020.02.20-20.38.30:376][527]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1332] Taille
+[2020.02.20-20.38.30:377][527]LogBlueprintUserMessages: [Menu_2] size
+[2020.02.20-20.38.31:068][551]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?size=250px
+[2020.02.20-20.38.32:416][598]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1335] Couleur
+[2020.02.20-20.38.32:417][598]LogBlueprintUserMessages: [Menu_2] color
+[2020.02.20-20.38.33:208][626]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?color=red
+[2020.02.20-20.38.33:858][648]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1334] Marge
+Gauche
+[2020.02.20-20.38.33:858][648]LogBlueprintUserMessages: [Menu_2] marginLeft
+[2020.02.20-20.38.34:532][671]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?marginLeft=100%
+[2020.02.20-20.38.35:521][705]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?marginLeft=0%
+[2020.02.20-20.38.36:341][733]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1333] Opacité
+[2020.02.20-20.38.36:341][733]LogBlueprintUserMessages: [Menu_2] opacity
+[2020.02.20-20.38.36:741][747]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?opacity=1
+[2020.02.20-20.39.23:337][390]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1334] Marge
+Gauche
+[2020.02.20-20.39.23:338][390]LogBlueprintUserMessages: [Menu_2] marginLeft
+[2020.02.20-20.39.23:379][391]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1335] Couleur
+[2020.02.20-20.39.23:379][391]LogBlueprintUserMessages: [Menu_2] color
+[2020.02.20-20.39.24:828][441]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?color=blue
+[2020.02.20-20.39.27:746][544]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1331] Couleur
+Fond
+[2020.02.20-20.39.27:746][544]LogBlueprintUserMessages: [Menu_2] bgColor
+[2020.02.20-20.39.29:068][589]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?bgColor=red
+[2020.02.20-20.39.30:027][623]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?bgColor=blue
+[2020.02.20-20.39.31:403][672]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1334] Marge
+Gauche
+[2020.02.20-20.39.31:404][672]LogBlueprintUserMessages: [Menu_2] marginLeft
+[2020.02.20-20.39.32:091][696]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?marginLeft=50%
+[2020.02.20-20.39.33:527][746]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1335] Couleur
+[2020.02.20-20.39.33:527][746]LogBlueprintUserMessages: [Menu_2] color
+[2020.02.20-20.39.34:154][768]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?color=white
+[2020.02.20-20.39.36:570][853]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1334] Marge
+Gauche
+[2020.02.20-20.39.36:571][853]LogBlueprintUserMessages: [Menu_2] marginLeft
+[2020.02.20-20.39.37:612][888]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?marginLeft=100%
+[2020.02.20-20.39.39:763][964]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?marginLeft=50%
+[2020.02.20-20.39.40:775][  0]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?marginLeft=0%
+[2020.02.20-20.39.41:985][ 42]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1331] Couleur
+Fond
+[2020.02.20-20.39.41:986][ 42]LogBlueprintUserMessages: [Menu_2] bgColor
+[2020.02.20-20.39.42:556][ 62]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1332] Taille
+[2020.02.20-20.39.42:557][ 62]LogBlueprintUserMessages: [Menu_2] size
+[2020.02.20-20.39.42:578][ 63]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1335] Couleur
+[2020.02.20-20.39.42:578][ 63]LogBlueprintUserMessages: [Menu_2] color
+[2020.02.20-20.39.43:170][ 83]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1334] Marge
+Gauche
+[2020.02.20-20.39.43:170][ 83]LogBlueprintUserMessages: [Menu_2] marginLeft
+[2020.02.20-20.39.43:257][ 86]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1333] Opacité
+[2020.02.20-20.39.43:257][ 86]LogBlueprintUserMessages: [Menu_2] opacity
+[2020.02.20-20.39.43:950][110]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1334] Marge
+Gauche
+[2020.02.20-20.39.43:950][110]LogBlueprintUserMessages: [Menu_2] marginLeft
+[2020.02.20-20.39.44:013][112]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1335] Couleur
+[2020.02.20-20.39.44:014][112]LogBlueprintUserMessages: [Menu_2] color
+[2020.02.20-20.39.44:074][114]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1332] Taille
+[2020.02.20-20.39.44:075][114]LogBlueprintUserMessages: [Menu_2] size
+[2020.02.20-20.39.59:665][660]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.39.59:726][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-20.39.59:726][660]LogWorld: BeginTearingDown for /Game/salle_progra/UEDPIE_0_Map_progra
+[2020.02.20-20.40.00:046][660]LogSlate: Window 'MMI_VR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.20-20.40.00:068][660]LogWorld: UWorld::CleanupWorld for Map_progra, bSessionEnded=true, bCleanupResources=true
+[2020.02.20-20.40.00:095][660]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-20.40.00:095][660]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.40.00:171][660]LogUObjectHash: Compacting FUObjectHashTables data took   6.12ms
+[2020.02.20-20.40.00:225][661]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.02.20-20.40.00:226][661]LogEngine: Changing dynamic resolution state.
+[2020.02.20-20.45.21:647][ 21]LogTemp: Repeating last play command: VR Preview
+[2020.02.20-20.45.21:676][ 21]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.45.21:676][ 21]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-20.45.21:676][ 21]LogHMD: Initializing OVRPlugin session
+[2020.02.20-20.45.21:785][ 21]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2020.02.20-20.45.21:786][ 21]PIE: New page: PIE session: Map_progra (20 févr. 2020 22:45:21)
+[2020.02.20-20.45.21:787][ 21]LogPlayLevel: Creating play world package: /Game/salle_progra/UEDPIE_0_Map_progra
+[2020.02.20-20.45.21:835][ 21]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048216s)
+[2020.02.20-20.45.21:837][ 21]LogAIModule: Creating AISystem for world Map_progra
+[2020.02.20-20.45.21:837][ 21]LogPlayLevel: PIE: World Init took: (0.001288s)
+[2020.02.20-20.45.21:837][ 21]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/salle_progra/Map_progra.Map_progra to /Game/salle_progra/UEDPIE_0_Map_progra.Map_progra (0.049924s)
+[2020.02.20-20.45.21:886][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.02.20-20.45.21:959][ 21]LogInit: XAudio2 using 'Casque (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-20.45.21:975][ 21]LogInit: FAudioDevice initialized.
+[2020.02.20-20.45.22:002][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-20.45.22:061][ 21]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-20.45.22:066][ 21]LogWorld: Bringing World /Game/salle_progra/UEDPIE_0_Map_progra.Map_progra up for play (max tick rate 0) at 2020.02.20-21.45.22
+[2020.02.20-20.45.22:067][ 21]LogWorld: Bringing up level for play took: 0.005279
+[2020.02.20-20.45.22:068][ 21]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.02.20-20.45.22:070][ 21]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/
+[2020.02.20-20.45.22:080][ 21]PIE: Play in editor start time for /Game/salle_progra/UEDPIE_0_Map_progra -0,543
+[2020.02.20-20.45.22:081][ 21]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.45.22:082][ 21]LogEngine: Changing dynamic resolution state.
+[2020.02.20-20.45.22:185][ 21]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2020.02.20-20.45.22:218][ 23]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2020.02.20-20.45.30:510][337]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.45.30:568][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-20.45.30:568][337]LogWorld: BeginTearingDown for /Game/salle_progra/UEDPIE_0_Map_progra
+[2020.02.20-20.45.30:676][337]LogSlate: Window 'MMI_VR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.20-20.45.30:696][337]LogWorld: UWorld::CleanupWorld for Map_progra, bSessionEnded=true, bCleanupResources=true
+[2020.02.20-20.45.30:731][337]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-20.45.30:731][337]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.45.30:793][337]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2020.02.20-20.45.30:827][338]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.02.20-20.45.30:828][338]LogEngine: Changing dynamic resolution state.
+[2020.02.20-20.45.36:130][751]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_151] Couleur
+Fond
+[2020.02.20-20.45.36:130][751]LogBlueprintUserMessages: [Menu_C_0] bgColor
+[2020.02.20-20.45.36:131][751]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_152] Taille
+[2020.02.20-20.45.36:131][751]LogBlueprintUserMessages: [Menu_C_0] size
+[2020.02.20-20.45.36:132][751]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_153] Opacité
+[2020.02.20-20.45.36:132][751]LogBlueprintUserMessages: [Menu_C_0] opacity
+[2020.02.20-20.45.36:133][751]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_154] Marge
+Gauche
+[2020.02.20-20.45.36:133][751]LogBlueprintUserMessages: [Menu_C_0] marginLeft
+[2020.02.20-20.45.36:133][751]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_155] Couleur
+[2020.02.20-20.45.36:133][751]LogBlueprintUserMessages: [Menu_C_0] color
+[2020.02.20-20.45.36:134][751]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.45.36:135][751]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.45.36:135][751]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.45.42:822][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-20.45.49:504][559]LogUObjectBase: Warning: Object is not registered
+[2020.02.20-20.45.49:525][559]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.20-20.45.51:391][559]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.865 s
+[2020.02.20-20.45.51:391][559]LogOutputDevice: Error: === Handled ensure: ===
+[2020.02.20-20.45.51:391][559]LogOutputDevice: Error: 
+[2020.02.20-20.45.51:391][559]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2020.02.20-20.45.51:392][559]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.02.20-20.45.51:392][559]LogOutputDevice: Error: Stack: 
+[2020.02.20-20.45.51:392][559]LogOutputDevice: Error: [Callstack] 0x00007ffea7375279 UE4Editor-UnrealEd.dll!DispatchCheckVerify<bool,<lambda_b0962806d2682a61138870b6f79ba3db> >() [d:\build\++ue4\sync\engine\source\runtime\core\public\misc\assertionmacros.h:164]
+[2020.02.20-20.45.51:392][559]LogOutputDevice: Error: [Callstack] 0x00007ffea6b97fca UE4Editor-UnrealEd.dll!FKismetDebugUtilities::FindDebuggingData() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\kismet2\kismetdebugutilities.cpp:1154]
+[2020.02.20-20.45.51:392][559]LogOutputDevice: Error: [Callstack] 0x00007ffea6ba622f UE4Editor-UnrealEd.dll!FKismetDebugUtilities::GetWatchText() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\kismet2\kismetdebugutilities.cpp:1115]
+[2020.02.20-20.45.51:393][559]LogOutputDevice: Error: [Callstack] 0x00007ffe9c766c91 UE4Editor-BlueprintGraph.dll!UK2Node::GetPinHoverText() [d:\build\++ue4\sync\engine\source\editor\blueprintgraph\private\k2node.cpp:1739]
+[2020.02.20-20.45.51:393][559]LogOutputDevice: Error: [Callstack] 0x00007ffe9b204dca UE4Editor-GraphEditor.dll!SGraphPin::GetTooltipText() [d:\build\++ue4\sync\engine\source\editor\grapheditor\private\sgraphpin.cpp:1131]
+[2020.02.20-20.45.51:393][559]LogOutputDevice: Error: [Callstack] 0x00007ffe9b1be057 UE4Editor-GraphEditor.dll!TBaseSPMethodDelegateInstance<1,SGraphPin,0,FText __cdecl(void)>::Execute() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:293]
+[2020.02.20-20.45.51:393][559]LogOutputDevice: Error: [Callstack] 0x00007ffeb141d644 UE4Editor-Slate.dll!TAttribute<FText>::Get() [d:\build\++ue4\sync\engine\source\runtime\core\public\misc\attribute.h:137]
+[2020.02.20-20.45.51:393][559]LogOutputDevice: Error: [Callstack] 0x00007ffeb160c533 UE4Editor-Slate.dll!SToolTip::IsEmpty() [d:\build\++ue4\sync\engine\source\runtime\slate\private\widgets\stooltip.cpp:87]
+[2020.02.20-20.45.51:394][559]LogOutputDevice: Error: [Callstack] 0x00007ffeb146922b UE4Editor-Slate.dll!FSlateApplication::UpdateToolTip() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:3926]
+[2020.02.20-20.45.51:394][559]LogOutputDevice: Error: [Callstack] 0x00007ffeb1445738 UE4Editor-Slate.dll!FSlateApplication::ProcessMouseMoveEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:6526]
+[2020.02.20-20.45.51:394][559]LogOutputDevice: Error: [Callstack] 0x00007ffeb1439a1e UE4Editor-Slate.dll!FSlateApplication::OnMouseMove() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:6468]
+[2020.02.20-20.45.51:394][559]LogOutputDevice: Error: [Callstack] 0x00007fff00b94c4c UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1918]
+[2020.02.20-20.45.51:394][559]LogOutputDevice: Error: [Callstack] 0x00007fff00b826df UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2332]
+[2020.02.20-20.45.51:395][559]LogOutputDevice: Error: [Callstack] 0x00007fff00b97340 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1560]
+[2020.02.20-20.45.51:395][559]LogOutputDevice: Error: [Callstack] 0x00007fff00b7edd0 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:790]
+[2020.02.20-20.45.51:395][559]LogOutputDevice: Error: [Callstack] 0x00007fff29665b6d USER32.dll!CallWindowProcW() []
+[2020.02.20-20.45.51:396][559]LogOutputDevice: Error: [Callstack] 0x00007fff29665562 USER32.dll!DispatchMessageW() []
+[2020.02.20-20.45.51:396][559]LogOutputDevice: Error: [Callstack] 0x00007fff00b988e9 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:130]
+[2020.02.20-20.45.51:396][559]LogOutputDevice: Error: [Callstack] 0x00007ff730e26980 UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launchengineloop.cpp:4169]
+[2020.02.20-20.45.51:396][559]LogOutputDevice: Error: [Callstack] 0x00007ff730e3a91c UE4Editor.exe!GuardedMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launch.cpp:173]
+[2020.02.20-20.45.51:396][559]LogOutputDevice: Error: [Callstack] 0x00007ff730e3a9fa UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:147]
+[2020.02.20-20.45.51:397][559]LogOutputDevice: Error: [Callstack] 0x00007ff730e4b92c UE4Editor.exe!WinMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:279]
+[2020.02.20-20.45.51:397][559]LogOutputDevice: Error: [Callstack] 0x00007ff730e4e60e UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\1\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2020.02.20-20.45.51:397][559]LogOutputDevice: Error: [Callstack] 0x00007fff2a317bd4 KERNEL32.DLL!UnknownFunction []
+[2020.02.20-20.45.51:397][559]LogOutputDevice: Error: [Callstack] 0x00007fff2b2cced1 ntdll.dll!UnknownFunction []
+[2020.02.20-20.45.51:398][559]LogOutputDevice: Error: 
+[2020.02.20-20.45.51:403][559]LogStats:                SubmitErrorReport -  0.000 s
+[2020.02.20-20.45.52:007][559]LogStats:                    SendNewReport -  0.604 s
+[2020.02.20-20.45.52:007][559]LogStats:             FDebug::EnsureFailed -  2.482 s
+[2020.02.20-20.45.52:008][559]LogUObjectBase: Warning: Object is not registered
+[2020.02.20-20.45.56:020][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-20.45.59:917][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-20.47.02:664][ 43]BlueprintLog: New page: Compile BP_ButtonValue
+[2020.02.20-20.47.02:980][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.02.20-20.47.02:992][ 43]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_161] Couleur
+Fond
+[2020.02.20-20.47.02:992][ 43]LogBlueprintUserMessages: [Menu_C_0] bgColor
+[2020.02.20-20.47.02:993][ 43]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_162] Taille
+[2020.02.20-20.47.02:993][ 43]LogBlueprintUserMessages: [Menu_C_0] size
+[2020.02.20-20.47.02:994][ 43]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_163] Opacité
+[2020.02.20-20.47.02:994][ 43]LogBlueprintUserMessages: [Menu_C_0] opacity
+[2020.02.20-20.47.02:995][ 43]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_164] Marge
+Gauche
+[2020.02.20-20.47.02:995][ 43]LogBlueprintUserMessages: [Menu_C_0] marginLeft
+[2020.02.20-20.47.02:996][ 43]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_165] Couleur
+[2020.02.20-20.47.02:996][ 43]LogBlueprintUserMessages: [Menu_C_0] color
+[2020.02.20-20.47.02:997][ 43]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.47.02:998][ 43]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.47.02:999][ 43]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.47.03:014][ 43]LogActorComponent: RegisterComponentWithWorld: (/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.DESTROYED_BP_ButtonValue_C_CHILDACTOR_90.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.47.03:015][ 43]LogActorComponent: RegisterComponentWithWorld: (/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.DESTROYED_BP_ButtonValue_C_CHILDACTOR_89.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.47.03:015][ 43]LogActorComponent: RegisterComponentWithWorld: (/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.DESTROYED_BP_ButtonValue_C_CHILDACTOR_88.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.47.03:017][ 43]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_171] Couleur
+Fond
+[2020.02.20-20.47.03:018][ 43]LogBlueprintUserMessages: [Menu_C_0] bgColor
+[2020.02.20-20.47.03:018][ 43]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_172] Taille
+[2020.02.20-20.47.03:018][ 43]LogBlueprintUserMessages: [Menu_C_0] size
+[2020.02.20-20.47.03:019][ 43]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_173] Opacité
+[2020.02.20-20.47.03:019][ 43]LogBlueprintUserMessages: [Menu_C_0] opacity
+[2020.02.20-20.47.03:020][ 43]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_174] Marge
+Gauche
+[2020.02.20-20.47.03:020][ 43]LogBlueprintUserMessages: [Menu_C_0] marginLeft
+[2020.02.20-20.47.03:021][ 43]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_175] Couleur
+[2020.02.20-20.47.03:021][ 43]LogBlueprintUserMessages: [Menu_C_0] color
+[2020.02.20-20.47.03:022][ 43]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.47.03:023][ 43]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.47.03:023][ 43]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.47.03:025][ 43]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_ButtonValue_C_CHILDACTOR_101.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.47.03:026][ 43]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_ButtonValue_C_CHILDACTOR_100.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.47.03:026][ 43]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_ButtonValue_C_CHILDACTOR_99.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.47.03:031][ 43]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_ButtonValue_C_CHILDACTOR_11.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.47.03:032][ 43]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_ButtonValue_C_CHILDACTOR_10.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.47.03:032][ 43]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_ButtonValue_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.47.03:048][ 43]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_181] Couleur
+Fond
+[2020.02.20-20.47.03:049][ 43]LogBlueprintUserMessages: [Menu_C_0] bgColor
+[2020.02.20-20.47.03:050][ 43]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_182] Taille
+[2020.02.20-20.47.03:050][ 43]LogBlueprintUserMessages: [Menu_C_0] size
+[2020.02.20-20.47.03:050][ 43]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_183] Opacité
+[2020.02.20-20.47.03:051][ 43]LogBlueprintUserMessages: [Menu_C_0] opacity
+[2020.02.20-20.47.03:052][ 43]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_184] Marge
+Gauche
+[2020.02.20-20.47.03:052][ 43]LogBlueprintUserMessages: [Menu_C_0] marginLeft
+[2020.02.20-20.47.03:053][ 43]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_185] Couleur
+[2020.02.20-20.47.03:053][ 43]LogBlueprintUserMessages: [Menu_C_0] color
+[2020.02.20-20.47.03:054][ 43]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.47.03:055][ 43]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.47.03:056][ 43]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.47.03:071][ 43]LogActorComponent: RegisterComponentWithWorld: (/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.DESTROYED_BP_ButtonValue_C_CHILDACTOR_102.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.47.03:071][ 43]LogActorComponent: RegisterComponentWithWorld: (/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.DESTROYED_BP_ButtonValue_C_CHILDACTOR_101.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.47.03:072][ 43]LogActorComponent: RegisterComponentWithWorld: (/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.DESTROYED_BP_ButtonValue_C_CHILDACTOR_100.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.47.03:074][ 43]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_191] Couleur
+Fond
+[2020.02.20-20.47.03:074][ 43]LogBlueprintUserMessages: [Menu_C_0] bgColor
+[2020.02.20-20.47.03:075][ 43]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_192] Taille
+[2020.02.20-20.47.03:075][ 43]LogBlueprintUserMessages: [Menu_C_0] size
+[2020.02.20-20.47.03:076][ 43]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_193] Opacité
+[2020.02.20-20.47.03:076][ 43]LogBlueprintUserMessages: [Menu_C_0] opacity
+[2020.02.20-20.47.03:076][ 43]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_194] Marge
+Gauche
+[2020.02.20-20.47.03:076][ 43]LogBlueprintUserMessages: [Menu_C_0] marginLeft
+[2020.02.20-20.47.03:077][ 43]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_195] Couleur
+[2020.02.20-20.47.03:077][ 43]LogBlueprintUserMessages: [Menu_C_0] color
+[2020.02.20-20.47.03:078][ 43]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.47.03:079][ 43]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.47.03:080][ 43]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.47.03:081][ 43]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_ButtonValue_C_CHILDACTOR_113.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.47.03:081][ 43]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_ButtonValue_C_CHILDACTOR_112.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.47.03:082][ 43]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_ButtonValue_C_CHILDACTOR_111.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.47.03:087][ 43]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_ButtonValue_C_CHILDACTOR_23.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.47.03:088][ 43]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_ButtonValue_C_CHILDACTOR_22.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.47.03:088][ 43]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_ButtonValue_C_CHILDACTOR_21.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.47.04:434][107]LogTemp: Repeating last play command: VR Preview
+[2020.02.20-20.47.04:486][107]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.47.04:486][107]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-20.47.04:486][107]LogHMD: Initializing OVRPlugin session
+[2020.02.20-20.47.04:601][107]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2020.02.20-20.47.04:602][107]PIE: New page: PIE session: Map_progra (20 févr. 2020 22:47:04)
+[2020.02.20-20.47.04:602][107]LogPlayLevel: Creating play world package: /Game/salle_progra/UEDPIE_0_Map_progra
+[2020.02.20-20.47.04:654][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051873s)
+[2020.02.20-20.47.04:655][107]LogAIModule: Creating AISystem for world Map_progra
+[2020.02.20-20.47.04:655][107]LogPlayLevel: PIE: World Init took: (0.001208s)
+[2020.02.20-20.47.04:655][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/salle_progra/Map_progra.Map_progra to /Game/salle_progra/UEDPIE_0_Map_progra.Map_progra (0.053519s)
+[2020.02.20-20.47.04:709][107]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2020.02.20-20.47.04:791][107]LogInit: XAudio2 using 'Casque (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-20.47.04:808][107]LogInit: FAudioDevice initialized.
+[2020.02.20-20.47.04:829][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-20.47.04:875][107]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-20.47.04:879][107]LogWorld: Bringing World /Game/salle_progra/UEDPIE_0_Map_progra.Map_progra up for play (max tick rate 0) at 2020.02.20-21.47.04
+[2020.02.20-20.47.04:880][107]LogWorld: Bringing up level for play took: 0.004769
+[2020.02.20-20.47.04:881][107]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.02.20-20.47.04:883][107]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/
+[2020.02.20-20.47.04:892][107]PIE: Play in editor start time for /Game/salle_progra/UEDPIE_0_Map_progra 0,269
+[2020.02.20-20.47.04:892][107]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.47.04:894][107]LogEngine: Changing dynamic resolution state.
+[2020.02.20-20.47.05:046][107]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2020.02.20-20.47.05:080][109]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2020.02.20-20.47.14:540][458]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1335] Couleur
+[2020.02.20-20.47.14:540][458]LogBlueprintUserMessages: [Menu_2] color
+[2020.02.20-20.47.16:261][518]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1332] Taille
+[2020.02.20-20.47.16:261][518]LogBlueprintUserMessages: [Menu_2] size
+[2020.02.20-20.47.17:082][544]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1331] Couleur
+Fond
+[2020.02.20-20.47.17:082][544]LogBlueprintUserMessages: [Menu_2] bgColor
+[2020.02.20-20.47.18:753][603]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1333] Opacité
+[2020.02.20-20.47.18:754][603]LogBlueprintUserMessages: [Menu_2] opacity
+[2020.02.20-20.47.19:554][632]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1333] Opacité
+[2020.02.20-20.47.20:405][662]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1334] Marge
+Gauche
+[2020.02.20-20.47.20:406][662]LogBlueprintUserMessages: [Menu_2] marginLeft
+[2020.02.20-20.47.21:809][712]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1335] Couleur
+[2020.02.20-20.47.21:810][712]LogBlueprintUserMessages: [Menu_2] color
+[2020.02.20-20.47.22:788][746]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1332] Taille
+[2020.02.20-20.47.22:788][746]LogBlueprintUserMessages: [Menu_2] size
+[2020.02.20-20.47.24:275][798]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?size=2500px
+[2020.02.20-20.47.26:444][873]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1331] Couleur
+Fond
+[2020.02.20-20.47.26:444][873]LogBlueprintUserMessages: [Menu_2] bgColor
+[2020.02.20-20.47.28:012][927]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?bgColor=red
+[2020.02.20-20.47.31:694][ 56]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?bgColor=white
+[2020.02.20-20.47.33:618][123]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1332] Taille
+[2020.02.20-20.47.33:619][123]LogBlueprintUserMessages: [Menu_2] size
+[2020.02.20-20.47.33:704][126]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1335] Couleur
+[2020.02.20-20.47.33:705][126]LogBlueprintUserMessages: [Menu_2] color
+[2020.02.20-20.47.34:588][156]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1332] Taille
+[2020.02.20-20.47.34:589][156]LogBlueprintUserMessages: [Menu_2] size
+[2020.02.20-20.47.35:632][192]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?size=0px
+[2020.02.20-20.47.37:369][253]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1334] Marge
+Gauche
+[2020.02.20-20.47.37:370][253]LogBlueprintUserMessages: [Menu_2] marginLeft
+[2020.02.20-20.47.37:829][269]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1335] Couleur
+[2020.02.20-20.47.37:829][269]LogBlueprintUserMessages: [Menu_2] color
+[2020.02.20-20.47.37:850][270]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1334] Marge
+Gauche
+[2020.02.20-20.47.37:851][270]LogBlueprintUserMessages: [Menu_2] marginLeft
+[2020.02.20-20.47.38:637][297]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1335] Couleur
+[2020.02.20-20.47.38:638][297]LogBlueprintUserMessages: [Menu_2] color
+[2020.02.20-20.47.39:376][323]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?color=blue
+[2020.02.20-20.47.39:988][345]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1333] Opacité
+[2020.02.20-20.47.39:988][345]LogBlueprintUserMessages: [Menu_2] opacity
+[2020.02.20-20.47.41:308][390]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?opacity=0.5
+[2020.02.20-20.47.43:690][473]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1332] Taille
+[2020.02.20-20.47.43:690][473]LogBlueprintUserMessages: [Menu_2] size
+[2020.02.20-20.47.45:989][552]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?size=2500px
+[2020.02.20-20.47.48:195][629]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1334] Marge
+Gauche
+[2020.02.20-20.47.48:195][629]LogBlueprintUserMessages: [Menu_2] marginLeft
+[2020.02.20-20.47.50:061][695]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?marginLeft=50%
+[2020.02.20-20.47.51:853][755]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?marginLeft=0%
+[2020.02.20-20.47.53:539][814]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1332] Taille
+[2020.02.20-20.47.53:539][814]LogBlueprintUserMessages: [Menu_2] size
+[2020.02.20-20.47.53:666][818]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1331] Couleur
+Fond
+[2020.02.20-20.47.53:667][818]LogBlueprintUserMessages: [Menu_2] bgColor
+[2020.02.20-20.47.55:109][868]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1331] Couleur
+Fond
+[2020.02.20-20.47.55:172][870]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1332] Taille
+[2020.02.20-20.47.55:172][870]LogBlueprintUserMessages: [Menu_2] size
+[2020.02.20-20.47.55:233][872]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1335] Couleur
+[2020.02.20-20.47.55:233][872]LogBlueprintUserMessages: [Menu_2] color
+[2020.02.20-20.47.55:318][875]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1334] Marge
+Gauche
+[2020.02.20-20.47.55:319][875]LogBlueprintUserMessages: [Menu_2] marginLeft
+[2020.02.20-20.47.56:566][918]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1333] Opacité
+[2020.02.20-20.47.56:567][918]LogBlueprintUserMessages: [Menu_2] opacity
+[2020.02.20-20.47.56:686][922]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1334] Marge
+Gauche
+[2020.02.20-20.47.56:686][922]LogBlueprintUserMessages: [Menu_2] marginLeft
+[2020.02.20-20.47.56:816][927]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1335] Couleur
+[2020.02.20-20.47.56:817][927]LogBlueprintUserMessages: [Menu_2] color
+[2020.02.20-20.47.56:966][932]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1332] Taille
+[2020.02.20-20.47.56:966][932]LogBlueprintUserMessages: [Menu_2] size
+[2020.02.20-20.48.05:047][217]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1333] Opacité
+[2020.02.20-20.48.05:047][217]LogBlueprintUserMessages: [Menu_2] opacity
+[2020.02.20-20.48.06:024][251]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?opacity=1
+[2020.02.20-20.48.06:728][276]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?opacity=0
+[2020.02.20-20.48.07:742][311]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1331] Couleur
+Fond
+[2020.02.20-20.48.07:743][311]LogBlueprintUserMessages: [Menu_2] bgColor
+[2020.02.20-20.48.08:922][351]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?bgColor=blue
+[2020.02.20-20.48.09:447][370]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?bgColor=red
+[2020.02.20-20.48.10:837][419]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?bgColor=blue
+[2020.02.20-20.48.10:981][424]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?bgColor=white
+[2020.02.20-20.48.12:500][477]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?bgColor=blue
+[2020.02.20-20.48.12:582][480]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?bgColor=red
+[2020.02.20-20.48.17:263][644]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1334] Marge
+Gauche
+[2020.02.20-20.48.17:263][644]LogBlueprintUserMessages: [Menu_2] marginLeft
+[2020.02.20-20.48.18:052][671]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?marginLeft=100%
+[2020.02.20-20.48.19:716][729]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1335] Couleur
+[2020.02.20-20.48.19:717][729]LogBlueprintUserMessages: [Menu_2] color
+[2020.02.20-20.48.21:246][781]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1332] Taille
+[2020.02.20-20.48.21:246][781]LogBlueprintUserMessages: [Menu_2] size
+[2020.02.20-20.48.22:617][829]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?size=250px
+[2020.02.20-20.48.24:380][890]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1333] Opacité
+[2020.02.20-20.48.24:381][890]LogBlueprintUserMessages: [Menu_2] opacity
+[2020.02.20-20.48.25:447][928]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?opacity=1
+[2020.02.20-20.48.27:197][989]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1332] Taille
+[2020.02.20-20.48.27:197][989]LogBlueprintUserMessages: [Menu_2] size
+[2020.02.20-20.48.27:745][  8]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1335] Couleur
+[2020.02.20-20.48.27:745][  8]LogBlueprintUserMessages: [Menu_2] color
+[2020.02.20-20.48.28:210][ 24]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1334] Marge
+Gauche
+[2020.02.20-20.48.28:210][ 24]LogBlueprintUserMessages: [Menu_2] marginLeft
+[2020.02.20-20.48.29:844][ 79]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?marginLeft=0%
+[2020.02.20-20.49.16:297][733]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.49.16:343][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-20.49.16:344][733]LogWorld: BeginTearingDown for /Game/salle_progra/UEDPIE_0_Map_progra
+[2020.02.20-20.49.16:496][733]LogSlate: Window 'MMI_VR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.20-20.49.16:505][733]LogWorld: UWorld::CleanupWorld for Map_progra, bSessionEnded=true, bCleanupResources=true
+[2020.02.20-20.49.16:530][733]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-20.49.16:531][733]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.49.16:586][733]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.02.20-20.49.16:674][734]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.02.20-20.49.16:677][734]LogEngine: Changing dynamic resolution state.
+[2020.02.20-20.49.43:669][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.02.20-20.49.43:746][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.02.20-20.49.44:094][ 74]LogSavePackage: Moving '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Saved/Map_prograFD3A576749692F7289B3DF8B947FBDA7.tmp' to '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Content/salle_progra/Map_progra.umap'
+[2020.02.20-20.49.44:151][ 74]LogFileHelpers: Saving map 'Map_progra' took 0.449
+[2020.02.20-20.49.44:157][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/salle_progra/blueprint/BPI_WebBrowser" FILE="../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Content/salle_progra/blueprint/BPI_WebBrowser.uasset" SILENT=true
+[2020.02.20-20.49.44:183][ 74]LogSavePackage: Moving '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Saved/BPI_WebBrowser2A9B027E4076E8CEF2251F914F033834.tmp' to '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Content/salle_progra/blueprint/BPI_WebBrowser.uasset'
+[2020.02.20-20.49.44:273][ 74]LogSavePackage: Moving '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Saved/BP_ButtonValueE3774D814EB5630DE4B9EEAB4C12029D.tmp' to '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Content/salle_progra/blueprint/menu/BP_ButtonValue.uasset'
+[2020.02.20-20.50.58:429][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.02.20-20.50.58:544][ 85]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.02.20-20.50.58:591][ 85]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.20-20.50.58:591][ 85]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.20-20.50.58:665][ 85]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.20-20.50.58:666][ 85]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.20-20.50.58:727][ 85]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.20-20.50.58:727][ 85]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.20-20.50.58:791][ 85]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.20-20.50.58:791][ 85]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.02.20-20.50.58:830][ 85]LogSlate: Window 'BPI_WebBrowser' being destroyed
+[2020.02.20-20.50.58:848][ 85]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.02.20-20.50.58:854][ 85]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.02.20-20.50.58:883][ 85]LogSlate: Window 'Output Log' being destroyed
+[2020.02.20-20.50.58:896][ 85]LogSlate: Window 'MMI_VR - Unreal Editor' being destroyed
+[2020.02.20-20.50.58:897][ 85]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.20-20.50.59:072][ 86]Cmd: QUIT_EDITOR
+[2020.02.20-20.50.59:729][ 86]LogExit: Preparing to exit.
+[2020.02.20-20.50.59:796][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.02.20-20.51.00:457][ 86]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.02.20-20.51.00:462][ 86]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.02.20-20.51.00:465][ 86]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.02.20-20.51.00:469][ 86]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.02.20-20.51.00:505][ 86]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.02.20-20.51.00:517][ 86]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.20-20.51.00:517][ 86]LogExit: Editor shut down
+[2020.02.20-20.51.00:517][ 86]LogExit: Transaction tracking system shut down
+[2020.02.20-20.51.00:829][ 86]LogExit: Object subsystem successfully closed.
+[2020.02.20-20.51.00:842][ 86]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.02.20-20.51.00:854][ 86]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (688)
+[2020.02.20-20.51.00:854][ 86]LogModuleManager: Shutting down and abandoning module Voice (686)
+[2020.02.20-20.51.00:854][ 86]LogModuleManager: Shutting down and abandoning module SequencerWidgets (684)
+[2020.02.20-20.51.00:854][ 86]LogModuleManager: Shutting down and abandoning module BlueprintGraph (682)
+[2020.02.20-20.51.00:854][ 86]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (680)
+[2020.02.20-20.51.00:854][ 86]LogModuleManager: Shutting down and abandoning module SceneOutliner (678)
+[2020.02.20-20.51.00:854][ 86]LogModuleManager: Shutting down and abandoning module AddContentDialog (676)
+[2020.02.20-20.51.00:854][ 86]LogModuleManager: Shutting down and abandoning module WidgetCarousel (675)
+[2020.02.20-20.51.00:854][ 86]LogModuleManager: Shutting down and abandoning module EditorWidgets (672)
+[2020.02.20-20.51.00:854][ 86]LogModuleManager: Shutting down and abandoning module CollectionManager (670)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module StatsViewer (668)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (666)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module FoliageEdit (664)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module LandscapeEditor (662)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module MeshPaintMode (660)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (658)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module ActorPickerMode (656)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module GeometryMode (654)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module TextureAlignMode (652)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module BspMode (650)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (648)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (646)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module AutomationWorker (644)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module OculusMR (642)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (640)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (638)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (636)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module PlacementMode (635)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module MaterialEditor (634)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (630)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (628)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (626)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (624)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (622)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module WebMMedia (620)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (618)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (616)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module SequenceRecorder (615)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (612)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (610)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (608)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (606)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (604)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (602)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (600)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (598)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (596)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (594)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (592)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module CharacterAI (590)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module SmartSnapping (588)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module SessionServices (586)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module MeshPaint (584)
+[2020.02.20-20.51.00:855][ 86]LogModuleManager: Shutting down and abandoning module ViewportSnapping (582)
+[2020.02.20-20.51.00:856][ 86]LogModuleManager: Shutting down and abandoning module ViewportInteraction (580)
+[2020.02.20-20.51.00:856][ 86]LogModuleManager: Shutting down and abandoning module ClothPainter (578)
+[2020.02.20-20.51.00:856][ 86]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (577)
+[2020.02.20-20.51.00:856][ 86]LogModuleManager: Shutting down and abandoning module LogVisualizer (574)
+[2020.02.20-20.51.00:856][ 86]LogModuleManager: Shutting down and abandoning module IntroTutorials (572)
+[2020.02.20-20.51.00:856][ 86]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (571)
+[2020.02.20-20.51.00:856][ 86]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (568)
+[2020.02.20-20.51.00:856][ 86]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (566)
+[2020.02.20-20.51.00:856][ 86]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (564)
+[2020.02.20-20.51.00:856][ 86]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (562)
+[2020.02.20-20.51.00:856][ 86]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (561)
+[2020.02.20-20.51.02:658][ 86]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (558)
+[2020.02.20-20.51.02:658][ 86]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (556)
+[2020.02.20-20.51.02:658][ 86]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (554)
+[2020.02.20-20.51.02:658][ 86]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (552)
+[2020.02.20-20.51.02:658][ 86]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (550)
+[2020.02.20-20.51.02:658][ 86]LogModuleManager: Shutting down and abandoning module InputBindingEditor (548)
+[2020.02.20-20.51.02:658][ 86]LogModuleManager: Shutting down and abandoning module MergeActors (546)
+[2020.02.20-20.51.02:658][ 86]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (544)
+[2020.02.20-20.51.02:658][ 86]LogModuleManager: Shutting down and abandoning module LocalizationService (543)
+[2020.02.20-20.51.02:658][ 86]LogModuleManager: Shutting down and abandoning module HardwareTargeting (540)
+[2020.02.20-20.51.02:659][ 86]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (538)
+[2020.02.20-20.51.02:659][ 86]LogModuleManager: Shutting down and abandoning module UndoHistory (536)
+[2020.02.20-20.51.02:659][ 86]LogModuleManager: Shutting down and abandoning module XmlParser (534)
+[2020.02.20-20.51.02:659][ 86]LogModuleManager: Shutting down and abandoning module Blutility (532)
+[2020.02.20-20.51.02:659][ 86]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (530)
+[2020.02.20-20.51.02:659][ 86]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (529)
+[2020.02.20-20.51.02:659][ 86]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (526)
+[2020.02.20-20.51.02:659][ 86]LogModuleManager: Shutting down and abandoning module SettingsEditor (524)
+[2020.02.20-20.51.02:659][ 86]LogModuleManager: Shutting down and abandoning module ProjectLauncher (522)
+[2020.02.20-20.51.02:659][ 86]LogModuleManager: Shutting down and abandoning module SessionFrontend (520)
+[2020.02.20-20.51.02:659][ 86]LogModuleManager: Shutting down and abandoning module ProfilerClient (518)
+[2020.02.20-20.51.02:659][ 86]LogModuleManager: Shutting down and abandoning module DeviceManager (516)
+[2020.02.20-20.51.02:659][ 86]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (515)
+[2020.02.20-20.51.02:723][ 86]LogModuleManager: Shutting down and abandoning module AutomationController (512)
+[2020.02.20-20.51.02:723][ 86]LogModuleManager: Shutting down and abandoning module AutomationWindow (510)
+[2020.02.20-20.51.02:723][ 86]LogModuleManager: Shutting down and abandoning module Layers (508)
+[2020.02.20-20.51.02:723][ 86]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (506)
+[2020.02.20-20.51.02:723][ 86]LogModuleManager: Shutting down and abandoning module DetailCustomizations (504)
+[2020.02.20-20.51.02:723][ 86]LogModuleManager: Shutting down and abandoning module PackagesDialog (502)
+[2020.02.20-20.51.02:723][ 86]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (500)
+[2020.02.20-20.51.02:723][ 86]LogModuleManager: Shutting down and abandoning module Persona (498)
+[2020.02.20-20.51.02:723][ 86]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (497)
+[2020.02.20-20.51.02:723][ 86]LogModuleManager: Shutting down and abandoning module AnimGraph (495)
+[2020.02.20-20.51.02:723][ 86]LogModuleManager: Shutting down and abandoning module Kismet (492)
+[2020.02.20-20.51.02:729][ 86]LogModuleManager: Shutting down and abandoning module KismetWidgets (491)
+[2020.02.20-20.51.02:730][ 86]LogModuleManager: Shutting down and abandoning module GraphEditor (488)
+[2020.02.20-20.51.02:730][ 86]LogModuleManager: Shutting down and abandoning module StructViewer (486)
+[2020.02.20-20.51.02:730][ 86]LogModuleManager: Shutting down and abandoning module ClassViewer (484)
+[2020.02.20-20.51.02:730][ 86]LogModuleManager: Shutting down and abandoning module Toolbox (482)
+[2020.02.20-20.51.02:730][ 86]LogModuleManager: Shutting down and abandoning module ModuleUI (480)
+[2020.02.20-20.51.02:730][ 86]LogModuleManager: Shutting down and abandoning module MovieSceneTools (478)
+[2020.02.20-20.51.02:730][ 86]LogModuleManager: Shutting down and abandoning module OutputLog (476)
+[2020.02.20-20.51.02:731][ 86]LogModuleManager: Shutting down and abandoning module GammaUI (474)
+[2020.02.20-20.51.02:731][ 86]LogModuleManager: Shutting down and abandoning module Documentation (472)
+[2020.02.20-20.51.02:731][ 86]LogModuleManager: Shutting down and abandoning module LiveCoding (470)
+[2020.02.20-20.51.02:732][ 86]LogModuleManager: Shutting down and abandoning module LevelSequence (468)
+[2020.02.20-20.51.02:732][ 86]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (466)
+[2020.02.20-20.51.02:732][ 86]LogModuleManager: Shutting down and abandoning module MovieScene (464)
+[2020.02.20-20.51.02:732][ 86]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (462)
+[2020.02.20-20.51.02:732][ 86]LogModuleManager: Shutting down and abandoning module LauncherPlatform (460)
+[2020.02.20-20.51.02:732][ 86]LogModuleManager: Shutting down and abandoning module AnalyticsET (458)
+[2020.02.20-20.51.02:732][ 86]LogModuleManager: Shutting down and abandoning module PortalServices (456)
+[2020.02.20-20.51.02:732][ 86]LogModuleManager: Shutting down and abandoning module PortalRpc (454)
+[2020.02.20-20.51.02:732][ 86]LogModuleManager: Shutting down and abandoning module MessagingRpc (452)
+[2020.02.20-20.51.02:732][ 86]LogModuleManager: Shutting down and abandoning module AIModule (450)
+[2020.02.20-20.51.02:732][ 86]LogModuleManager: Shutting down and abandoning module GameplayDebugger (449)
+[2020.02.20-20.51.02:732][ 86]LogModuleManager: Shutting down and abandoning module AITestSuite (447)
+[2020.02.20-20.51.02:732][ 86]LogModuleManager: Shutting down and abandoning module NavigationSystem (445)
+[2020.02.20-20.51.02:732][ 86]LogModuleManager: Shutting down and abandoning module DesktopPlatform (442)
+[2020.02.20-20.51.02:732][ 86]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (440)
+[2020.02.20-20.51.02:735][ 86]LogModuleManager: Shutting down and abandoning module ProfilerService (438)
+[2020.02.20-20.51.02:841][ 86]LogModuleManager: Shutting down and abandoning module TaskGraph (436)
+[2020.02.20-20.51.02:841][ 86]LogModuleManager: Shutting down and abandoning module MegascansPlugin (434)
+[2020.02.20-20.51.02:841][ 86]LogModuleManager: Shutting down and abandoning module ScreenshotTools (432)
+[2020.02.20-20.51.02:841][ 86]LogModuleManager: Shutting down and abandoning module SteamVRController (430)
+[2020.02.20-20.51.02:841][ 86]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (428)
+[2020.02.20-20.51.02:841][ 86]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (426)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module OculusEditor (424)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module OculusInput (422)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (420)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module EditableMesh (418)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (416)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module CableComponent (414)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module AudioCapture (412)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (410)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (408)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module AppleImageUtils (406)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module AndroidPermission (404)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (402)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (400)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module MediaCompositing (398)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module ImgMedia (396)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (394)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (392)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (390)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module HTML5Networking (388)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (386)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (384)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module BackChannel (382)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (380)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module AutomationUtils (378)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module AlembicImporter (376)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module AlembicLibrary (375)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module GeometryCache (374)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (373)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module VariantManagerContent (368)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (366)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (364)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module PluginBrowser (362)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (360)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (358)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (356)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module CurveEditorTools (354)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module CurveEditor (353)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (350)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module CryptoKeys (348)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (346)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (344)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module UObjectPlugin (342)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (340)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (338)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module GitSourceControl (336)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module SourceControl (335)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (332)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (330)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (328)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (326)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (324)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (322)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (320)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module Paper2DEditor (318)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module WebBrowserWidget (316)
+[2020.02.20-20.51.02:842][ 86]LogModuleManager: Shutting down and abandoning module WebBrowser (315)
+[2020.02.20-20.51.02:908][ 86]LogModuleManager: Shutting down and abandoning module SignificanceManager (312)
+[2020.02.20-20.51.02:908][ 86]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (310)
+[2020.02.20-20.51.02:908][ 86]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (308)
+[2020.02.20-20.51.02:908][ 86]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (304)
+[2020.02.20-20.51.02:908][ 86]LogModuleManager: Shutting down and abandoning module ActorSequence (302)
+[2020.02.20-20.51.02:908][ 86]LogModuleManager: Shutting down and abandoning module UdpMessaging (300)
+[2020.02.20-20.51.03:009][ 86]LogModuleManager: Shutting down and abandoning module TcpMessaging (298)
+[2020.02.20-20.51.03:110][ 86]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (296)
+[2020.02.20-20.51.03:110][ 86]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (294)
+[2020.02.20-20.51.03:110][ 86]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (292)
+[2020.02.20-20.51.03:110][ 86]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (290)
+[2020.02.20-20.51.03:110][ 86]LogModuleManager: Shutting down and abandoning module MagicLeapController (288)
+[2020.02.20-20.51.03:110][ 86]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.02.20-20.51.03:110][ 86]LogModuleManager: Shutting down and abandoning module MagicLeapAR (286)
+[2020.02.20-20.51.03:110][ 86]LogModuleManager: Shutting down and abandoning module AugmentedReality (285)
+[2020.02.20-20.51.03:110][ 86]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (282)
+[2020.02.20-20.51.03:110][ 86]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (280)
+[2020.02.20-20.51.03:110][ 86]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (278)
+[2020.02.20-20.51.03:110][ 86]LogModuleManager: Shutting down and abandoning module FacialAnimation (276)
+[2020.02.20-20.51.03:110][ 86]LogModuleManager: Shutting down and abandoning module DataValidation (274)
+[2020.02.20-20.51.03:110][ 86]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (272)
+[2020.02.20-20.51.03:110][ 86]LogModuleManager: Shutting down and abandoning module LevelEditor (271)
+[2020.02.20-20.51.03:111][ 86]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (270)
+[2020.02.20-20.51.03:111][ 86]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (268)
+[2020.02.20-20.51.03:111][ 86]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2020.02.20-20.51.03:111][ 86]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2020.02.20-20.51.03:111][ 86]LogModuleManager: Shutting down and abandoning module ContentBrowser (261)
+[2020.02.20-20.51.03:112][ 86]LogModuleManager: Shutting down and abandoning module TreeMap (259)
+[2020.02.20-20.51.03:112][ 86]LogModuleManager: Shutting down and abandoning module AnimationSharing (256)
+[2020.02.20-20.51.03:112][ 86]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (254)
+[2020.02.20-20.51.03:112][ 86]LogModuleManager: Shutting down and abandoning module Paper2D (252)
+[2020.02.20-20.51.03:112][ 86]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (250)
+[2020.02.20-20.51.03:116][ 86]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (248)
+[2020.02.20-20.51.03:116][ 86]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (246)
+[2020.02.20-20.51.03:116][ 86]LogModuleManager: Shutting down and abandoning module PacketHandler (244)
+[2020.02.20-20.51.03:116][ 86]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (242)
+[2020.02.20-20.51.03:116][ 86]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (240)
+[2020.02.20-20.51.03:116][ 86]LogModuleManager: Shutting down and abandoning module MediaAssets (238)
+[2020.02.20-20.51.03:116][ 86]LogModuleManager: Shutting down and abandoning module Overlay (236)
+[2020.02.20-20.51.03:116][ 86]LogModuleManager: Shutting down and abandoning module OverlayEditor (235)
+[2020.02.20-20.51.03:116][ 86]LogModuleManager: Shutting down and abandoning module VREditor (232)
+[2020.02.20-20.51.03:116][ 86]LogModuleManager: Shutting down and abandoning module StringTableEditor (230)
+[2020.02.20-20.51.03:116][ 86]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (228)
+[2020.02.20-20.51.03:116][ 86]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (226)
+[2020.02.20-20.51.03:116][ 86]LogModuleManager: Shutting down and abandoning module FunctionalTesting (224)
+[2020.02.20-20.51.03:116][ 86]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (222)
+[2020.02.20-20.51.03:116][ 86]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (221)
+[2020.02.20-20.51.03:116][ 86]LogModuleManager: Shutting down and abandoning module UMG (218)
+[2020.02.20-20.51.03:116][ 86]LogModuleManager: Shutting down and abandoning module UMGEditor (217)
+[2020.02.20-20.51.03:116][ 86]LogModuleManager: Shutting down and abandoning module Sequencer (216)
+[2020.02.20-20.51.03:116][ 86]LogModuleManager: Shutting down and abandoning module MessageLog (213)
+[2020.02.20-20.51.03:116][ 86]LogModuleManager: Shutting down and abandoning module SlateReflector (208)
+[2020.02.20-20.51.03:116][ 86]LogModuleManager: Shutting down and abandoning module Slate (206)
+[2020.02.20-20.51.03:116][ 86]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (204)
+[2020.02.20-20.51.03:116][ 86]LogModuleManager: Shutting down and abandoning module EditorStyle (202)
+[2020.02.20-20.51.03:117][ 86]LogModuleManager: Shutting down and abandoning module UnrealEd (200)
+[2020.02.20-20.51.03:117][ 86]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2020.02.20-20.51.03:117][ 86]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2020.02.20-20.51.03:117][ 86]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2020.02.20-20.51.03:117][ 86]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2020.02.20-20.51.03:117][ 86]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2020.02.20-20.51.03:117][ 86]LogModuleManager: Shutting down and abandoning module Core (188)
+[2020.02.20-20.51.03:117][ 86]LogModuleManager: Shutting down and abandoning module KismetCompiler (186)
+[2020.02.20-20.51.03:117][ 86]LogModuleManager: Shutting down and abandoning module MeshUtilities (184)
+[2020.02.20-20.51.03:117][ 86]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (183)
+[2020.02.20-20.51.03:117][ 86]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (182)
+[2020.02.20-20.51.03:117][ 86]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (181)
+[2020.02.20-20.51.03:117][ 86]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (179)
+[2020.02.20-20.51.03:117][ 86]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (177)
+[2020.02.20-20.51.03:118][ 86]LogModuleManager: Shutting down and abandoning module MaterialBaking (173)
+[2020.02.20-20.51.03:118][ 86]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (168)
+[2020.02.20-20.51.03:118][ 86]LogModuleManager: Shutting down and abandoning module DerivedDataCache (166)
+[2020.02.20-20.51.03:168][ 86]LogDerivedDataCache: Shutdown
+[2020.02.20-20.51.03:169][ 86]LogModuleManager: Shutting down and abandoning module XGEController (164)
+[2020.02.20-20.51.03:169][ 86]LogXGEController: Cleaning working directory: C:/Users/Damien/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.02.20-20.51.03:169][ 86]LogModuleManager: Shutting down and abandoning module TargetPlatform (162)
+[2020.02.20-20.51.03:169][ 86]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (161)
+[2020.02.20-20.51.03:169][ 86]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (159)
+[2020.02.20-20.51.03:169][ 86]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (157)
+[2020.02.20-20.51.03:169][ 86]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (155)
+[2020.02.20-20.51.03:169][ 86]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (153)
+[2020.02.20-20.51.03:169][ 86]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (151)
+[2020.02.20-20.51.03:169][ 86]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (149)
+[2020.02.20-20.51.03:169][ 86]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (147)
+[2020.02.20-20.51.03:169][ 86]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (145)
+[2020.02.20-20.51.03:169][ 86]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (143)
+[2020.02.20-20.51.03:169][ 86]LogModuleManager: Shutting down and abandoning module ImageWrapper (142)
+[2020.02.20-20.51.03:169][ 86]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (139)
+[2020.02.20-20.51.03:169][ 86]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (137)
+[2020.02.20-20.51.03:169][ 86]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (135)
+[2020.02.20-20.51.03:169][ 86]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (133)
+[2020.02.20-20.51.03:169][ 86]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (131)
+[2020.02.20-20.51.03:170][ 86]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (129)
+[2020.02.20-20.51.03:170][ 86]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (127)
+[2020.02.20-20.51.03:170][ 86]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2020.02.20-20.51.03:170][ 86]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (123)
+[2020.02.20-20.51.03:170][ 86]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (121)
+[2020.02.20-20.51.03:171][ 86]LogModuleManager: Shutting down and abandoning module Messaging (119)
+[2020.02.20-20.51.03:171][ 86]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (117)
+[2020.02.20-20.51.03:171][ 86]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (115)
+[2020.02.20-20.51.03:171][ 86]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (113)
+[2020.02.20-20.51.03:182][ 86]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (111)
+[2020.02.20-20.51.03:182][ 86]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (109)
+[2020.02.20-20.51.03:182][ 86]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (107)
+[2020.02.20-20.51.03:182][ 86]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (105)
+[2020.02.20-20.51.03:182][ 86]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (103)
+[2020.02.20-20.51.03:182][ 86]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (101)
+[2020.02.20-20.51.03:182][ 86]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (99)
+[2020.02.20-20.51.03:182][ 86]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (97)
+[2020.02.20-20.51.03:182][ 86]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (95)
+[2020.02.20-20.51.03:182][ 86]LogModuleManager: Shutting down and abandoning module InputCore (92)
+[2020.02.20-20.51.03:182][ 86]LogModuleManager: Shutting down and abandoning module Settings (90)
+[2020.02.20-20.51.03:182][ 86]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (88)
+[2020.02.20-20.51.03:182][ 86]LogModuleManager: Shutting down and abandoning module PhysXCooking (86)
+[2020.02.20-20.51.03:182][ 86]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (84)
+[2020.02.20-20.51.03:182][ 86]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (83)
+[2020.02.20-20.51.03:182][ 86]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2020.02.20-20.51.03:182][ 86]LogHMD: Freeing OpenVRDLLHandle.
+[2020.02.20-20.51.03:182][ 86]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2020.02.20-20.51.03:182][ 86]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2020.02.20-20.51.03:182][ 86]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2020.02.20-20.51.03:182][ 86]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2020.02.20-20.51.03:182][ 86]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2020.02.20-20.51.03:183][ 86]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2020.02.20-20.51.03:183][ 86]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2020.02.20-20.51.03:209][ 86]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2020.02.20-20.51.03:209][ 86]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.02.20-20.51.03:209][ 86]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC602682F-4379-914B-B67E-78813D89B476%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=d14ecfe34f2f8a6cac1b9cb6bb06e9a4%7Cfdcf2d11e7af4624899b41d5ce5d7253%7C34b3ba91-8567-4424-9b56-74a02542ed7d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.02.20-20.51.03:211][ 86]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2020.02.20-20.51.03:212][ 86]LogModuleManager: Shutting down and abandoning module WmfMedia (54)
+[2020.02.20-20.51.03:214][ 86]LogModuleManager: Shutting down and abandoning module Media (53)
+[2020.02.20-20.51.03:215][ 86]LogModuleManager: Shutting down and abandoning module MagicLeap (50)
+[2020.02.20-20.51.03:215][ 86]LogModuleManager: Shutting down and abandoning module DatasmithContent (48)
+[2020.02.20-20.51.03:215][ 86]LogModuleManager: Shutting down and abandoning module AISupportModule (46)
+[2020.02.20-20.51.03:215][ 86]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (44)
+[2020.02.20-20.51.03:215][ 86]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.02.20-20.51.03:215][ 86]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.02.20-20.51.03:215][ 86]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.02.20-20.51.03:215][ 86]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.02.20-20.51.03:217][ 86]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.02.20-20.51.03:217][ 86]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.02.20-20.51.03:217][ 86]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.02.20-20.51.03:217][ 86]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.02.20-20.51.03:217][ 86]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.02.20-20.51.03:218][ 86]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.02.20-20.51.03:218][ 86]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.02.20-20.51.03:218][ 86]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.02.20-20.51.03:218][ 86]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.02.20-20.51.03:218][ 86]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.02.20-20.51.03:218][ 86]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.02.20-20.51.03:218][ 86]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.02.20-20.51.03:218][ 86]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.02.20-20.51.03:218][ 86]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.02.20-20.51.03:218][ 86]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.02.20-20.51.03:218][ 86]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.02.20-20.51.03:218][ 86]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.02.20-20.51.03:218][ 86]LogD3D11RHI: Shutdown
+[2020.02.20-20.51.03:218][ 86]LogD3D11RHI: CleanupD3DDevice
+[2020.02.20-20.51.03:219][ 86]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.20-20.51.03:219][ 86]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.20-20.51.03:219][ 86]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.20-20.51.03:221][ 86]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.02.20-20.51.03:229][ 86]LogExit: Exiting.
+[2020.02.20-20.51.03:237][ 86]Log file closed, 02/20/20 21:51:03
