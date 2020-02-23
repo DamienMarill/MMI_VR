@@ -1246,3 +1246,118 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.23-13.30.28:827][992]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (157)
 [2020.02.23-13.30.28:949][992]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (155)
 [2020.02.23-13.30.28:958][992]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (153)
+[2020.02.23-13.30.29:051][992]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (151)
+[2020.02.23-13.30.29:051][992]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (149)
+[2020.02.23-13.30.29:051][992]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (147)
+[2020.02.23-13.30.29:051][992]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (145)
+[2020.02.23-13.30.29:090][992]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (143)
+[2020.02.23-13.30.29:090][992]LogModuleManager: Shutting down and abandoning module ImageWrapper (142)
+[2020.02.23-13.30.29:090][992]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (139)
+[2020.02.23-13.30.29:090][992]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (137)
+[2020.02.23-13.30.29:124][992]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (135)
+[2020.02.23-13.30.29:124][992]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (133)
+[2020.02.23-13.30.29:124][992]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (131)
+[2020.02.23-13.30.29:151][992]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (129)
+[2020.02.23-13.30.29:151][992]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (127)
+[2020.02.23-13.30.29:162][992]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2020.02.23-13.30.29:216][992]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (123)
+[2020.02.23-13.30.29:226][992]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (121)
+[2020.02.23-13.30.29:227][992]LogModuleManager: Shutting down and abandoning module Messaging (119)
+[2020.02.23-13.30.29:227][992]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (117)
+[2020.02.23-13.30.29:228][992]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (115)
+[2020.02.23-13.30.29:228][992]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (113)
+[2020.02.23-13.30.29:241][992]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (111)
+[2020.02.23-13.30.29:241][992]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (109)
+[2020.02.23-13.30.29:241][992]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (107)
+[2020.02.23-13.30.29:241][992]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (105)
+[2020.02.23-13.30.29:241][992]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (103)
+[2020.02.23-13.30.29:241][992]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (101)
+[2020.02.23-13.30.29:241][992]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (99)
+[2020.02.23-13.30.29:241][992]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (97)
+[2020.02.23-13.30.29:241][992]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (95)
+[2020.02.23-13.30.29:241][992]LogModuleManager: Shutting down and abandoning module InputCore (92)
+[2020.02.23-13.30.29:241][992]LogModuleManager: Shutting down and abandoning module Settings (90)
+[2020.02.23-13.30.29:241][992]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (88)
+[2020.02.23-13.30.29:242][992]LogModuleManager: Shutting down and abandoning module PhysXCooking (86)
+[2020.02.23-13.30.29:242][992]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (84)
+[2020.02.23-13.30.29:242][992]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (83)
+[2020.02.23-13.30.29:276][992]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2020.02.23-13.30.29:276][992]LogHMD: Freeing OpenVRDLLHandle.
+[2020.02.23-13.30.29:289][992]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2020.02.23-13.30.29:289][992]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2020.02.23-13.30.29:289][992]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2020.02.23-13.30.29:289][992]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2020.02.23-13.30.29:289][992]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2020.02.23-13.30.29:341][992]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2020.02.23-13.30.29:400][992]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2020.02.23-13.30.29:568][992]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2020.02.23-13.30.29:569][992]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.02.23-13.30.29:569][992]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7AC9C7D7-488B-C9EA-9E4C-DBA8497EE890%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=d14ecfe34f2f8a6cac1b9cb6bb06e9a4%7Cfdcf2d11e7af4624899b41d5ce5d7253%7C34b3ba91-8567-4424-9b56-74a02542ed7d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.02.23-13.30.29:569][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.30:070][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.30:570][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.31:071][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.31:572][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.32:072][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.32:573][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.33:073][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.33:573][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.34:074][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.34:575][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.35:077][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.35:577][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.36:077][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.36:578][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.37:079][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.37:579][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.38:080][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.38:580][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.39:080][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.39:581][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.40:082][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.40:583][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.41:084][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.41:585][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.42:085][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.42:585][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.43:086][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.43:586][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.44:087][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.44:587][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.45:087][992]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.23-13.30.45:599][992]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2020.02.23-13.30.45:601][992]LogModuleManager: Shutting down and abandoning module WmfMedia (54)
+[2020.02.23-13.30.45:717][992]LogModuleManager: Shutting down and abandoning module Media (53)
+[2020.02.23-13.30.45:718][992]LogModuleManager: Shutting down and abandoning module MagicLeap (50)
+[2020.02.23-13.30.45:745][992]LogModuleManager: Shutting down and abandoning module DatasmithContent (48)
+[2020.02.23-13.30.45:747][992]LogModuleManager: Shutting down and abandoning module AISupportModule (46)
+[2020.02.23-13.30.45:747][992]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (44)
+[2020.02.23-13.30.45:747][992]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.02.23-13.30.45:818][992]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.02.23-13.30.45:818][992]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.02.23-13.30.45:899][992]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.02.23-13.30.45:899][992]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.02.23-13.30.46:047][992]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.02.23-13.30.46:047][992]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.02.23-13.30.46:047][992]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.02.23-13.30.46:047][992]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.02.23-13.30.46:115][992]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.02.23-13.30.46:199][992]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.02.23-13.30.46:199][992]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.02.23-13.30.46:238][992]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.02.23-13.30.46:238][992]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.02.23-13.30.46:283][992]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.02.23-13.30.46:284][992]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.02.23-13.30.46:357][992]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.02.23-13.30.46:357][992]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.02.23-13.30.46:372][992]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.02.23-13.30.46:372][992]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.02.23-13.30.46:386][992]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.02.23-13.30.46:398][992]LogD3D11RHI: Shutdown
+[2020.02.23-13.30.46:405][992]LogD3D11RHI: CleanupD3DDevice
+[2020.02.23-13.30.46:466][992]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.23-13.30.46:469][992]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.23-13.30.46:469][992]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.23-13.30.46:470][992]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.02.23-13.30.46:513][992]LogExit: Exiting.
+[2020.02.23-13.30.46:605][992]Log file closed, 02/23/20 14:30:46
