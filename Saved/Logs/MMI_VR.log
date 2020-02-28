@@ -770,3 +770,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.28-13.06.47:529][778]LogUObjectHash: Compacting FUObjectHashTables data took   6.54ms
 [2020.02.28-13.06.47:603][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/salle_com/Blueprint/BP_valide" FILE="../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Content/salle_com/Blueprint/BP_valide.uasset" SILENT=true
 [2020.02.28-13.06.47:656][778]LogSavePackage: Moving '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Saved/BP_valide3F256906468CB4DF58AB619A587B9E7C.tmp' to '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Content/salle_com/Blueprint/BP_valide.uasset'
+[2020.02.28-13.10.20:937][261]BlueprintLog: New page: Compile BP_valide
+[2020.02.28-13.10.21:326][261]LogUObjectHash: Compacting FUObjectHashTables data took   7.13ms
