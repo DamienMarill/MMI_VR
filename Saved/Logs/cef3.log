@@ -7,3 +7,6 @@
 [0219/145547.267:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
 [0219/145547.267:ERROR:cache_util.cc(134)] Unable to move cache folder D:/Damien/Documents/Unreal Projects/MMI_VR/Saved/webcache\Cache to D:/Damien/Documents/Unreal Projects/MMI_VR/Saved/webcache\old_Cache_000
 [0219/145547.267:ERROR:disk_cache.cc(132)] Unable to create cache
+[0224/115908.396:ERROR:backend_impl.cc(1021)] Critical error found -8
+[0224/115908.398:ERROR:entry_impl.cc(1037)] No file for c1030146
+[0224/115908.398:WARNING:storage_block-inl.h(131)] Failed data load.

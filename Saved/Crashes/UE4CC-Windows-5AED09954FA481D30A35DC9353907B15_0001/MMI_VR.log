@@ -1,0 +1,1323 @@
+﻿Log file open, 02/20/20 21:24:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MMI_VR
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.201878
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebBrowserWidget
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/games/epicStore/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Damien/Documents/Unreal Projects/MMI_VR/Saved/Config/Windows/Engine.ini]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Damien/Documents/Unreal Projects/MMI_VR/Saved/Config/Windows/Engine.ini]
+[2020.02.20-20.24.46:065][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Damien/Documents/Unreal Projects/MMI_VR/Saved/Config/Windows/Engine.ini]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Damien/Documents/Unreal Projects/MMI_VR/Saved/Config/Windows/Engine.ini]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.20-20.24.46:065][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Damien/Documents/Unreal Projects/MMI_VR/Saved/Config/Windows/Engine.ini]
+[2020.02.20-20.24.46:065][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Damien/Documents/Unreal Projects/MMI_VR/Saved/Config/Windows/Engine.ini]
+[2020.02.20-20.24.46:083][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Damien/Documents/Unreal Projects/MMI_VR/Saved/Config/Windows/Scalability.ini]
+[2020.02.20-20.24.46:083][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.20-20.24.46:083][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.20-20.24.46:083][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Damien/Documents/Unreal Projects/MMI_VR/Saved/Config/Windows/Scalability.ini]
+[2020.02.20-20.24.46:083][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.02.20-20.24.46:083][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Damien/Documents/Unreal Projects/MMI_VR/Saved/Config/Windows/Scalability.ini]
+[2020.02.20-20.24.46:083][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.20-20.24.46:083][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.20-20.24.46:083][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.20-20.24.46:083][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.20-20.24.46:083][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.20-20.24.46:083][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.20-20.24.46:083][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.20-20.24.46:083][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.20-20.24.46:083][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.20-20.24.46:083][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.20-20.24.46:083][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.20-20.24.46:083][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.20-20.24.46:083][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Damien/Documents/Unreal Projects/MMI_VR/Saved/Config/Windows/Scalability.ini]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Damien/Documents/Unreal Projects/MMI_VR/Saved/Config/Windows/Scalability.ini]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Damien/Documents/Unreal Projects/MMI_VR/Saved/Config/Windows/Scalability.ini]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Damien/Documents/Unreal Projects/MMI_VR/Saved/Config/Windows/Scalability.ini]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.20-20.24.46:084][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.20-20.24.46:084][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.20-20.24.46:084][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.20-20.24.46:094][  0]LogHAL: Display: Platform has ~ 24 GB [25709846528 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.20-20.24.46:094][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.20-20.24.46:094][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Damien/Documents/Unreal Projects/MMI_VR/Saved/Config/Windows/Scalability.ini]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Damien/Documents/Unreal Projects/MMI_VR/Saved/Config/Windows/Scalability.ini]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Damien/Documents/Unreal Projects/MMI_VR/Saved/Config/Windows/Scalability.ini]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Damien/Documents/Unreal Projects/MMI_VR/Saved/Config/Windows/Scalability.ini]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.20-20.24.46:094][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Damien/Documents/Unreal Projects/MMI_VR/Saved/Config/Windows/Scalability.ini]
+[2020.02.20-20.24.46:094][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.20-20.24.46:095][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.20-20.24.46:095][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.20-20.24.46:095][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.20-20.24.46:095][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.20-20.24.46:095][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.20-20.24.46:095][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.20-20.24.46:095][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.20-20.24.46:095][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Damien/Documents/Unreal Projects/MMI_VR/Saved/Config/Windows/Scalability.ini]
+[2020.02.20-20.24.46:095][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.02.20-20.24.46:095][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.20-20.24.46:095][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.02.20-20.24.46:095][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.02.20-20.24.46:095][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.20-20.24.46:095][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.02.20-20.24.46:095][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.20-20.24.46:095][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.20-20.24.46:095][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.20-20.24.46:095][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.20-20.24.46:095][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.20-20.24.46:095][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.20-20.24.46:095][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.20-20.24.46:095][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Damien/Documents/Unreal Projects/MMI_VR/Saved/Config/Windows/Scalability.ini]
+[2020.02.20-20.24.46:095][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.20-20.24.46:095][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.20-20.24.46:095][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.20-20.24.46:101][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.20-20.24.46:101][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.20-20.24.46:101][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Damien/Documents/Unreal Projects/MMI_VR/Saved/Config/Windows/Engine.ini]
+[2020.02.20-20.24.46:101][  0]LogInit: Computer: NODOKA
+[2020.02.20-20.24.46:101][  0]LogInit: User: Damien
+[2020.02.20-20.24.46:101][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.02.20-20.24.46:101][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.20-20.24.46:101][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2020.02.20-20.24.46:101][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.20-20.24.46:101][  0]LogMemory: Process Physical Memory: 107.48 MB used, 107.48 MB peak
+[2020.02.20-20.24.46:101][  0]LogMemory: Process Virtual Memory: 95.77 MB used, 95.77 MB peak
+[2020.02.20-20.24.46:101][  0]LogMemory: Physical Memory: 9608.25 MB used,  14910.57 MB free, 24518.82 MB total
+[2020.02.20-20.24.46:101][  0]LogMemory: Virtual Memory: 4688.38 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2020.02.20-20.24.46:104][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.02.20-20.24.46:297][  0]LogInit: Using OS detected language (fr-FR).
+[2020.02.20-20.24.46:298][  0]LogInit: Using OS detected locale (fr-FR).
+[2020.02.20-20.24.46:298][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2020.02.20-20.24.46:299][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2020.02.20-20.24.46:299][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2020.02.20-20.24.46:299][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2020.02.20-20.24.46:299][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2020.02.20-20.24.46:299][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2020.02.20-20.24.46:299][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2020.02.20-20.24.46:299][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2020.02.20-20.24.46:325][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.20-20.24.46:449][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.20-20.24.46:449][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.20-20.24.49:276][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.20-20.24.49:346][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.02.20-20.24.49:346][  0]LogD3D11RHI:       8079/0/12259 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2020.02.20-20.24.49:348][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.20-20.24.49:348][  0]LogD3D11RHI:       0/0/12259 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.20-20.24.49:348][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.20-20.24.49:358][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.20-20.24.49:358][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.20-20.24.49:358][  0]LogWindows: EnumDisplayDevices:
+[2020.02.20-20.24.49:358][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.02.20-20.24.49:358][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2020.02.20-20.24.49:358][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2020.02.20-20.24.49:359][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.02.20-20.24.49:359][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.02.20-20.24.49:359][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.02.20-20.24.49:359][  0]LogD3D11RHI:   Driver Version: 431.86 (internal:26.21.14.3186, unified:431.86)
+[2020.02.20-20.24.49:359][  0]LogD3D11RHI:      Driver Date: 8-27-2019
+[2020.02.20-20.24.49:359][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.02.20-20.24.49:403][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.20-20.24.49:434][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.20-20.24.50:125][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.20-20.24.50:146][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.20-20.24.50:170][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.20-20.24.50:193][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.20-20.24.50:224][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.20-20.24.50:250][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.20-20.24.50:273][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.20-20.24.50:295][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.20-20.24.50:314][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.20-20.24.50:369][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.20-20.24.50:369][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.20-20.24.50:369][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.20-20.24.50:369][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.20-20.24.50:369][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.20-20.24.50:369][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.20-20.24.50:369][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.20-20.24.50:369][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.20-20.24.50:369][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.20-20.24.50:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.20-20.24.50:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.20-20.24.50:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.20-20.24.50:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.20-20.24.50:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.20-20.24.50:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.20-20.24.50:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.20-20.24.50:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.20-20.24.50:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.20-20.24.50:385][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.20-20.24.50:454][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.20-20.24.50:454][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.20-20.24.50:483][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.20-20.24.50:483][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.20-20.24.50:504][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.20-20.24.50:526][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.20-20.24.50:553][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.20-20.24.50:597][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.20-20.24.50:671][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.20-20.24.50:671][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.20-20.24.50:671][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.20-20.24.50:792][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.20-20.24.51:129][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Intermediate/Shaders/WorkingDirectory/15648/).
+[2020.02.20-20.24.51:129][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Damien/AppData/Local/Temp/UnrealShaderWorkingDir/3B1226FB4652A3D3F74107AFB6C0BACA/'.
+[2020.02.20-20.24.51:131][  0]LogXGEController: Cleaning working directory: C:/Users/Damien/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.02.20-20.24.51:131][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.20-20.24.51:131][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.20-20.24.51:131][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.20-20.24.54:441][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.20-20.24.54:532][  0]LogDerivedDataCache: Loaded boot cache 0.09s 77MB C:/Users/Damien/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.02.20-20.24.54:532][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Damien/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.02.20-20.24.54:533][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Damien/Documents/Unreal Projects/MMI_VR/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.20-20.24.54:533][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.20-20.24.54:533][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Damien/Documents/Unreal Projects/MMI_VR/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.20-20.24.54:533][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.20-20.24.54:570][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.20-20.24.54:570][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.20-20.24.54:570][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.20-20.24.54:573][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Damien/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.20-20.24.54:573][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.20-20.24.54:573][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.20-20.24.54:603][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.20-20.24.54:606][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.20-20.24.54:625][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.20-20.24.54:920][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2020.02.20-20.24.55:246][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.20-20.24.55:670][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.20-20.24.55:670][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.20-20.24.55:670][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.20-20.24.55:670][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.20-20.24.55:670][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.20-20.24.55:711][  0]LogNetVersion: MMI_VR 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2145143680)
+[2020.02.20-20.24.56:970][  0]LogPackageLocalizationCache: Processed 15 localized package path(s) for 1 prioritized culture(s) in 0.127725 seconds
+[2020.02.20-20.24.56:982][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.02.20-20.24.56:982][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.02.20-20.24.56:982][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.20-20.25.00:434][  0]LogPython: Using Python 2.7.14
+[2020.02.20-20.25.01:532][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.20-20.25.01:551][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.20-20.25.01:753][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/WebBrowserWidget/Content/WebTexture_M.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.20-20.25.01:758][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/WebBrowserWidget/Content/WebTexture_T.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.20-20.25.01:771][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/WebBrowserWidget/Content/WebTexture_TM.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.20-20.25.03:435][  0]SourceControl: Source control is disabled
+[2020.02.20-20.25.03:435][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.02.20-20.25.03:436][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.02.20-20.25.03:436][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.02.20-20.25.03:436][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.02.20-20.25.03:436][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.02.20-20.25.03:436][  0]LogWindows: Warning: URL: C:\Users\Damien\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.02.20-20.25.03:436][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.02.20-20.25.03:436][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.02.20-20.25.03:436][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.02.20-20.25.03:436][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.02.20-20.25.03:437][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.02.20-20.25.03:437][  0]LogWindows: Warning: URL: C:\Users\Damien\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.02.20-20.25.03:437][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.02.20-20.25.03:437][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.02.20-20.25.03:455][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.02.20-20.25.03:455][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.02.20-20.25.03:456][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.02.20-20.25.03:456][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.02.20-20.25.03:456][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.02.20-20.25.03:456][  0]LogWindows: Warning: URL: C:\Users\Damien\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.02.20-20.25.03:456][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.02.20-20.25.03:456][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.02.20-20.25.03:456][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.02.20-20.25.03:456][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.02.20-20.25.03:456][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.02.20-20.25.03:456][  0]LogWindows: Warning: URL: C:\Users\Damien\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.02.20-20.25.03:457][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.02.20-20.25.03:457][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.02.20-20.25.03:474][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.02.20-20.25.03:474][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.02.20-20.25.03:474][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.02.20-20.25.03:474][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.02.20-20.25.03:474][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.02.20-20.25.03:474][  0]LogWindows: Warning: URL: C:\Users\Damien\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.02.20-20.25.03:475][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.02.20-20.25.03:475][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.02.20-20.25.03:475][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.02.20-20.25.03:475][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.02.20-20.25.03:475][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.02.20-20.25.03:475][  0]LogWindows: Warning: URL: C:\Users\Damien\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.02.20-20.25.03:475][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.02.20-20.25.03:475][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.02.20-20.25.04:210][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.20-20.25.04:826][  0]LogOcInput: OculusInput pre-init called
+[2020.02.20-20.25.07:087][  0]LogEngine: Initializing Engine...
+[2020.02.20-20.25.07:087][  0]LogHMD: Oculus plugin initialized. Version: 4.23.1-9631420+++UE4+Release-4.23, OVRPlugin: 1.37.0
+[2020.02.20-20.25.07:089][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.20-20.25.07:578][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.20-20.25.07:612][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.20-20.25.07:727][  0]LogInit: XAudio2 using 'Haut-parleurs (Logitech G430 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.02.20-20.25.07:763][  0]LogInit: FAudioDevice initialized.
+[2020.02.20-20.25.07:764][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.20-20.25.07:851][  0]LogDerivedDataCache: Saved boot cache 0.09s 77MB C:/Users/Damien/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.02.20-20.25.07:861][  0]LogInit: Texture streaming: Enabled
+[2020.02.20-20.25.07:944][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.20-20.25.07:944][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.02.20-20.25.07:945][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.02.20-20.25.08:071][  0]LogInit: Transaction tracking system initialized
+[2020.02.20-20.25.08:203][  0]BlueprintLog: New page: Editor Load
+[2020.02.20-20.25.08:544][  0]LocalizationService: Localization service is disabled
+[2020.02.20-20.25.09:489][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.20-20.25.09:489][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.20-20.25.10:337][  0]LogFileCache: Scanning file cache for directory 'D:/Damien/Documents/Unreal Projects/MMI_VR/Content/' took 0.03s
+[2020.02.20-20.25.10:393][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.02.20-20.25.10:393][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.02.20-20.25.10:393][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.02.20-20.25.10:393][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.02.20-20.25.10:393][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.02.20-20.25.10:393][  0]LogWindows: Warning: URL: C:\Users\Damien\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.02.20-20.25.10:393][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.02.20-20.25.10:393][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.02.20-20.25.10:394][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.02.20-20.25.10:394][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.02.20-20.25.10:394][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.02.20-20.25.10:394][  0]LogWindows: Warning: URL: C:\Users\Damien\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.02.20-20.25.10:394][  0]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2020.02.20-20.25.10:394][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.02.20-20.25.10:394][  0]Cmd: MAP LOAD FILE="../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.20-20.25.10:400][  0]LightingResults: New page: Lighting Build
+[2020.02.20-20.25.10:403][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.20-20.25.10:403][  0]MapCheck: New page: Map Check
+[2020.02.20-20.25.10:403][  0]LightingResults: New page: Lighting Build
+[2020.02.20-20.25.10:427][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.02.20-20.25.10:770][  0]LogAIModule: Creating AISystem for world StartupMap
+[2020.02.20-20.25.10:784][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.20-20.25.10:809][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.02.20-20.25.10:809][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.20-20.25.10:810][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,111ms to complete.
+[2020.02.20-20.25.10:810][  0]LogFileHelpers: Loading map 'StartupMap' took 0.416
+[2020.02.20-20.25.10:953][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-20.25.10:961][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-20.25.10:967][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-20.25.10:974][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-20.25.11:000][  0]LogCollectionManager: Loaded 0 collections in 0.001450 seconds
+[2020.02.20-20.25.11:007][  0]LogFileCache: Scanning file cache for directory 'D:/Damien/Documents/Unreal Projects/MMI_VR/Saved/Collections/' took 0.00s
+[2020.02.20-20.25.11:007][  0]LogFileCache: Scanning file cache for directory 'D:/Damien/Documents/Unreal Projects/MMI_VR/Content/Developers/Damien/Collections/' took 0.00s
+[2020.02.20-20.25.11:007][  0]LogFileCache: Scanning file cache for directory 'D:/Damien/Documents/Unreal Projects/MMI_VR/Content/Collections/' took 0.00s
+[2020.02.20-20.25.11:007][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.02.20-20.25.11:016][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2889 classes and 695 folders.
+[2020.02.20-20.25.11:022][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.20-20.25.11:334][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.20-20.25.11:358][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.02.20-20.25.11:516][  0]LogSlate: Took 0.006279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.20-20.25.11:525][  0]LogSlate: Took 0.007302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.20-20.25.11:538][  0]LogSlate: Took 0.006117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.20-20.25.11:548][  0]LogSlate: Took 0.007038 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.02.20-20.25.11:716][  0]LogRenderer: Reallocating scene render targets to support 1616x788 Format 26 NumSamples 1 (Frame:1).
+[2020.02.20-20.25.11:853][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.20-20.25.11:854][  0]LogLoad: (Engine Initialization) Total time: 29.99 seconds
+[2020.02.20-20.25.11:854][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.20-20.25.11:875][  0]LogOcInput: OculusInput is initialized
+[2020.02.20-20.25.11:921][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.20-20.25.13:034][ 19]LogSlate: Took 0.005151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.20-20.25.14:412][ 42]LogAssetRegistry: Asset discovery search completed in 19.4935 seconds
+[2020.02.20-20.25.14:417][ 42]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2020.02.20-20.25.14:417][ 42]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000207 seconds (updated 0 objects)
+[2020.02.20-20.25.41:568][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-20.25.43:029][439]LogLinker: Warning: Asset '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Content/MSPresets/MSTextures/Albedo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.20-20.25.43:037][439]LogLinker: Warning: Asset '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Content/MSPresets/MSTextures/Normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.20-20.25.43:044][439]LogLinker: Warning: Asset '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Content/MSPresets/MSTextures/Roughness.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.20-20.25.44:596][439]LogAIModule: Creating AISystem for world Map_progra
+[2020.02.20-20.25.44:644][439]LogAssetEditorManager: Opening Asset editor for World /Game/salle_progra/Map_progra.Map_progra
+[2020.02.20-20.25.44:672][439]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.02.20-20.25.44:673][439]Cmd: MAP LOAD FILE="../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Content/salle_progra/Map_progra.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.20-20.25.44:674][439]LightingResults: New page: Lighting Build
+[2020.02.20-20.25.44:674][439]LoadErrors: New page: Loading map: Map_progra.umap
+[2020.02.20-20.25.44:675][439]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.20-20.25.44:676][439]MapCheck: New page: Map Check
+[2020.02.20-20.25.44:676][439]LightingResults: New page: Lighting Build
+[2020.02.20-20.25.44:700][439]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.02.20-20.25.44:726][439]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.20-20.25.44:752][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.02.20-20.25.44:784][439]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.20-20.25.44:784][439]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,089ms to complete.
+[2020.02.20-20.25.44:784][439]LogFileHelpers: Loading map 'Map_progra' took 0.112
+[2020.02.20-20.26.03:212][752]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/salle_progra/blueprint/menu/BP_ButtonParent.BP_ButtonParent
+[2020.02.20-20.26.03:771][752]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.02.20-20.26.04:711][752]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/salle_progra/blueprint/menu/BP_ButtonAttr.BP_ButtonAttr
+[2020.02.20-20.26.05:097][752]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/salle_progra/blueprint/menu/Menu.Menu
+[2020.02.20-20.26.05:502][752]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue
+[2020.02.20-20.26.05:884][752]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/salle_progra/blueprint/BP_BrowserMonitor.BP_BrowserMonitor
+[2020.02.20-20.26.06:294][752]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/salle_progra/blueprint/BPI_WebBrowser.BPI_WebBrowser
+[2020.02.20-20.26.07:025][752]LogBlueprintUserMessages: [BP_ButtonAttr_C_0] 
+[2020.02.20-20.26.07:025][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonAttr.BP_ButtonAttr_C:ExecuteUbergraph_BP_ButtonAttr'!
+[2020.02.20-20.26.07:026][752]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_0] Couleur
+Fond
+[2020.02.20-20.26.07:026][752]LogBlueprintUserMessages: [Menu_C_0] bgColor
+[2020.02.20-20.26.07:028][752]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1] Taille
+[2020.02.20-20.26.07:028][752]LogBlueprintUserMessages: [Menu_C_0] size
+[2020.02.20-20.26.07:029][752]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_2] Opacité
+[2020.02.20-20.26.07:029][752]LogBlueprintUserMessages: [Menu_C_0] opacity
+[2020.02.20-20.26.07:030][752]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_3] Marge
+Gauche
+[2020.02.20-20.26.07:030][752]LogBlueprintUserMessages: [Menu_C_0] marginLeft
+[2020.02.20-20.26.07:031][752]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_4] Couleur
+[2020.02.20-20.26.07:031][752]LogBlueprintUserMessages: [Menu_C_0] color
+[2020.02.20-20.26.07:031][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.26.07:032][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.26.07:033][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.26.07:034][752]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_0] Couleur
+Fond
+[2020.02.20-20.26.07:034][752]LogBlueprintUserMessages: [Menu_C_0] bgColor
+[2020.02.20-20.26.07:034][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.26.07:034][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.26.07:034][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.26.07:034][752]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_3] Marge
+Gauche
+[2020.02.20-20.26.07:034][752]LogBlueprintUserMessages: [Menu_C_0] marginLeft
+[2020.02.20-20.26.07:034][752]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_4] Couleur
+[2020.02.20-20.26.07:035][752]LogBlueprintUserMessages: [Menu_C_0] color
+[2020.02.20-20.26.07:035][752]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1] Taille
+[2020.02.20-20.26.07:035][752]LogBlueprintUserMessages: [Menu_C_0] size
+[2020.02.20-20.26.07:035][752]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_2] Opacité
+[2020.02.20-20.26.07:035][752]LogBlueprintUserMessages: [Menu_C_0] opacity
+[2020.02.20-20.26.07:037][752]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.26.07:048][752]LogSlate: Took 0.005277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.20-20.26.07:199][753]LogSlate: Took 0.005321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.20-20.26.11:888][767]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={AB5E57F1-4E58-DC43-DAEA-1AAD1A1A5949}
+[2020.02.20-20.28.03:405][223]LogInit: XAudio2 using 'Enceintes (High Definition Audio Device)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.02.20-20.32.54:708][511]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_10] Couleur
+Fond
+[2020.02.20-20.32.54:708][511]LogBlueprintUserMessages: [Menu_C_0] bgColor
+[2020.02.20-20.32.54:708][511]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_10] Couleur
+Fond
+[2020.02.20-20.32.54:709][511]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_11] Taille
+[2020.02.20-20.32.54:709][511]LogBlueprintUserMessages: [Menu_C_0] size
+[2020.02.20-20.32.54:709][511]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_11] Taille
+[2020.02.20-20.32.54:710][511]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_12] Opacité
+[2020.02.20-20.32.54:710][511]LogBlueprintUserMessages: [Menu_C_0] opacity
+[2020.02.20-20.32.54:710][511]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_12] Opacité
+[2020.02.20-20.32.54:711][511]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_13] Marge
+Gauche
+[2020.02.20-20.32.54:711][511]LogBlueprintUserMessages: [Menu_C_0] marginLeft
+[2020.02.20-20.32.54:711][511]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_13] Marge
+Gauche
+[2020.02.20-20.32.54:711][511]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_14] Couleur
+[2020.02.20-20.32.54:712][511]LogBlueprintUserMessages: [Menu_C_0] color
+[2020.02.20-20.32.54:712][511]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_14] Couleur
+[2020.02.20-20.32.54:712][511]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.32.54:712][511]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.32.54:713][511]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.32.54:713][511]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.32.54:714][511]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.32.54:715][511]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.01:588][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-20.33.20:354][984]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1] Taille
+[2020.02.20-20.33.20:354][984]LogBlueprintUserMessages: [Menu_C_0] size
+[2020.02.20-20.33.20:354][984]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1] Taille
+[2020.02.20-20.33.20:356][984]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_21] Couleur
+Fond
+[2020.02.20-20.33.20:356][984]LogBlueprintUserMessages: [Menu_C_0] bgColor
+[2020.02.20-20.33.20:357][984]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_21] Couleur
+Fond
+[2020.02.20-20.33.20:357][984]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_22] Taille
+[2020.02.20-20.33.20:357][984]LogBlueprintUserMessages: [Menu_C_0] size
+[2020.02.20-20.33.20:357][984]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_22] Taille
+[2020.02.20-20.33.20:358][984]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_23] Opacité
+[2020.02.20-20.33.20:358][984]LogBlueprintUserMessages: [Menu_C_0] opacity
+[2020.02.20-20.33.20:358][984]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_23] Opacité
+[2020.02.20-20.33.20:360][984]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_24] Marge
+Gauche
+[2020.02.20-20.33.20:360][984]LogBlueprintUserMessages: [Menu_C_0] marginLeft
+[2020.02.20-20.33.20:360][984]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_24] Marge
+Gauche
+[2020.02.20-20.33.20:361][984]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_25] Couleur
+[2020.02.20-20.33.20:361][984]LogBlueprintUserMessages: [Menu_C_0] color
+[2020.02.20-20.33.20:361][984]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_25] Couleur
+[2020.02.20-20.33.20:362][984]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.20:362][984]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.20:363][984]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.20:363][984]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.20:364][984]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.20:364][984]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.20:375][984]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_31] Couleur
+Fond
+[2020.02.20-20.33.20:375][984]LogBlueprintUserMessages: [Menu_C_0] bgColor
+[2020.02.20-20.33.20:375][984]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_31] Couleur
+Fond
+[2020.02.20-20.33.20:376][984]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_32] Taille
+[2020.02.20-20.33.20:376][984]LogBlueprintUserMessages: [Menu_C_0] size
+[2020.02.20-20.33.20:376][984]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_32] Taille
+[2020.02.20-20.33.20:377][984]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_33] Opacité
+[2020.02.20-20.33.20:377][984]LogBlueprintUserMessages: [Menu_C_0] opacity
+[2020.02.20-20.33.20:377][984]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_33] Opacité
+[2020.02.20-20.33.20:378][984]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_34] Marge
+Gauche
+[2020.02.20-20.33.20:378][984]LogBlueprintUserMessages: [Menu_C_0] marginLeft
+[2020.02.20-20.33.20:378][984]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_34] Marge
+Gauche
+[2020.02.20-20.33.20:378][984]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_35] Couleur
+[2020.02.20-20.33.20:379][984]LogBlueprintUserMessages: [Menu_C_0] color
+[2020.02.20-20.33.20:379][984]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_35] Couleur
+[2020.02.20-20.33.20:380][984]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.20:380][984]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.20:382][984]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.20:382][984]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.20:384][984]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.20:384][984]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.20:415][984]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_41] Couleur
+Fond
+[2020.02.20-20.33.20:415][984]LogBlueprintUserMessages: [Menu_C_0] bgColor
+[2020.02.20-20.33.20:415][984]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_41] Couleur
+Fond
+[2020.02.20-20.33.20:416][984]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_42] Taille
+[2020.02.20-20.33.20:416][984]LogBlueprintUserMessages: [Menu_C_0] size
+[2020.02.20-20.33.20:416][984]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_42] Taille
+[2020.02.20-20.33.20:417][984]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_43] Opacité
+[2020.02.20-20.33.20:417][984]LogBlueprintUserMessages: [Menu_C_0] opacity
+[2020.02.20-20.33.20:417][984]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_43] Opacité
+[2020.02.20-20.33.20:417][984]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_44] Marge
+Gauche
+[2020.02.20-20.33.20:417][984]LogBlueprintUserMessages: [Menu_C_0] marginLeft
+[2020.02.20-20.33.20:418][984]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_44] Marge
+Gauche
+[2020.02.20-20.33.20:418][984]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_45] Couleur
+[2020.02.20-20.33.20:418][984]LogBlueprintUserMessages: [Menu_C_0] color
+[2020.02.20-20.33.20:418][984]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_45] Couleur
+[2020.02.20-20.33.20:419][984]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.20:419][984]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.20:420][984]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.20:420][984]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.20:421][984]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.20:421][984]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.23:407][159]BlueprintLog: New page: Compile Menu
+[2020.02.20-20.33.23:451][159]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_51] Couleur
+Fond
+[2020.02.20-20.33.23:451][159]LogBlueprintUserMessages: [Menu_C_0] bgColor
+[2020.02.20-20.33.23:452][159]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_52] Taille
+[2020.02.20-20.33.23:452][159]LogBlueprintUserMessages: [Menu_C_0] size
+[2020.02.20-20.33.23:453][159]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_53] Opacité
+[2020.02.20-20.33.23:453][159]LogBlueprintUserMessages: [Menu_C_0] opacity
+[2020.02.20-20.33.23:454][159]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_54] Marge
+Gauche
+[2020.02.20-20.33.23:454][159]LogBlueprintUserMessages: [Menu_C_0] marginLeft
+[2020.02.20-20.33.23:455][159]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_55] Couleur
+[2020.02.20-20.33.23:455][159]LogBlueprintUserMessages: [Menu_C_0] color
+[2020.02.20-20.33.23:456][159]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.23:458][159]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.23:459][159]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.23:746][159]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2020.02.20-20.33.23:754][159]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_61] Couleur
+Fond
+[2020.02.20-20.33.23:755][159]LogBlueprintUserMessages: [Menu_C_0] bgColor
+[2020.02.20-20.33.23:755][159]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_62] Taille
+[2020.02.20-20.33.23:756][159]LogBlueprintUserMessages: [Menu_C_0] size
+[2020.02.20-20.33.23:757][159]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_63] Opacité
+[2020.02.20-20.33.23:757][159]LogBlueprintUserMessages: [Menu_C_0] opacity
+[2020.02.20-20.33.23:757][159]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_64] Marge
+Gauche
+[2020.02.20-20.33.23:758][159]LogBlueprintUserMessages: [Menu_C_0] marginLeft
+[2020.02.20-20.33.23:758][159]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_65] Couleur
+[2020.02.20-20.33.23:758][159]LogBlueprintUserMessages: [Menu_C_0] color
+[2020.02.20-20.33.23:759][159]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.23:760][159]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.23:760][159]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.23:779][159]LogActorComponent: RegisterComponentWithWorld: (/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.DESTROYED_BP_ButtonAttr_C_CHILDACTOR_1409.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:779][159]LogActorComponent: RegisterComponentWithWorld: (/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.DESTROYED_BP_ButtonAttr_C_CHILDACTOR_1408.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:779][159]LogActorComponent: RegisterComponentWithWorld: (/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.DESTROYED_BP_ButtonAttr_C_CHILDACTOR_1407.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:779][159]LogActorComponent: RegisterComponentWithWorld: (/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.DESTROYED_BP_ButtonAttr_C_CHILDACTOR_1406.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:780][159]LogActorComponent: RegisterComponentWithWorld: (/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.DESTROYED_BP_ButtonAttr_C_CHILDACTOR_1405.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:782][159]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_71] Couleur
+Fond
+[2020.02.20-20.33.23:782][159]LogBlueprintUserMessages: [Menu_C_0] bgColor
+[2020.02.20-20.33.23:782][159]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_72] Taille
+[2020.02.20-20.33.23:783][159]LogBlueprintUserMessages: [Menu_C_0] size
+[2020.02.20-20.33.23:783][159]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_73] Opacité
+[2020.02.20-20.33.23:783][159]LogBlueprintUserMessages: [Menu_C_0] opacity
+[2020.02.20-20.33.23:784][159]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_74] Marge
+Gauche
+[2020.02.20-20.33.23:784][159]LogBlueprintUserMessages: [Menu_C_0] marginLeft
+[2020.02.20-20.33.23:785][159]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_75] Couleur
+[2020.02.20-20.33.23:785][159]LogBlueprintUserMessages: [Menu_C_0] color
+[2020.02.20-20.33.23:786][159]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.23:786][159]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.23:787][159]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.23:789][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_ButtonAttr_C_CHILDACTOR_70.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:789][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_ButtonAttr_C_CHILDACTOR_69.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:789][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_ButtonAttr_C_CHILDACTOR_68.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:789][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_ButtonAttr_C_CHILDACTOR_67.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:790][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_ButtonAttr_C_CHILDACTOR_66.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:801][159]LogActorComponent: RegisterComponentWithWorld: (/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.DESTROYED_BP_ButtonValue_C_CHILDACTOR_60.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:801][159]LogActorComponent: RegisterComponentWithWorld: (/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.DESTROYED_BP_ButtonValue_C_CHILDACTOR_59.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:802][159]LogActorComponent: RegisterComponentWithWorld: (/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.DESTROYED_BP_ButtonValue_C_CHILDACTOR_58.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:804][159]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_81] Couleur
+Fond
+[2020.02.20-20.33.23:804][159]LogBlueprintUserMessages: [Menu_C_0] bgColor
+[2020.02.20-20.33.23:805][159]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_82] Taille
+[2020.02.20-20.33.23:805][159]LogBlueprintUserMessages: [Menu_C_0] size
+[2020.02.20-20.33.23:806][159]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_83] Opacité
+[2020.02.20-20.33.23:806][159]LogBlueprintUserMessages: [Menu_C_0] opacity
+[2020.02.20-20.33.23:806][159]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_84] Marge
+Gauche
+[2020.02.20-20.33.23:806][159]LogBlueprintUserMessages: [Menu_C_0] marginLeft
+[2020.02.20-20.33.23:807][159]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_85] Couleur
+[2020.02.20-20.33.23:807][159]LogBlueprintUserMessages: [Menu_C_0] color
+[2020.02.20-20.33.23:808][159]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.23:808][159]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.23:809][159]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.23:810][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_ButtonValue_C_CHILDACTOR_47.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:811][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_ButtonValue_C_CHILDACTOR_46.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:811][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_ButtonValue_C_CHILDACTOR_45.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:822][159]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_91] Couleur
+Fond
+[2020.02.20-20.33.23:823][159]LogBlueprintUserMessages: [Menu_C_0] bgColor
+[2020.02.20-20.33.23:823][159]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_92] Taille
+[2020.02.20-20.33.23:823][159]LogBlueprintUserMessages: [Menu_C_0] size
+[2020.02.20-20.33.23:824][159]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_93] Opacité
+[2020.02.20-20.33.23:824][159]LogBlueprintUserMessages: [Menu_C_0] opacity
+[2020.02.20-20.33.23:825][159]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_94] Marge
+Gauche
+[2020.02.20-20.33.23:826][159]LogBlueprintUserMessages: [Menu_C_0] marginLeft
+[2020.02.20-20.33.23:826][159]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_95] Couleur
+[2020.02.20-20.33.23:827][159]LogBlueprintUserMessages: [Menu_C_0] color
+[2020.02.20-20.33.23:827][159]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.23:828][159]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.23:829][159]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.23:840][159]LogActorComponent: RegisterComponentWithWorld: (/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.DESTROYED_BP_ButtonAttr_C_CHILDACTOR_1439.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:840][159]LogActorComponent: RegisterComponentWithWorld: (/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.DESTROYED_BP_ButtonAttr_C_CHILDACTOR_1438.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:840][159]LogActorComponent: RegisterComponentWithWorld: (/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.DESTROYED_BP_ButtonAttr_C_CHILDACTOR_1437.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:840][159]LogActorComponent: RegisterComponentWithWorld: (/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.DESTROYED_BP_ButtonAttr_C_CHILDACTOR_1436.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:841][159]LogActorComponent: RegisterComponentWithWorld: (/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.DESTROYED_BP_ButtonAttr_C_CHILDACTOR_1435.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:843][159]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_101] Couleur
+Fond
+[2020.02.20-20.33.23:843][159]LogBlueprintUserMessages: [Menu_C_0] bgColor
+[2020.02.20-20.33.23:844][159]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_102] Taille
+[2020.02.20-20.33.23:844][159]LogBlueprintUserMessages: [Menu_C_0] size
+[2020.02.20-20.33.23:845][159]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_103] Opacité
+[2020.02.20-20.33.23:845][159]LogBlueprintUserMessages: [Menu_C_0] opacity
+[2020.02.20-20.33.23:845][159]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_104] Marge
+Gauche
+[2020.02.20-20.33.23:846][159]LogBlueprintUserMessages: [Menu_C_0] marginLeft
+[2020.02.20-20.33.23:846][159]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_105] Couleur
+[2020.02.20-20.33.23:846][159]LogBlueprintUserMessages: [Menu_C_0] color
+[2020.02.20-20.33.23:847][159]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.23:848][159]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.23:848][159]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.23:850][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_ButtonAttr_C_CHILDACTOR_100.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:850][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_ButtonAttr_C_CHILDACTOR_99.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:850][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_ButtonAttr_C_CHILDACTOR_98.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:851][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_ButtonAttr_C_CHILDACTOR_97.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:851][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_ButtonAttr_C_CHILDACTOR_96.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:861][159]LogActorComponent: RegisterComponentWithWorld: (/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.DESTROYED_BP_ButtonValue_C_CHILDACTOR_78.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:862][159]LogActorComponent: RegisterComponentWithWorld: (/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.DESTROYED_BP_ButtonValue_C_CHILDACTOR_77.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:862][159]LogActorComponent: RegisterComponentWithWorld: (/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.DESTROYED_BP_ButtonValue_C_CHILDACTOR_76.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:865][159]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_111] Couleur
+Fond
+[2020.02.20-20.33.23:865][159]LogBlueprintUserMessages: [Menu_C_0] bgColor
+[2020.02.20-20.33.23:865][159]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_112] Taille
+[2020.02.20-20.33.23:866][159]LogBlueprintUserMessages: [Menu_C_0] size
+[2020.02.20-20.33.23:866][159]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_113] Opacité
+[2020.02.20-20.33.23:866][159]LogBlueprintUserMessages: [Menu_C_0] opacity
+[2020.02.20-20.33.23:867][159]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_114] Marge
+Gauche
+[2020.02.20-20.33.23:867][159]LogBlueprintUserMessages: [Menu_C_0] marginLeft
+[2020.02.20-20.33.23:868][159]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_115] Couleur
+[2020.02.20-20.33.23:868][159]LogBlueprintUserMessages: [Menu_C_0] color
+[2020.02.20-20.33.23:868][159]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.23:869][159]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.23:870][159]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.23:872][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_ButtonValue_C_CHILDACTOR_65.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:872][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_ButtonValue_C_CHILDACTOR_64.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:872][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_ButtonValue_C_CHILDACTOR_63.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.20-20.33.23:925][159]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_121] Couleur
+Fond
+[2020.02.20-20.33.23:925][159]LogBlueprintUserMessages: [Menu_C_0] bgColor
+[2020.02.20-20.33.23:926][159]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_122] Taille
+[2020.02.20-20.33.23:926][159]LogBlueprintUserMessages: [Menu_C_0] size
+[2020.02.20-20.33.23:927][159]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_123] Opacité
+[2020.02.20-20.33.23:927][159]LogBlueprintUserMessages: [Menu_C_0] opacity
+[2020.02.20-20.33.23:928][159]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_124] Marge
+Gauche
+[2020.02.20-20.33.23:928][159]LogBlueprintUserMessages: [Menu_C_0] marginLeft
+[2020.02.20-20.33.23:928][159]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_125] Couleur
+[2020.02.20-20.33.23:929][159]LogBlueprintUserMessages: [Menu_C_0] color
+[2020.02.20-20.33.23:929][159]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.23:930][159]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.23:931][159]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.33.24:355][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/salle_progra/blueprint/menu/Menu" FILE="../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Content/salle_progra/blueprint/menu/Menu.uasset" SILENT=true
+[2020.02.20-20.33.24:412][178]LogSavePackage: Moving '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Saved/MenuC2CCFC724E6287C0B716F1A95D6C71A9.tmp' to '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Content/salle_progra/blueprint/menu/Menu.uasset'
+[2020.02.20-20.33.28:357][374]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2020.02.20-20.33.28:709][374]LogSavePackage: Moving '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Saved/Map_prograF8275F8E4630625AF9C41588C91764E8.tmp' to '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Content/salle_progra/Map_progra.umap'
+[2020.02.20-20.33.28:760][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/salle_progra/Map_progra_BuiltData" FILE="../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Content/salle_progra/Map_progra_BuiltData.uasset" SILENT=true
+[2020.02.20-20.33.28:868][374]LogSavePackage: Moving '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Saved/Map_progra_BuiltData18970D8442ED4197638016942F1DF981.tmp' to '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Content/salle_progra/Map_progra_BuiltData.uasset'
+[2020.02.20-20.33.30:717][468]LogTemp: Repeating last play command: VR Preview
+[2020.02.20-20.33.30:752][468]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.33.30:752][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-20.33.30:753][468]LogHMD: Initializing OVRPlugin session
+[2020.02.20-20.33.30:886][468]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2020.02.20-20.33.30:887][468]PIE: New page: PIE session: Map_progra (20 févr. 2020 22:33:30)
+[2020.02.20-20.33.30:889][468]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.02.20-20.33.30:890][468]LogPlayLevel: Creating play world package: /Game/salle_progra/UEDPIE_0_Map_progra
+[2020.02.20-20.33.30:937][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047418s)
+[2020.02.20-20.33.30:938][468]LogAIModule: Creating AISystem for world Map_progra
+[2020.02.20-20.33.30:938][468]LogPlayLevel: PIE: World Init took: (0.001109s)
+[2020.02.20-20.33.30:938][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/salle_progra/Map_progra.Map_progra to /Game/salle_progra/UEDPIE_0_Map_progra.Map_progra (0.049038s)
+[2020.02.20-20.33.30:989][468]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2020.02.20-20.33.31:076][468]LogInit: XAudio2 using 'Casque (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-20.33.31:097][468]LogInit: FAudioDevice initialized.
+[2020.02.20-20.33.31:122][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-20.33.31:168][468]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-20.33.31:173][468]LogWorld: Bringing World /Game/salle_progra/UEDPIE_0_Map_progra.Map_progra up for play (max tick rate 0) at 2020.02.20-21.33.31
+[2020.02.20-20.33.31:173][468]LogWorld: Bringing up level for play took: 0.004335
+[2020.02.20-20.33.31:174][468]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.02.20-20.33.31:184][468]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2020.02.20-20.33.31:185][468]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/
+[2020.02.20-20.33.31:199][468]PIE: Play in editor start time for /Game/salle_progra/UEDPIE_0_Map_progra 0,576
+[2020.02.20-20.33.31:200][468]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.33.31:202][468]LogEngine: Changing dynamic resolution state.
+[2020.02.20-20.33.31:385][468]LogRenderer: Reallocating scene render targets to support 2688x1600 Format 26 NumSamples 1 (Frame:1).
+[2020.02.20-20.33.31:386][468]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2020.02.20-20.33.31:402][469]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2020.02.20-20.33.45:228][956]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1331] Couleur
+Fond
+[2020.02.20-20.33.45:229][956]LogBlueprintUserMessages: [Menu_2] bgColor
+[2020.02.20-20.33.47:221][ 27]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?bgColor=blue
+[2020.02.20-20.33.48:928][ 88]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?bgColor=red
+[2020.02.20-20.33.51:509][171]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1335] Couleur
+[2020.02.20-20.33.51:510][171]LogBlueprintUserMessages: [Menu_2] color
+[2020.02.20-20.33.53:023][225]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?color=blue
+[2020.02.20-20.33.54:967][293]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1332] Taille
+[2020.02.20-20.33.54:967][293]LogBlueprintUserMessages: [Menu_2] size
+[2020.02.20-20.33.57:489][381]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?size=2500px
+[2020.02.20-20.33.59:059][434]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1333] Opacité
+[2020.02.20-20.33.59:060][434]LogBlueprintUserMessages: [Menu_2] opacity
+[2020.02.20-20.34.00:650][490]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?opacity=1
+[2020.02.20-20.34.02:309][548]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?opacity=0.5
+[2020.02.20-20.34.03:648][595]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1334] Marge
+Gauche
+[2020.02.20-20.34.03:649][595]LogBlueprintUserMessages: [Menu_2] marginLeft
+[2020.02.20-20.34.04:689][631]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?marginLeft=50%
+[2020.02.20-20.34.07:123][716]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1332] Taille
+[2020.02.20-20.34.07:123][716]LogBlueprintUserMessages: [Menu_2] size
+[2020.02.20-20.34.08:206][753]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?size=250px
+[2020.02.20-20.34.09:998][816]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1335] Couleur
+[2020.02.20-20.34.09:998][816]LogBlueprintUserMessages: [Menu_2] color
+[2020.02.20-20.34.12:003][886]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1334] Marge
+Gauche
+[2020.02.20-20.34.12:003][886]LogBlueprintUserMessages: [Menu_2] marginLeft
+[2020.02.20-20.34.12:914][918]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?marginLeft=0%
+[2020.02.20-20.34.15:351][  4]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?marginLeft=50%
+[2020.02.20-20.34.16:433][ 43]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?marginLeft=100%
+[2020.02.20-20.34.18:367][112]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?marginLeft=50%
+[2020.02.20-20.34.19:490][152]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?marginLeft=0%
+[2020.02.20-20.34.26:537][401]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1335] Couleur
+[2020.02.20-20.34.26:538][401]LogBlueprintUserMessages: [Menu_2] color
+[2020.02.20-20.34.27:309][428]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?color=red
+[2020.02.20-20.34.28:486][469]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?color=blue
+[2020.02.20-20.34.29:577][507]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?color=white
+[2020.02.20-20.34.30:956][556]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1331] Couleur
+Fond
+[2020.02.20-20.34.30:956][556]LogBlueprintUserMessages: [Menu_2] bgColor
+[2020.02.20-20.34.32:013][586]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?bgColor=blue
+[2020.02.20-20.34.33:373][634]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?bgColor=white
+[2020.02.20-20.34.34:644][679]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?bgColor=blue
+[2020.02.20-20.34.51:254][272]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.34.51:293][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-20.34.51:293][272]LogWorld: BeginTearingDown for /Game/salle_progra/UEDPIE_0_Map_progra
+[2020.02.20-20.34.51:447][272]LogSlate: Window 'MMI_VR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.20-20.34.51:459][272]LogWorld: UWorld::CleanupWorld for Map_progra, bSessionEnded=true, bCleanupResources=true
+[2020.02.20-20.34.51:485][272]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-20.34.51:485][272]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.34.51:549][272]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.20-20.34.52:250][272]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.700 s
+[2020.02.20-20.34.52:250][272]LogOutputDevice: Error: === Handled ensure: ===
+[2020.02.20-20.34.52:251][272]LogOutputDevice: Error: 
+[2020.02.20-20.34.52:251][272]LogOutputDevice: Error: Ensure condition failed: !IsGarbageCollecting() [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/UMG/Private/Slate/SObjectWidget.cpp] [Line: 43]
+[2020.02.20-20.34.52:251][272]LogOutputDevice: Error: SObjectWidget for 'BPI_WebBrowser_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.BPI_WebBrowser_C_0' destroyed while collecting garbage.  This can lead to multiple GCs being required to cleanup the object.  Possible causes might be,
+[2020.02.20-20.34.52:251][272]LogOutputDevice: Error: 1) ReleaseSlateResources not being implemented for the owner of this pointer.
+[2020.02.20-20.34.52:251][272]LogOutputDevice: Error: 2) You may just be holding onto some slate pointers on an actor that don't get reset until the actor is Garbage Collected.  You should avoid doing this, and instead reset those references when the actor is Destroyed.
+[2020.02.20-20.34.52:252][272]LogOutputDevice: Error: Stack: 
+[2020.02.20-20.34.52:252][272]LogOutputDevice: Error: [Callstack] 0x00007ffeafa1309e UE4Editor-UMG.dll!DispatchCheckVerify<bool,<lambda_12a5657db78d6de5f60ce8eafba611d0> >() [d:\build\++ue4\sync\engine\source\runtime\core\public\misc\assertionmacros.h:164]
+[2020.02.20-20.34.52:252][272]LogOutputDevice: Error: [Callstack] 0x00007ffeaf880746 UE4Editor-UMG.dll!SObjectWidget::~SObjectWidget() [d:\build\++ue4\sync\engine\source\runtime\umg\private\slate\sobjectwidget.cpp:43]
+[2020.02.20-20.34.52:252][272]LogOutputDevice: Error: [Callstack] 0x00007ffeaf8b37a0 UE4Editor-UMG.dll!UUserWidget::BeginDestroy() [d:\build\++ue4\sync\engine\source\runtime\umg\private\userwidget.cpp:441]
+[2020.02.20-20.34.52:252][272]LogOutputDevice: Error: [Callstack] 0x00007fff0142b7c3 UE4Editor-CoreUObject.dll!UObject::ConditionalBeginDestroy() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\obj.cpp:989]
+[2020.02.20-20.34.52:253][272]LogOutputDevice: Error: [Callstack] 0x00007fff01406aec UE4Editor-CoreUObject.dll!UnhashUnreachableObjects() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\garbagecollection.cpp:1916]
+[2020.02.20-20.34.52:253][272]LogOutputDevice: Error: [Callstack] 0x00007fff013af8c2 UE4Editor-CoreUObject.dll!CollectGarbageInternal() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\garbagecollection.cpp:1859]
+[2020.02.20-20.34.52:253][272]LogOutputDevice: Error: [Callstack] 0x00007fff013aea0a UE4Editor-CoreUObject.dll!CollectGarbage() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\garbagecollection.cpp:1946]
+[2020.02.20-20.34.52:253][272]LogOutputDevice: Error: [Callstack] 0x00007ffea6ccb7ff UE4Editor-UnrealEd.dll!UEditorEngine::EndPlayMap() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\playlevel.cpp:479]
+[2020.02.20-20.34.52:254][272]LogOutputDevice: Error: [Callstack] 0x00007ffea67bef43 UE4Editor-UnrealEd.dll!UEditorEngine::Tick() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\editorengine.cpp:1909]
+[2020.02.20-20.34.52:254][272]LogOutputDevice: Error: [Callstack] 0x00007ffea7015296 UE4Editor-UnrealEd.dll!UUnrealEdEngine::Tick() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\unrealedengine.cpp:407]
+[2020.02.20-20.34.52:254][272]LogOutputDevice: Error: [Callstack] 0x00007ff730e27b0a UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launchengineloop.cpp:4257]
+[2020.02.20-20.34.52:254][272]LogOutputDevice: Error: [Callstack] 0x00007ff730e3a91c UE4Editor.exe!GuardedMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launch.cpp:173]
+[2020.02.20-20.34.52:254][272]LogOutputDevice: Error: [Callstack] 0x00007ff730e3a9fa UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:147]
+[2020.02.20-20.34.52:255][272]LogOutputDevice: Error: [Callstack] 0x00007ff730e4b92c UE4Editor.exe!WinMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:279]
+[2020.02.20-20.34.52:255][272]LogOutputDevice: Error: [Callstack] 0x00007ff730e4e60e UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\1\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2020.02.20-20.34.52:255][272]LogOutputDevice: Error: [Callstack] 0x00007fff2a317bd4 KERNEL32.DLL!UnknownFunction []
+[2020.02.20-20.34.52:255][272]LogOutputDevice: Error: [Callstack] 0x00007fff2b2cced1 ntdll.dll!UnknownFunction []
+[2020.02.20-20.34.52:255][272]LogOutputDevice: Error: 
+[2020.02.20-20.34.52:261][272]LogStats:                SubmitErrorReport -  0.000 s
+[2020.02.20-20.34.53:151][272]LogStats:                    SendNewReport -  0.891 s
+[2020.02.20-20.34.53:152][272]LogStats:             FDebug::EnsureFailed -  1.601 s
+[2020.02.20-20.34.53:204][272]LogUObjectHash: Compacting FUObjectHashTables data took  10.44ms
+[2020.02.20-20.34.53:264][272]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_131] Couleur
+Fond
+[2020.02.20-20.34.53:264][272]LogBlueprintUserMessages: [Menu_C_0] bgColor
+[2020.02.20-20.34.53:265][272]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_132] Taille
+[2020.02.20-20.34.53:265][272]LogBlueprintUserMessages: [Menu_C_0] size
+[2020.02.20-20.34.53:267][272]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_133] Opacité
+[2020.02.20-20.34.53:267][272]LogBlueprintUserMessages: [Menu_C_0] opacity
+[2020.02.20-20.34.53:268][272]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_134] Marge
+Gauche
+[2020.02.20-20.34.53:268][272]LogBlueprintUserMessages: [Menu_C_0] marginLeft
+[2020.02.20-20.34.53:269][272]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_135] Couleur
+[2020.02.20-20.34.53:269][272]LogBlueprintUserMessages: [Menu_C_0] color
+[2020.02.20-20.34.53:270][272]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.34.53:271][272]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.34.53:273][272]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.34.53:330][273]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.02.20-20.34.53:337][273]LogEngine: Changing dynamic resolution state.
+[2020.02.20-20.35.43:025][629]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.02.20-20.37.25:933][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-20.37.53:227][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-20.37.53:313][  7]LogTemp: Repeating last play command: VR Preview
+[2020.02.20-20.37.53:340][  7]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.37.53:340][  7]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-20.37.53:340][  7]LogHMD: Initializing OVRPlugin session
+[2020.02.20-20.37.53:451][  7]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2020.02.20-20.37.53:452][  7]PIE: New page: PIE session: Map_progra (20 févr. 2020 22:37:53)
+[2020.02.20-20.37.53:452][  7]LogPlayLevel: Creating play world package: /Game/salle_progra/UEDPIE_0_Map_progra
+[2020.02.20-20.37.53:499][  7]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046232s)
+[2020.02.20-20.37.53:500][  7]LogAIModule: Creating AISystem for world Map_progra
+[2020.02.20-20.37.53:501][  7]LogPlayLevel: PIE: World Init took: (0.001648s)
+[2020.02.20-20.37.53:501][  7]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/salle_progra/Map_progra.Map_progra to /Game/salle_progra/UEDPIE_0_Map_progra.Map_progra (0.048440s)
+[2020.02.20-20.37.53:547][  7]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.02.20-20.37.53:621][  7]LogInit: XAudio2 using 'Casque (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-20.37.53:637][  7]LogInit: FAudioDevice initialized.
+[2020.02.20-20.37.53:664][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-20.37.53:709][  7]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-20.37.53:715][  7]LogWorld: Bringing World /Game/salle_progra/UEDPIE_0_Map_progra.Map_progra up for play (max tick rate 0) at 2020.02.20-21.37.53
+[2020.02.20-20.37.53:716][  7]LogWorld: Bringing up level for play took: 0.005401
+[2020.02.20-20.37.53:716][  7]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.02.20-20.37.53:718][  7]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/
+[2020.02.20-20.37.53:727][  7]PIE: Play in editor start time for /Game/salle_progra/UEDPIE_0_Map_progra 1,103
+[2020.02.20-20.37.53:727][  7]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.37.53:729][  7]LogEngine: Changing dynamic resolution state.
+[2020.02.20-20.37.53:826][  7]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2020.02.20-20.37.53:851][  8]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2020.02.20-20.37.59:407][216]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.37.59:461][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-20.37.59:461][216]LogWorld: BeginTearingDown for /Game/salle_progra/UEDPIE_0_Map_progra
+[2020.02.20-20.37.59:826][216]LogSlate: Window 'MMI_VR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.20-20.37.59:841][216]LogWorld: UWorld::CleanupWorld for Map_progra, bSessionEnded=true, bCleanupResources=true
+[2020.02.20-20.37.59:870][216]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-20.37.59:871][216]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.37.59:949][216]LogUObjectHash: Compacting FUObjectHashTables data took   6.88ms
+[2020.02.20-20.38.00:014][216]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_141] Couleur
+Fond
+[2020.02.20-20.38.00:015][216]LogBlueprintUserMessages: [Menu_C_0] bgColor
+[2020.02.20-20.38.00:016][216]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_142] Taille
+[2020.02.20-20.38.00:016][216]LogBlueprintUserMessages: [Menu_C_0] size
+[2020.02.20-20.38.00:017][216]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_143] Opacité
+[2020.02.20-20.38.00:018][216]LogBlueprintUserMessages: [Menu_C_0] opacity
+[2020.02.20-20.38.00:019][216]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_144] Marge
+Gauche
+[2020.02.20-20.38.00:019][216]LogBlueprintUserMessages: [Menu_C_0] marginLeft
+[2020.02.20-20.38.00:021][216]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_145] Couleur
+[2020.02.20-20.38.00:021][216]LogBlueprintUserMessages: [Menu_C_0] color
+[2020.02.20-20.38.00:022][216]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.38.00:024][216]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.38.00:025][216]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.38.00:091][217]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.02.20-20.38.00:093][217]LogEngine: Changing dynamic resolution state.
+[2020.02.20-20.38.09:721][794]BlueprintLog: New page: Compile BPI_WebBrowser
+[2020.02.20-20.38.10:155][794]LogUObjectHash: Compacting FUObjectHashTables data took   6.47ms
+[2020.02.20-20.38.11:733][900]LogTemp: Repeating last play command: VR Preview
+[2020.02.20-20.38.11:758][900]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.38.11:758][900]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-20.38.11:758][900]LogHMD: Initializing OVRPlugin session
+[2020.02.20-20.38.11:858][900]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2020.02.20-20.38.11:859][900]PIE: New page: PIE session: Map_progra (20 févr. 2020 22:38:11)
+[2020.02.20-20.38.11:859][900]LogPlayLevel: Creating play world package: /Game/salle_progra/UEDPIE_0_Map_progra
+[2020.02.20-20.38.11:905][900]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046105s)
+[2020.02.20-20.38.11:906][900]LogAIModule: Creating AISystem for world Map_progra
+[2020.02.20-20.38.11:906][900]LogPlayLevel: PIE: World Init took: (0.000896s)
+[2020.02.20-20.38.11:906][900]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/salle_progra/Map_progra.Map_progra to /Game/salle_progra/UEDPIE_0_Map_progra.Map_progra (0.047372s)
+[2020.02.20-20.38.11:951][900]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.02.20-20.38.12:032][900]LogInit: XAudio2 using 'Casque (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-20.38.12:048][900]LogInit: FAudioDevice initialized.
+[2020.02.20-20.38.12:072][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-20.38.12:118][900]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-20.38.12:124][900]LogWorld: Bringing World /Game/salle_progra/UEDPIE_0_Map_progra.Map_progra up for play (max tick rate 0) at 2020.02.20-21.38.12
+[2020.02.20-20.38.12:124][900]LogWorld: Bringing up level for play took: 0.005928
+[2020.02.20-20.38.12:125][900]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.02.20-20.38.12:127][900]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/
+[2020.02.20-20.38.12:138][900]PIE: Play in editor start time for /Game/salle_progra/UEDPIE_0_Map_progra -0,485
+[2020.02.20-20.38.12:138][900]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.38.12:140][900]LogEngine: Changing dynamic resolution state.
+[2020.02.20-20.38.12:256][900]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2020.02.20-20.38.12:307][902]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2020.02.20-20.38.21:358][217]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1334] Marge
+Gauche
+[2020.02.20-20.38.21:358][217]LogBlueprintUserMessages: [Menu_2] marginLeft
+[2020.02.20-20.38.23:162][279]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?marginLeft=50%
+[2020.02.20-20.38.24:750][332]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1331] Couleur
+Fond
+[2020.02.20-20.38.24:750][332]LogBlueprintUserMessages: [Menu_2] bgColor
+[2020.02.20-20.38.25:481][357]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?bgColor=red
+[2020.02.20-20.38.26:584][395]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?bgColor=blue
+[2020.02.20-20.38.28:158][450]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?bgColor=red
+[2020.02.20-20.38.28:843][474]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?bgColor=white
+[2020.02.20-20.38.29:431][494]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1332] Taille
+[2020.02.20-20.38.29:431][494]LogBlueprintUserMessages: [Menu_2] size
+[2020.02.20-20.38.29:514][497]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1335] Couleur
+[2020.02.20-20.38.29:515][497]LogBlueprintUserMessages: [Menu_2] color
+[2020.02.20-20.38.30:376][527]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1332] Taille
+[2020.02.20-20.38.30:377][527]LogBlueprintUserMessages: [Menu_2] size
+[2020.02.20-20.38.31:068][551]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?size=250px
+[2020.02.20-20.38.32:416][598]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1335] Couleur
+[2020.02.20-20.38.32:417][598]LogBlueprintUserMessages: [Menu_2] color
+[2020.02.20-20.38.33:208][626]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?color=red
+[2020.02.20-20.38.33:858][648]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1334] Marge
+Gauche
+[2020.02.20-20.38.33:858][648]LogBlueprintUserMessages: [Menu_2] marginLeft
+[2020.02.20-20.38.34:532][671]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?marginLeft=100%
+[2020.02.20-20.38.35:521][705]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?marginLeft=0%
+[2020.02.20-20.38.36:341][733]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1333] Opacité
+[2020.02.20-20.38.36:341][733]LogBlueprintUserMessages: [Menu_2] opacity
+[2020.02.20-20.38.36:741][747]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?opacity=1
+[2020.02.20-20.39.23:337][390]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1334] Marge
+Gauche
+[2020.02.20-20.39.23:338][390]LogBlueprintUserMessages: [Menu_2] marginLeft
+[2020.02.20-20.39.23:379][391]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1335] Couleur
+[2020.02.20-20.39.23:379][391]LogBlueprintUserMessages: [Menu_2] color
+[2020.02.20-20.39.24:828][441]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?color=blue
+[2020.02.20-20.39.27:746][544]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1331] Couleur
+Fond
+[2020.02.20-20.39.27:746][544]LogBlueprintUserMessages: [Menu_2] bgColor
+[2020.02.20-20.39.29:068][589]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?bgColor=red
+[2020.02.20-20.39.30:027][623]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?bgColor=blue
+[2020.02.20-20.39.31:403][672]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1334] Marge
+Gauche
+[2020.02.20-20.39.31:404][672]LogBlueprintUserMessages: [Menu_2] marginLeft
+[2020.02.20-20.39.32:091][696]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?marginLeft=50%
+[2020.02.20-20.39.33:527][746]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1335] Couleur
+[2020.02.20-20.39.33:527][746]LogBlueprintUserMessages: [Menu_2] color
+[2020.02.20-20.39.34:154][768]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?color=white
+[2020.02.20-20.39.36:570][853]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1334] Marge
+Gauche
+[2020.02.20-20.39.36:571][853]LogBlueprintUserMessages: [Menu_2] marginLeft
+[2020.02.20-20.39.37:612][888]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?marginLeft=100%
+[2020.02.20-20.39.39:763][964]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?marginLeft=50%
+[2020.02.20-20.39.40:775][  0]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/?marginLeft=0%
+[2020.02.20-20.39.41:985][ 42]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1331] Couleur
+Fond
+[2020.02.20-20.39.41:986][ 42]LogBlueprintUserMessages: [Menu_2] bgColor
+[2020.02.20-20.39.42:556][ 62]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1332] Taille
+[2020.02.20-20.39.42:557][ 62]LogBlueprintUserMessages: [Menu_2] size
+[2020.02.20-20.39.42:578][ 63]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1335] Couleur
+[2020.02.20-20.39.42:578][ 63]LogBlueprintUserMessages: [Menu_2] color
+[2020.02.20-20.39.43:170][ 83]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1334] Marge
+Gauche
+[2020.02.20-20.39.43:170][ 83]LogBlueprintUserMessages: [Menu_2] marginLeft
+[2020.02.20-20.39.43:257][ 86]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1333] Opacité
+[2020.02.20-20.39.43:257][ 86]LogBlueprintUserMessages: [Menu_2] opacity
+[2020.02.20-20.39.43:950][110]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1334] Marge
+Gauche
+[2020.02.20-20.39.43:950][110]LogBlueprintUserMessages: [Menu_2] marginLeft
+[2020.02.20-20.39.44:013][112]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1335] Couleur
+[2020.02.20-20.39.44:014][112]LogBlueprintUserMessages: [Menu_2] color
+[2020.02.20-20.39.44:074][114]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_1332] Taille
+[2020.02.20-20.39.44:075][114]LogBlueprintUserMessages: [Menu_2] size
+[2020.02.20-20.39.59:665][660]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.39.59:726][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-20.39.59:726][660]LogWorld: BeginTearingDown for /Game/salle_progra/UEDPIE_0_Map_progra
+[2020.02.20-20.40.00:046][660]LogSlate: Window 'MMI_VR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.20-20.40.00:068][660]LogWorld: UWorld::CleanupWorld for Map_progra, bSessionEnded=true, bCleanupResources=true
+[2020.02.20-20.40.00:095][660]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-20.40.00:095][660]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.40.00:171][660]LogUObjectHash: Compacting FUObjectHashTables data took   6.12ms
+[2020.02.20-20.40.00:225][661]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.02.20-20.40.00:226][661]LogEngine: Changing dynamic resolution state.
+[2020.02.20-20.45.21:647][ 21]LogTemp: Repeating last play command: VR Preview
+[2020.02.20-20.45.21:676][ 21]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.45.21:676][ 21]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.20-20.45.21:676][ 21]LogHMD: Initializing OVRPlugin session
+[2020.02.20-20.45.21:785][ 21]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2020.02.20-20.45.21:786][ 21]PIE: New page: PIE session: Map_progra (20 févr. 2020 22:45:21)
+[2020.02.20-20.45.21:787][ 21]LogPlayLevel: Creating play world package: /Game/salle_progra/UEDPIE_0_Map_progra
+[2020.02.20-20.45.21:835][ 21]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048216s)
+[2020.02.20-20.45.21:837][ 21]LogAIModule: Creating AISystem for world Map_progra
+[2020.02.20-20.45.21:837][ 21]LogPlayLevel: PIE: World Init took: (0.001288s)
+[2020.02.20-20.45.21:837][ 21]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/salle_progra/Map_progra.Map_progra to /Game/salle_progra/UEDPIE_0_Map_progra.Map_progra (0.049924s)
+[2020.02.20-20.45.21:886][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.02.20-20.45.21:959][ 21]LogInit: XAudio2 using 'Casque (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.20-20.45.21:975][ 21]LogInit: FAudioDevice initialized.
+[2020.02.20-20.45.22:002][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-20.45.22:061][ 21]LogLoad: Game class is 'GameModeBase'
+[2020.02.20-20.45.22:066][ 21]LogWorld: Bringing World /Game/salle_progra/UEDPIE_0_Map_progra.Map_progra up for play (max tick rate 0) at 2020.02.20-21.45.22
+[2020.02.20-20.45.22:067][ 21]LogWorld: Bringing up level for play took: 0.005279
+[2020.02.20-20.45.22:068][ 21]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.02.20-20.45.22:070][ 21]LogBlueprintUserMessages: [BP_BrowserMonitor_2] https://marill.dev/proj/PTUT_prog/
+[2020.02.20-20.45.22:080][ 21]PIE: Play in editor start time for /Game/salle_progra/UEDPIE_0_Map_progra -0,543
+[2020.02.20-20.45.22:081][ 21]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.45.22:082][ 21]LogEngine: Changing dynamic resolution state.
+[2020.02.20-20.45.22:185][ 21]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2020.02.20-20.45.22:218][ 23]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2020.02.20-20.45.30:510][337]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.45.30:568][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.20-20.45.30:568][337]LogWorld: BeginTearingDown for /Game/salle_progra/UEDPIE_0_Map_progra
+[2020.02.20-20.45.30:676][337]LogSlate: Window 'MMI_VR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.20-20.45.30:696][337]LogWorld: UWorld::CleanupWorld for Map_progra, bSessionEnded=true, bCleanupResources=true
+[2020.02.20-20.45.30:731][337]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.20-20.45.30:731][337]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel' has LevelScriptBlueprint '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra' with GeneratedClass '/Game/salle_progra/Map_progra.Map_progra_C' with ClassGeneratedBy '/Game/salle_progra/Map_progra.Map_progra:PersistentLevel.Map_progra'
+[2020.02.20-20.45.30:793][337]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2020.02.20-20.45.30:827][338]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.02.20-20.45.30:828][338]LogEngine: Changing dynamic resolution state.
+[2020.02.20-20.45.36:130][751]LogBlueprintUserMessages: [BP_ButtonAttr_GEN_VARIABLE_BP_ButtonAttr_C_CAT_151] Couleur
+Fond
+[2020.02.20-20.45.36:130][751]LogBlueprintUserMessages: [Menu_C_0] bgColor
+[2020.02.20-20.45.36:131][751]LogBlueprintUserMessages: [BP_ButtonAttr1_GEN_VARIABLE_BP_ButtonAttr_C_CAT_152] Taille
+[2020.02.20-20.45.36:131][751]LogBlueprintUserMessages: [Menu_C_0] size
+[2020.02.20-20.45.36:132][751]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_153] Opacité
+[2020.02.20-20.45.36:132][751]LogBlueprintUserMessages: [Menu_C_0] opacity
+[2020.02.20-20.45.36:133][751]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_154] Marge
+Gauche
+[2020.02.20-20.45.36:133][751]LogBlueprintUserMessages: [Menu_C_0] marginLeft
+[2020.02.20-20.45.36:133][751]LogBlueprintUserMessages: [BP_ButtonAttr2_GEN_VARIABLE_BP_ButtonAttr_C_CAT_155] Couleur
+[2020.02.20-20.45.36:133][751]LogBlueprintUserMessages: [Menu_C_0] color
+[2020.02.20-20.45.36:134][751]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.45.36:135][751]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.45.36:135][751]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/salle_progra/blueprint/menu/BP_ButtonValue.BP_ButtonValue_C:ExecuteUbergraph_BP_ButtonValue'!
+[2020.02.20-20.45.42:822][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-20.45.49:504][559]LogUObjectBase: Warning: Object is not registered
+[2020.02.20-20.45.49:525][559]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.20-20.45.51:391][559]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.865 s
+[2020.02.20-20.45.51:391][559]LogOutputDevice: Error: === Handled ensure: ===
+[2020.02.20-20.45.51:391][559]LogOutputDevice: Error: 
+[2020.02.20-20.45.51:391][559]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2020.02.20-20.45.51:392][559]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.02.20-20.45.51:392][559]LogOutputDevice: Error: Stack: 
+[2020.02.20-20.45.51:392][559]LogOutputDevice: Error: [Callstack] 0x00007ffea7375279 UE4Editor-UnrealEd.dll!DispatchCheckVerify<bool,<lambda_b0962806d2682a61138870b6f79ba3db> >() [d:\build\++ue4\sync\engine\source\runtime\core\public\misc\assertionmacros.h:164]
+[2020.02.20-20.45.51:392][559]LogOutputDevice: Error: [Callstack] 0x00007ffea6b97fca UE4Editor-UnrealEd.dll!FKismetDebugUtilities::FindDebuggingData() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\kismet2\kismetdebugutilities.cpp:1154]
+[2020.02.20-20.45.51:392][559]LogOutputDevice: Error: [Callstack] 0x00007ffea6ba622f UE4Editor-UnrealEd.dll!FKismetDebugUtilities::GetWatchText() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\kismet2\kismetdebugutilities.cpp:1115]
+[2020.02.20-20.45.51:393][559]LogOutputDevice: Error: [Callstack] 0x00007ffe9c766c91 UE4Editor-BlueprintGraph.dll!UK2Node::GetPinHoverText() [d:\build\++ue4\sync\engine\source\editor\blueprintgraph\private\k2node.cpp:1739]
+[2020.02.20-20.45.51:393][559]LogOutputDevice: Error: [Callstack] 0x00007ffe9b204dca UE4Editor-GraphEditor.dll!SGraphPin::GetTooltipText() [d:\build\++ue4\sync\engine\source\editor\grapheditor\private\sgraphpin.cpp:1131]
+[2020.02.20-20.45.51:393][559]LogOutputDevice: Error: [Callstack] 0x00007ffe9b1be057 UE4Editor-GraphEditor.dll!TBaseSPMethodDelegateInstance<1,SGraphPin,0,FText __cdecl(void)>::Execute() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:293]
+[2020.02.20-20.45.51:393][559]LogOutputDevice: Error: [Callstack] 0x00007ffeb141d644 UE4Editor-Slate.dll!TAttribute<FText>::Get() [d:\build\++ue4\sync\engine\source\runtime\core\public\misc\attribute.h:137]
+[2020.02.20-20.45.51:393][559]LogOutputDevice: Error: [Callstack] 0x00007ffeb160c533 UE4Editor-Slate.dll!SToolTip::IsEmpty() [d:\build\++ue4\sync\engine\source\runtime\slate\private\widgets\stooltip.cpp:87]
+[2020.02.20-20.45.51:394][559]LogOutputDevice: Error: [Callstack] 0x00007ffeb146922b UE4Editor-Slate.dll!FSlateApplication::UpdateToolTip() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:3926]
+[2020.02.20-20.45.51:394][559]LogOutputDevice: Error: [Callstack] 0x00007ffeb1445738 UE4Editor-Slate.dll!FSlateApplication::ProcessMouseMoveEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:6526]
+[2020.02.20-20.45.51:394][559]LogOutputDevice: Error: [Callstack] 0x00007ffeb1439a1e UE4Editor-Slate.dll!FSlateApplication::OnMouseMove() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:6468]
+[2020.02.20-20.45.51:394][559]LogOutputDevice: Error: [Callstack] 0x00007fff00b94c4c UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1918]
+[2020.02.20-20.45.51:394][559]LogOutputDevice: Error: [Callstack] 0x00007fff00b826df UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2332]
+[2020.02.20-20.45.51:395][559]LogOutputDevice: Error: [Callstack] 0x00007fff00b97340 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1560]
+[2020.02.20-20.45.51:395][559]LogOutputDevice: Error: [Callstack] 0x00007fff00b7edd0 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:790]
+[2020.02.20-20.45.51:395][559]LogOutputDevice: Error: [Callstack] 0x00007fff29665b6d USER32.dll!CallWindowProcW() []
+[2020.02.20-20.45.51:396][559]LogOutputDevice: Error: [Callstack] 0x00007fff29665562 USER32.dll!DispatchMessageW() []
+[2020.02.20-20.45.51:396][559]LogOutputDevice: Error: [Callstack] 0x00007fff00b988e9 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:130]
+[2020.02.20-20.45.51:396][559]LogOutputDevice: Error: [Callstack] 0x00007ff730e26980 UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launchengineloop.cpp:4169]
+[2020.02.20-20.45.51:396][559]LogOutputDevice: Error: [Callstack] 0x00007ff730e3a91c UE4Editor.exe!GuardedMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launch.cpp:173]
+[2020.02.20-20.45.51:396][559]LogOutputDevice: Error: [Callstack] 0x00007ff730e3a9fa UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:147]
+[2020.02.20-20.45.51:397][559]LogOutputDevice: Error: [Callstack] 0x00007ff730e4b92c UE4Editor.exe!WinMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:279]
+[2020.02.20-20.45.51:397][559]LogOutputDevice: Error: [Callstack] 0x00007ff730e4e60e UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\1\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2020.02.20-20.45.51:397][559]LogOutputDevice: Error: [Callstack] 0x00007fff2a317bd4 KERNEL32.DLL!UnknownFunction []
+[2020.02.20-20.45.51:397][559]LogOutputDevice: Error: [Callstack] 0x00007fff2b2cced1 ntdll.dll!UnknownFunction []
+[2020.02.20-20.45.51:398][559]LogOutputDevice: Error: 
+[2020.02.20-20.45.51:403][559]LogStats:                SubmitErrorReport -  0.000 s
