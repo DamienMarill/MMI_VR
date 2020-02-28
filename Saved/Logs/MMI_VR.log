@@ -1046,3 +1046,73 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.28-13.19.56:784][170]LogEngine: Changing dynamic resolution state.
 [2020.02.28-13.20.10:367][940]BlueprintLog: New page: Compile BP_valide
 [2020.02.28-13.20.10:794][940]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2020.02.28-13.26.28:407][133]LogUObjectHash: Compacting FUObjectHashTables data took   6.79ms
+[2020.02.28-13.26.28:873][133]LogSavePackage: Moving '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Saved/test_BP_Auto1E973BBA44EAA283221ED4A9E758720C8.tmp' to '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Saved/Autosaves/Game/salle_com/Blueprint/test_BP_Auto1.umap'
+[2020.02.28-13.26.28:878][133]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/salle_com/Blueprint/test_BP' took 0.536
+[2020.02.28-13.26.28:878][133]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.536
+[2020.02.28-13.26.28:881][133]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/salle_com/Blueprint/BP_obj] ([1] browsable assets)...
+[2020.02.28-13.26.29:007][133]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/salle_com/Blueprint/BP_obj.BP_obj]
+[2020.02.28-13.26.29:007][133]OBJ SavePackage: Finished generating thumbnails for package [/Game/salle_com/Blueprint/BP_obj]
+[2020.02.28-13.26.29:069][133]LogSavePackage: Moving '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Saved/BP_obj_Auto1A1D57F504A1D7A3824D0D996F60813DE.tmp' to '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Saved/Autosaves/Game/salle_com/Blueprint/BP_obj_Auto1.uasset'
+[2020.02.28-13.26.29:070][133]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/salle_com/Blueprint/BP_valide] ([1] browsable assets)...
+[2020.02.28-13.26.29:147][133]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/salle_com/Blueprint/BP_valide.BP_valide]
+[2020.02.28-13.26.29:147][133]OBJ SavePackage: Finished generating thumbnails for package [/Game/salle_com/Blueprint/BP_valide]
+[2020.02.28-13.26.29:233][133]LogSavePackage: Moving '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Saved/BP_valide_Auto11899C6F84FD47BE8E7834DABC7E24B9E.tmp' to '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Saved/Autosaves/Game/salle_com/Blueprint/BP_valide_Auto1.uasset'
+[2020.02.28-13.26.29:234][133]LogFileHelpers: Auto-saving content packages took 0.354
+[2020.02.28-13.46.37:000][804]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.02.28-13.46.38:097][804]LogSlate: Window 'Save Content' being destroyed
+[2020.02.28-13.46.38:141][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/salle_com/Blueprint/BP_obj" FILE="../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Content/salle_com/Blueprint/BP_obj.uasset" SILENT=true
+[2020.02.28-13.46.38:172][804]LogSavePackage: Moving '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Saved/BP_objD14726E049E43EA7584C16860439370C.tmp' to '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Content/salle_com/Blueprint/BP_obj.uasset'
+[2020.02.28-13.46.38:185][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/salle_com/Blueprint/BP_valide" FILE="../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Content/salle_com/Blueprint/BP_valide.uasset" SILENT=true
+[2020.02.28-13.46.38:227][804]LogSavePackage: Moving '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Saved/BP_valide0A52D34644250150FAE8A2A9FB25D1E8.tmp' to '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Content/salle_com/Blueprint/BP_valide.uasset'
+[2020.02.28-13.46.38:282][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.02.28-13.46.38:586][804]LogSavePackage: Moving '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Saved/test_BP79FA46EC43FF74A6E120018981C90791.tmp' to '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Content/salle_com/Blueprint/test_BP.umap'
+[2020.02.28-13.46.38:634][804]LogFileHelpers: Saving map 'test_BP' took 0.395
+[2020.02.28-13.46.38:942][804]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-13.46.39:015][804]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.28-13.46.39:015][804]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-13.46.39:104][804]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.28-13.46.39:104][804]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-13.46.39:220][804]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.28-13.46.39:220][804]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-13.46.39:315][804]LogSlate: Window 'MMI_VR - Unreal Editor' being destroyed
+[2020.02.28-13.46.39:752][805]Cmd: QUIT_EDITOR
+[2020.02.28-13.46.41:157][805]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.28-13.46.41:204][805]LogExit: Preparing to exit.
+[2020.02.28-13.46.42:048][805]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.28-13.46.42:048][805]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.28-13.46.42:048][805]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.28-13.46.42:048][805]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.28-13.46.42:048][805]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.28-13.46.42:048][805]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.28-13.46.42:048][805]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.28-13.46.42:048][805]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-13.46.42:048][805]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.28-13.46.42:048][805]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.28-13.46.42:048][805]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.28-13.46.42:048][805]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.28-13.46.42:048][805]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.28-13.46.42:048][805]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.28-13.46.42:048][805]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.28-13.46.42:048][805]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-13.46.42:048][805]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.28-13.46.42:048][805]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.28-13.46.42:048][805]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.28-13.46.42:048][805]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.28-13.46.42:048][805]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.28-13.46.42:048][805]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.28-13.46.42:048][805]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.28-13.46.42:048][805]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-13.46.42:048][805]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.28-13.46.42:048][805]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.28-13.46.42:048][805]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.28-13.46.42:048][805]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.28-13.46.42:049][805]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.28-13.46.42:049][805]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.28-13.46.42:049][805]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.28-13.46.42:049][805]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-13.46.42:173][805]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.02.28-13.46.42:351][805]LogExit: Editor shut down
+[2020.02.28-13.46.42:352][805]LogExit: Transaction tracking system shut down
+[2020.02.28-13.46.44:097][805]LogExit: Object subsystem successfully closed.
+[2020.02.28-13.46.44:144][805]LogShaderCompilers: Display: Shaders left to compile 0
