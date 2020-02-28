@@ -772,3 +772,277 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.28-13.06.47:656][778]LogSavePackage: Moving '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Saved/BP_valide3F256906468CB4DF58AB619A587B9E7C.tmp' to '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Content/salle_com/Blueprint/BP_valide.uasset'
 [2020.02.28-13.10.20:937][261]BlueprintLog: New page: Compile BP_valide
 [2020.02.28-13.10.21:326][261]LogUObjectHash: Compacting FUObjectHashTables data took   7.13ms
+[2020.02.28-13.10.31:926][395]LogTemp: Repeating last play command: VR Preview
+[2020.02.28-13.10.31:976][395]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel' has LevelScriptBlueprint '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP' with GeneratedClass '/Game/salle_com/Blueprint/test_BP.test_BP_C' with ClassGeneratedBy '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP'
+[2020.02.28-13.10.31:977][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.28-13.10.31:977][395]LogHMD: Initializing OVRPlugin session
+[2020.02.28-13.10.32:274][395]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2020.02.28-13.10.32:275][395]PIE: New page: PIE session: test_BP (28 févr. 2020 15:10:32)
+[2020.02.28-13.10.32:276][395]LogPlayLevel: Creating play world package: /Game/salle_com/Blueprint/UEDPIE_0_test_BP
+[2020.02.28-13.10.32:335][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059281s)
+[2020.02.28-13.10.32:337][395]LogAIModule: Creating AISystem for world test_BP
+[2020.02.28-13.10.32:337][395]LogPlayLevel: PIE: World Init took: (0.001912s)
+[2020.02.28-13.10.32:337][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/salle_com/Blueprint/test_BP.test_BP to /Game/salle_com/Blueprint/UEDPIE_0_test_BP.test_BP (0.061499s)
+[2020.02.28-13.10.32:405][395]LogUObjectHash: Compacting FUObjectHashTables data took   7.87ms
+[2020.02.28-13.10.32:547][395]LogInit: XAudio2 using 'Casque (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.28-13.10.32:586][395]LogInit: FAudioDevice initialized.
+[2020.02.28-13.10.32:609][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-13.10.32:635][395]LogLoad: Game class is 'GameModeBase'
+[2020.02.28-13.10.32:641][395]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/salle_com/Blueprint/UEDPIE_0_test_BP.test_BP:PersistentLevel.Sphere_2.StaticMeshComponent0' 
+[2020.02.28-13.10.32:641][395]LogWorld: Bringing World /Game/salle_com/Blueprint/UEDPIE_0_test_BP.test_BP up for play (max tick rate 0) at 2020.02.28-14.10.32
+[2020.02.28-13.10.32:673][395]LogWorld: Bringing up level for play took: 0.037005
+[2020.02.28-13.10.32:674][395]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.02.28-13.10.32:676][395]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.02.28-13.10.32:689][395]PIE: Play in editor start time for /Game/salle_com/Blueprint/UEDPIE_0_test_BP 0,175
+[2020.02.28-13.10.32:703][395]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel' has LevelScriptBlueprint '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP' with GeneratedClass '/Game/salle_com/Blueprint/test_BP.test_BP_C' with ClassGeneratedBy '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP'
+[2020.02.28-13.10.32:703][395]LogEngine: Changing dynamic resolution state.
+[2020.02.28-13.10.32:711][395]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2020.02.28-13.10.32:854][397]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2020.02.28-13.11.02:934][  0]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel' has LevelScriptBlueprint '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP' with GeneratedClass '/Game/salle_com/Blueprint/test_BP.test_BP_C' with ClassGeneratedBy '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP'
+[2020.02.28-13.11.02:998][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-13.11.02:998][  0]LogWorld: BeginTearingDown for /Game/salle_com/Blueprint/UEDPIE_0_test_BP
+[2020.02.28-13.11.03:109][  0]LogSlate: Window 'MMI_VR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.28-13.11.03:113][  0]LogWorld: UWorld::CleanupWorld for test_BP, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-13.11.03:147][  0]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-13.11.03:147][  0]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel' has LevelScriptBlueprint '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP' with GeneratedClass '/Game/salle_com/Blueprint/test_BP.test_BP_C' with ClassGeneratedBy '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP'
+[2020.02.28-13.11.03:244][  0]LogUObjectHash: Compacting FUObjectHashTables data took   7.19ms
+[2020.02.28-13.11.03:302][  1]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.02.28-13.11.03:302][  1]LogEngine: Changing dynamic resolution state.
+[2020.02.28-13.11.08:840][222]LogEditorViewport: Clicking on Actor (LMB): BP_valide_C (BP_valide)
+[2020.02.28-13.11.10:635][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-13.11.25:014][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-13.11.25:137][895]LogTemp: Repeating last play command: VR Preview
+[2020.02.28-13.11.25:190][895]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel' has LevelScriptBlueprint '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP' with GeneratedClass '/Game/salle_com/Blueprint/test_BP.test_BP_C' with ClassGeneratedBy '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP'
+[2020.02.28-13.11.25:191][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.28-13.11.25:191][895]LogHMD: Initializing OVRPlugin session
+[2020.02.28-13.11.25:484][895]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2020.02.28-13.11.25:485][895]PIE: New page: PIE session: test_BP (28 févr. 2020 15:11:25)
+[2020.02.28-13.11.25:486][895]LogPlayLevel: Creating play world package: /Game/salle_com/Blueprint/UEDPIE_0_test_BP
+[2020.02.28-13.11.25:515][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030417s)
+[2020.02.28-13.11.25:517][895]LogAIModule: Creating AISystem for world test_BP
+[2020.02.28-13.11.25:517][895]LogPlayLevel: PIE: World Init took: (0.002196s)
+[2020.02.28-13.11.25:518][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/salle_com/Blueprint/test_BP.test_BP to /Game/salle_com/Blueprint/UEDPIE_0_test_BP.test_BP (0.032989s)
+[2020.02.28-13.11.25:598][895]LogUObjectHash: Compacting FUObjectHashTables data took   7.56ms
+[2020.02.28-13.11.25:746][895]LogInit: XAudio2 using 'Casque (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.28-13.11.25:776][895]LogInit: FAudioDevice initialized.
+[2020.02.28-13.11.25:803][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-13.11.25:862][895]LogLoad: Game class is 'GameModeBase'
+[2020.02.28-13.11.25:870][895]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/salle_com/Blueprint/UEDPIE_0_test_BP.test_BP:PersistentLevel.Sphere_2.StaticMeshComponent0' 
+[2020.02.28-13.11.25:871][895]LogWorld: Bringing World /Game/salle_com/Blueprint/UEDPIE_0_test_BP.test_BP up for play (max tick rate 0) at 2020.02.28-14.11.25
+[2020.02.28-13.11.25:872][895]LogWorld: Bringing up level for play took: 0.008891
+[2020.02.28-13.11.25:872][895]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.02.28-13.11.25:889][895]PIE: Play in editor start time for /Game/salle_com/Blueprint/UEDPIE_0_test_BP 1,376
+[2020.02.28-13.11.25:890][895]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel' has LevelScriptBlueprint '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP' with GeneratedClass '/Game/salle_com/Blueprint/test_BP.test_BP_C' with ClassGeneratedBy '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP'
+[2020.02.28-13.11.25:892][895]LogEngine: Changing dynamic resolution state.
+[2020.02.28-13.11.25:903][895]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2020.02.28-13.11.26:165][897]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2020.02.28-13.11.42:789][190]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel' has LevelScriptBlueprint '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP' with GeneratedClass '/Game/salle_com/Blueprint/test_BP.test_BP_C' with ClassGeneratedBy '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP'
+[2020.02.28-13.11.42:870][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-13.11.42:870][190]LogWorld: BeginTearingDown for /Game/salle_com/Blueprint/UEDPIE_0_test_BP
+[2020.02.28-13.11.42:953][190]LogSlate: Window 'MMI_VR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.28-13.11.42:959][190]LogWorld: UWorld::CleanupWorld for test_BP, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-13.11.42:994][190]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-13.11.42:995][190]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel' has LevelScriptBlueprint '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP' with GeneratedClass '/Game/salle_com/Blueprint/test_BP.test_BP_C' with ClassGeneratedBy '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP'
+[2020.02.28-13.11.43:097][190]LogUObjectHash: Compacting FUObjectHashTables data took   8.18ms
+[2020.02.28-13.11.43:133][191]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.02.28-13.11.43:133][191]LogEngine: Changing dynamic resolution state.
+[2020.02.28-13.11.46:155][293]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2020.02.28-13.11.54:785][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-13.12.02:814][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-13.12.02:997][684]LogTemp: Repeating last play command: VR Preview
+[2020.02.28-13.12.03:050][684]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel' has LevelScriptBlueprint '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP' with GeneratedClass '/Game/salle_com/Blueprint/test_BP.test_BP_C' with ClassGeneratedBy '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP'
+[2020.02.28-13.12.03:050][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.28-13.12.03:051][684]LogHMD: Initializing OVRPlugin session
+[2020.02.28-13.12.03:406][684]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2020.02.28-13.12.03:407][684]PIE: New page: PIE session: test_BP (28 févr. 2020 15:12:03)
+[2020.02.28-13.12.03:408][684]LogPlayLevel: Creating play world package: /Game/salle_com/Blueprint/UEDPIE_0_test_BP
+[2020.02.28-13.12.03:436][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027930s)
+[2020.02.28-13.12.03:438][684]LogAIModule: Creating AISystem for world test_BP
+[2020.02.28-13.12.03:438][684]LogPlayLevel: PIE: World Init took: (0.002691s)
+[2020.02.28-13.12.03:439][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/salle_com/Blueprint/test_BP.test_BP to /Game/salle_com/Blueprint/UEDPIE_0_test_BP.test_BP (0.030999s)
+[2020.02.28-13.12.03:514][684]LogUObjectHash: Compacting FUObjectHashTables data took   7.95ms
+[2020.02.28-13.12.03:690][684]LogInit: XAudio2 using 'Casque (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.28-13.12.03:725][684]LogInit: FAudioDevice initialized.
+[2020.02.28-13.12.03:749][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-13.12.03:806][684]LogLoad: Game class is 'GameModeBase'
+[2020.02.28-13.12.03:811][684]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/salle_com/Blueprint/UEDPIE_0_test_BP.test_BP:PersistentLevel.Sphere_2.StaticMeshComponent0' 
+[2020.02.28-13.12.03:812][684]LogWorld: Bringing World /Game/salle_com/Blueprint/UEDPIE_0_test_BP.test_BP up for play (max tick rate 0) at 2020.02.28-14.12.03
+[2020.02.28-13.12.03:813][684]LogWorld: Bringing up level for play took: 0.006107
+[2020.02.28-13.12.03:813][684]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.02.28-13.12.03:829][684]PIE: Play in editor start time for /Game/salle_com/Blueprint/UEDPIE_0_test_BP 1,316
+[2020.02.28-13.12.03:829][684]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel' has LevelScriptBlueprint '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP' with GeneratedClass '/Game/salle_com/Blueprint/test_BP.test_BP_C' with ClassGeneratedBy '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP'
+[2020.02.28-13.12.03:831][684]LogEngine: Changing dynamic resolution state.
+[2020.02.28-13.12.03:852][684]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2020.02.28-13.12.04:162][686]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2020.02.28-13.12.28:620][ 65]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel' has LevelScriptBlueprint '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP' with GeneratedClass '/Game/salle_com/Blueprint/test_BP.test_BP_C' with ClassGeneratedBy '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP'
+[2020.02.28-13.12.28:706][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-13.12.28:706][ 65]LogWorld: BeginTearingDown for /Game/salle_com/Blueprint/UEDPIE_0_test_BP
+[2020.02.28-13.12.28:820][ 65]LogSlate: Window 'MMI_VR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.28-13.12.28:824][ 65]LogWorld: UWorld::CleanupWorld for test_BP, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-13.12.28:852][ 65]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-13.12.28:853][ 65]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel' has LevelScriptBlueprint '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP' with GeneratedClass '/Game/salle_com/Blueprint/test_BP.test_BP_C' with ClassGeneratedBy '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP'
+[2020.02.28-13.12.28:949][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   7.37ms
+[2020.02.28-13.12.28:982][ 66]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.02.28-13.12.28:983][ 66]LogEngine: Changing dynamic resolution state.
+[2020.02.28-13.12.44:507][736]LogEditorViewport: Clicking on Actor (LMB): BP_MasterInfo_C (BP_MasterInfo)
+[2020.02.28-13.12.50:910][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-13.13.02:124][693]LogEditorViewport: Clicking on Actor (LMB): BP_obj_C (BP_obj)
+[2020.02.28-13.13.08:087][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-13.14.00:451][102]BlueprintLog: New page: Compile BP_valide
+[2020.02.28-13.14.00:871][102]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2020.02.28-13.14.07:636][489]LogTemp: Repeating last play command: VR Preview
+[2020.02.28-13.14.07:674][489]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel' has LevelScriptBlueprint '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP' with GeneratedClass '/Game/salle_com/Blueprint/test_BP.test_BP_C' with ClassGeneratedBy '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP'
+[2020.02.28-13.14.07:674][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.28-13.14.07:674][489]LogHMD: Initializing OVRPlugin session
+[2020.02.28-13.14.07:866][489]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2020.02.28-13.14.07:867][489]PIE: New page: PIE session: test_BP (28 févr. 2020 15:14:07)
+[2020.02.28-13.14.07:867][489]LogPlayLevel: Creating play world package: /Game/salle_com/Blueprint/UEDPIE_0_test_BP
+[2020.02.28-13.14.07:893][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025370s)
+[2020.02.28-13.14.07:894][489]LogAIModule: Creating AISystem for world test_BP
+[2020.02.28-13.14.07:895][489]LogPlayLevel: PIE: World Init took: (0.001975s)
+[2020.02.28-13.14.07:895][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/salle_com/Blueprint/test_BP.test_BP to /Game/salle_com/Blueprint/UEDPIE_0_test_BP.test_BP (0.027626s)
+[2020.02.28-13.14.07:968][489]LogUObjectHash: Compacting FUObjectHashTables data took   8.61ms
+[2020.02.28-13.14.08:103][489]LogInit: XAudio2 using 'Casque (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.28-13.14.08:128][489]LogInit: FAudioDevice initialized.
+[2020.02.28-13.14.08:155][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-13.14.08:214][489]LogLoad: Game class is 'GameModeBase'
+[2020.02.28-13.14.08:217][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/salle_com/Blueprint/UEDPIE_0_test_BP.test_BP:PersistentLevel.Sphere_2.StaticMeshComponent0' 
+[2020.02.28-13.14.08:220][489]LogWorld: Bringing World /Game/salle_com/Blueprint/UEDPIE_0_test_BP.test_BP up for play (max tick rate 0) at 2020.02.28-14.14.08
+[2020.02.28-13.14.08:221][489]LogWorld: Bringing up level for play took: 0.006155
+[2020.02.28-13.14.08:222][489]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.02.28-13.14.08:259][489]PIE: Play in editor start time for /Game/salle_com/Blueprint/UEDPIE_0_test_BP -0,254
+[2020.02.28-13.14.08:260][489]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel' has LevelScriptBlueprint '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP' with GeneratedClass '/Game/salle_com/Blueprint/test_BP.test_BP_C' with ClassGeneratedBy '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP'
+[2020.02.28-13.14.08:261][489]LogEngine: Changing dynamic resolution state.
+[2020.02.28-13.14.08:268][489]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2020.02.28-13.14.08:394][491]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2020.02.28-13.14.39:237][ 22]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel' has LevelScriptBlueprint '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP' with GeneratedClass '/Game/salle_com/Blueprint/test_BP.test_BP_C' with ClassGeneratedBy '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP'
+[2020.02.28-13.14.39:304][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-13.14.39:304][ 22]LogWorld: BeginTearingDown for /Game/salle_com/Blueprint/UEDPIE_0_test_BP
+[2020.02.28-13.14.39:395][ 22]LogSlate: Window 'MMI_VR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.28-13.14.39:399][ 22]LogWorld: UWorld::CleanupWorld for test_BP, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-13.14.39:435][ 22]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-13.14.39:436][ 22]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel' has LevelScriptBlueprint '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP' with GeneratedClass '/Game/salle_com/Blueprint/test_BP.test_BP_C' with ClassGeneratedBy '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP'
+[2020.02.28-13.14.39:552][ 22]LogUObjectHash: Compacting FUObjectHashTables data took  17.21ms
+[2020.02.28-13.14.39:610][ 23]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.02.28-13.14.39:610][ 23]LogEngine: Changing dynamic resolution state.
+[2020.02.28-13.14.44:505][199]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2020.02.28-13.14.50:222][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-13.14.50:492][364]LogUObjectHash: Compacting FUObjectHashTables data took   7.16ms
+[2020.02.28-13.14.51:276][364]LogSavePackage: Moving '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Saved/test_BP3503AF0B4AABFE7E5C3F289EFC7FCEC4.tmp' to '../../../../../../Damien/Documents/Unreal Projects/MMI_VR/Content/salle_com/Blueprint/test_BP.umap'
+[2020.02.28-13.14.52:166][388]LogTemp: Repeating last play command: VR Preview
+[2020.02.28-13.14.52:216][388]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel' has LevelScriptBlueprint '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP' with GeneratedClass '/Game/salle_com/Blueprint/test_BP.test_BP_C' with ClassGeneratedBy '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP'
+[2020.02.28-13.14.52:216][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.28-13.14.52:216][388]LogHMD: Initializing OVRPlugin session
+[2020.02.28-13.14.52:490][388]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2020.02.28-13.14.52:491][388]PIE: New page: PIE session: test_BP (28 févr. 2020 15:14:52)
+[2020.02.28-13.14.52:492][388]LogPlayLevel: Creating play world package: /Game/salle_com/Blueprint/UEDPIE_0_test_BP
+[2020.02.28-13.14.52:523][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031194s)
+[2020.02.28-13.14.52:525][388]LogAIModule: Creating AISystem for world test_BP
+[2020.02.28-13.14.52:526][388]LogPlayLevel: PIE: World Init took: (0.002895s)
+[2020.02.28-13.14.52:526][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/salle_com/Blueprint/test_BP.test_BP to /Game/salle_com/Blueprint/UEDPIE_0_test_BP.test_BP (0.034607s)
+[2020.02.28-13.14.52:616][388]LogUObjectHash: Compacting FUObjectHashTables data took   9.43ms
+[2020.02.28-13.14.52:811][388]LogInit: XAudio2 using 'Casque (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.28-13.14.52:839][388]LogInit: FAudioDevice initialized.
+[2020.02.28-13.14.52:863][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-13.14.52:927][388]LogLoad: Game class is 'GameModeBase'
+[2020.02.28-13.14.52:935][388]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/salle_com/Blueprint/UEDPIE_0_test_BP.test_BP:PersistentLevel.Sphere_2.StaticMeshComponent0' 
+[2020.02.28-13.14.52:936][388]LogWorld: Bringing World /Game/salle_com/Blueprint/UEDPIE_0_test_BP.test_BP up for play (max tick rate 0) at 2020.02.28-14.14.52
+[2020.02.28-13.14.52:937][388]LogWorld: Bringing up level for play took: 0.008069
+[2020.02.28-13.14.52:937][388]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.02.28-13.14.52:953][388]PIE: Play in editor start time for /Game/salle_com/Blueprint/UEDPIE_0_test_BP 0,44
+[2020.02.28-13.14.52:954][388]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel' has LevelScriptBlueprint '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP' with GeneratedClass '/Game/salle_com/Blueprint/test_BP.test_BP_C' with ClassGeneratedBy '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP'
+[2020.02.28-13.14.52:954][388]LogEngine: Changing dynamic resolution state.
+[2020.02.28-13.14.52:964][388]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2020.02.28-13.14.53:120][390]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2020.02.28-13.15.21:734][902]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel' has LevelScriptBlueprint '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP' with GeneratedClass '/Game/salle_com/Blueprint/test_BP.test_BP_C' with ClassGeneratedBy '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP'
+[2020.02.28-13.15.21:814][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-13.15.21:814][902]LogWorld: BeginTearingDown for /Game/salle_com/Blueprint/UEDPIE_0_test_BP
+[2020.02.28-13.15.21:905][902]LogSlate: Window 'MMI_VR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.28-13.15.21:909][902]LogWorld: UWorld::CleanupWorld for test_BP, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-13.15.21:935][902]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-13.15.21:935][902]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel' has LevelScriptBlueprint '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP' with GeneratedClass '/Game/salle_com/Blueprint/test_BP.test_BP_C' with ClassGeneratedBy '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP'
+[2020.02.28-13.15.22:035][902]LogUObjectHash: Compacting FUObjectHashTables data took   7.96ms
+[2020.02.28-13.15.22:078][903]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.02.28-13.15.22:078][903]LogEngine: Changing dynamic resolution state.
+[2020.02.28-13.15.55:177][742]LogEditorViewport: Clicking on Actor (LMB): BP_obj_C (BP_obj)
+[2020.02.28-13.15.58:550][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-13.16.03:099][194]LogEditorViewport: Clicking on Actor (LMB): BP_obj_C (BP_obj2)
+[2020.02.28-13.16.05:746][339]LogEditorViewport: Clicking on Actor (LMB): BP_obj_C (BP_obj)
+[2020.02.28-13.16.07:641][442]LogEditorViewport: Clicking on Actor (LMB): BP_obj_C (BP_obj2)
+[2020.02.28-13.16.15:242][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-13.17.11:033][224]LogTemp: Repeating last play command: VR Preview
+[2020.02.28-13.17.11:081][224]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel' has LevelScriptBlueprint '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP' with GeneratedClass '/Game/salle_com/Blueprint/test_BP.test_BP_C' with ClassGeneratedBy '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP'
+[2020.02.28-13.17.11:082][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.28-13.17.11:082][224]LogHMD: Initializing OVRPlugin session
+[2020.02.28-13.17.11:288][224]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2020.02.28-13.17.11:289][224]PIE: New page: PIE session: test_BP (28 févr. 2020 15:17:11)
+[2020.02.28-13.17.11:289][224]LogPlayLevel: Creating play world package: /Game/salle_com/Blueprint/UEDPIE_0_test_BP
+[2020.02.28-13.17.11:318][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028841s)
+[2020.02.28-13.17.11:320][224]LogAIModule: Creating AISystem for world test_BP
+[2020.02.28-13.17.11:320][224]LogPlayLevel: PIE: World Init took: (0.002029s)
+[2020.02.28-13.17.11:320][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/salle_com/Blueprint/test_BP.test_BP to /Game/salle_com/Blueprint/UEDPIE_0_test_BP.test_BP (0.031142s)
+[2020.02.28-13.17.11:393][224]LogUObjectHash: Compacting FUObjectHashTables data took   6.68ms
+[2020.02.28-13.17.11:536][224]LogInit: XAudio2 using 'Casque (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.28-13.17.11:565][224]LogInit: FAudioDevice initialized.
+[2020.02.28-13.17.11:589][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-13.17.11:631][224]LogLoad: Game class is 'GameModeBase'
+[2020.02.28-13.17.11:637][224]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/salle_com/Blueprint/UEDPIE_0_test_BP.test_BP:PersistentLevel.Sphere_2.StaticMeshComponent0' 
+[2020.02.28-13.17.11:638][224]LogWorld: Bringing World /Game/salle_com/Blueprint/UEDPIE_0_test_BP.test_BP up for play (max tick rate 0) at 2020.02.28-14.17.11
+[2020.02.28-13.17.11:639][224]LogWorld: Bringing up level for play took: 0.006654
+[2020.02.28-13.17.11:640][224]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.02.28-13.17.11:642][224]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.02.28-13.17.11:653][224]PIE: Play in editor start time for /Game/salle_com/Blueprint/UEDPIE_0_test_BP 1,14
+[2020.02.28-13.17.11:653][224]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel' has LevelScriptBlueprint '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP' with GeneratedClass '/Game/salle_com/Blueprint/test_BP.test_BP_C' with ClassGeneratedBy '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP'
+[2020.02.28-13.17.11:654][224]LogEngine: Changing dynamic resolution state.
+[2020.02.28-13.17.11:663][224]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2020.02.28-13.17.11:737][226]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2020.02.28-13.17.41:593][814]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel' has LevelScriptBlueprint '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP' with GeneratedClass '/Game/salle_com/Blueprint/test_BP.test_BP_C' with ClassGeneratedBy '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP'
+[2020.02.28-13.17.41:688][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-13.17.41:688][814]LogWorld: BeginTearingDown for /Game/salle_com/Blueprint/UEDPIE_0_test_BP
+[2020.02.28-13.17.41:777][814]LogSlate: Window 'MMI_VR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.28-13.17.41:781][814]LogWorld: UWorld::CleanupWorld for test_BP, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-13.17.41:821][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-13.17.41:821][814]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel' has LevelScriptBlueprint '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP' with GeneratedClass '/Game/salle_com/Blueprint/test_BP.test_BP_C' with ClassGeneratedBy '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP'
+[2020.02.28-13.17.41:927][814]LogUObjectHash: Compacting FUObjectHashTables data took   8.90ms
+[2020.02.28-13.17.41:996][815]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.02.28-13.17.41:996][815]LogEngine: Changing dynamic resolution state.
+[2020.02.28-13.19.16:721][361]BlueprintLog: New page: Compile BP_obj
+[2020.02.28-13.19.17:081][361]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2020.02.28-13.19.18:747][456]LogTemp: Repeating last play command: VR Preview
+[2020.02.28-13.19.18:781][456]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel' has LevelScriptBlueprint '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP' with GeneratedClass '/Game/salle_com/Blueprint/test_BP.test_BP_C' with ClassGeneratedBy '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP'
+[2020.02.28-13.19.18:781][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.28-13.19.18:781][456]LogHMD: Initializing OVRPlugin session
+[2020.02.28-13.19.18:978][456]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2020.02.28-13.19.18:979][456]PIE: New page: PIE session: test_BP (28 févr. 2020 15:19:18)
+[2020.02.28-13.19.18:979][456]LogPlayLevel: Creating play world package: /Game/salle_com/Blueprint/UEDPIE_0_test_BP
+[2020.02.28-13.19.19:018][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039110s)
+[2020.02.28-13.19.19:019][456]LogAIModule: Creating AISystem for world test_BP
+[2020.02.28-13.19.19:020][456]LogPlayLevel: PIE: World Init took: (0.002049s)
+[2020.02.28-13.19.19:020][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/salle_com/Blueprint/test_BP.test_BP to /Game/salle_com/Blueprint/UEDPIE_0_test_BP.test_BP (0.041471s)
+[2020.02.28-13.19.19:090][456]LogUObjectHash: Compacting FUObjectHashTables data took   9.18ms
+[2020.02.28-13.19.19:212][456]LogInit: XAudio2 using 'Casque (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.28-13.19.19:236][456]LogInit: FAudioDevice initialized.
+[2020.02.28-13.19.19:262][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-13.19.19:289][456]LogLoad: Game class is 'GameModeBase'
+[2020.02.28-13.19.19:293][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/salle_com/Blueprint/UEDPIE_0_test_BP.test_BP:PersistentLevel.Sphere_2.StaticMeshComponent0' 
+[2020.02.28-13.19.19:294][456]LogWorld: Bringing World /Game/salle_com/Blueprint/UEDPIE_0_test_BP.test_BP up for play (max tick rate 0) at 2020.02.28-14.19.19
+[2020.02.28-13.19.19:295][456]LogWorld: Bringing up level for play took: 0.005038
+[2020.02.28-13.19.19:295][456]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.02.28-13.19.19:297][456]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.02.28-13.19.19:309][456]PIE: Play in editor start time for /Game/salle_com/Blueprint/UEDPIE_0_test_BP 0,796
+[2020.02.28-13.19.19:310][456]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel' has LevelScriptBlueprint '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP' with GeneratedClass '/Game/salle_com/Blueprint/test_BP.test_BP_C' with ClassGeneratedBy '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP'
+[2020.02.28-13.19.19:311][456]LogEngine: Changing dynamic resolution state.
+[2020.02.28-13.19.19:321][456]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2020.02.28-13.19.19:467][458]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2020.02.28-13.19.56:488][169]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel' has LevelScriptBlueprint '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP' with GeneratedClass '/Game/salle_com/Blueprint/test_BP.test_BP_C' with ClassGeneratedBy '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP'
+[2020.02.28-13.19.56:548][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-13.19.56:548][169]LogWorld: BeginTearingDown for /Game/salle_com/Blueprint/UEDPIE_0_test_BP
+[2020.02.28-13.19.56:617][169]LogSlate: Window 'MMI_VR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.28-13.19.56:622][169]LogWorld: UWorld::CleanupWorld for test_BP, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-13.19.56:646][169]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-13.19.56:646][169]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel' has LevelScriptBlueprint '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP' with GeneratedClass '/Game/salle_com/Blueprint/test_BP.test_BP_C' with ClassGeneratedBy '/Game/salle_com/Blueprint/test_BP.test_BP:PersistentLevel.test_BP'
+[2020.02.28-13.19.56:747][169]LogUObjectHash: Compacting FUObjectHashTables data took   9.74ms
+[2020.02.28-13.19.56:784][170]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.02.28-13.19.56:784][170]LogEngine: Changing dynamic resolution state.
+[2020.02.28-13.20.10:367][940]BlueprintLog: New page: Compile BP_valide
+[2020.02.28-13.20.10:794][940]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
